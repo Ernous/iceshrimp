@@ -1,14 +1,17 @@
-import { exec } from "node:child_process";
-import { promisify } from "node:util";
+import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import zlib from "node:zlib";
 
-const execPromise = promisify(exec);
+function compressDir(dir, pattern) {
+	console.log(`compressing ${dir}`);
+	for (const file of readdirSync(dir)) {
+		if (!pattern.test(file)) continue;
+		const filePath = join(dir, file);
+		const buf = readFileSync(filePath);
+		const compressed = zlib.brotliCompressSync(buf);
+		writeFileSync(filePath + ".br", compressed);
+	}
+}
 
-console.log("compressing client");
-await execPromise("brotli -f *.js *.json *.css", {
-	cwd: join(import.meta.dirname, "../built/_client_dist_"),
-});
-console.log("compressing service worker");
-await execPromise("brotli -f sw.js", {
-	cwd: join(import.meta.dirname, "../built/_sw_dist_"),
-});
+compressDir(join(import.meta.dirname, "../built/_client_dist_"), /\.(js|json|css)$/);
+compressDir(join(import.meta.dirname, "../built/_sw_dist_"), /^sw\.js$/);

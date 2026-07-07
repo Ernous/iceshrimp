@@ -18,8 +18,9 @@
 </template>
 
 <script lang="ts" setup>
-import {} from "vue";
-import MkTooltip from "./MkTooltip.vue";
+import { defineAsyncComponent } from "vue";
+
+const MkTooltip = defineAsyncComponent(() => import("./MkTooltip.vue"));
 import XReactionIcon from "@/components/MkReactionIcon.vue";
 
 const props = defineProps<{

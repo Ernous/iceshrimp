@@ -17,13 +17,13 @@
 <script lang="ts">
 import {
 	defineComponent,
+	defineAsyncComponent,
 	onMounted,
 	nextTick,
 	onUnmounted,
 	PropType,
 } from "vue";
 import { Parser } from "@syuilo/aiscript";
-import XBlock from "./page.block.vue";
 import { Hpml } from "@/scripts/hpml/evaluator";
 import { url } from "@/config";
 import { $i } from "@/account";
@@ -31,7 +31,7 @@ import { defaultStore } from "@/store";
 
 export default defineComponent({
 	components: {
-		XBlock,
+		XBlock: defineAsyncComponent(() => import("./page.block.vue")),
 	},
 	props: {
 		page: {

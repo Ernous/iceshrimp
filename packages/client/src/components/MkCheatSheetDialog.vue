@@ -11,11 +11,12 @@
 </template>
 
 <script lang="ts" setup>
-import { ref } from 'vue'
+import { ref, defineAsyncComponent } from 'vue'
 
 import XModalWindow from "@/components/MkModalWindow.vue";
-import XCheatSheet from "@/pages/mfm-cheat-sheet.vue";
 import { i18n } from "@/i18n";
+
+const XCheatSheet = defineAsyncComponent(() => import("@/pages/mfm-cheat-sheet.vue"));
 
 const emit = defineEmits<{
 	(ev: "done"): void;

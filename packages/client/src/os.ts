@@ -369,11 +369,7 @@ export function yesno(props: {
 }): Promise<{ canceled: boolean }> {
 	return new Promise((resolve, reject) => {
 		popup(
-			defineAsyncComponent({
-				loader: () => import("@/components/MkDialog.vue"),
-				loadingComponent: MkWaitingDialog,
-				delay: 1000,
-			}),
+			MkDialog,
 			{
 				...props,
 				showCancelButton: true,
@@ -444,11 +440,7 @@ export function inputParagraph(props: {
 > {
 	return new Promise((resolve, reject) => {
 		popup(
-			defineAsyncComponent({
-				loader: () => import("@/components/MkDialog.vue"),
-				loadingComponent: MkWaitingDialog,
-				delay: 1000,
-			}),
+			MkDialog,
 			{
 				title: props.title,
 				text: props.text,
@@ -483,11 +475,7 @@ export function inputNumber(props: {
 > {
 	return new Promise((resolve, reject) => {
 		popup(
-			defineAsyncComponent({
-				loader: () => import("@/components/MkDialog.vue"),
-				loadingComponent: MkWaitingDialog,
-				delay: 1000,
-			}),
+			MkDialog,
 			{
 				title: props.title,
 				text: props.text,

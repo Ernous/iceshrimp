@@ -162,8 +162,8 @@
 <script lang="ts" setup>
 import { defineAsyncComponent, computed, provide, watch, ref } from 'vue';
 import { v4 as uuid } from "uuid";
-import XVariable from "./page-editor.script-block.vue";
-import XBlocks from "./page-editor.blocks.vue";
+const XVariable = defineAsyncComponent(() => import("./page-editor.script-block.vue"));
+const XBlocks = defineAsyncComponent(() => import("./page-editor.blocks.vue"));
 import MkTextarea from "@/components/form/textarea.vue";
 import MkButton from "@/components/MkButton.vue";
 import MkSelect from "@/components/form/select.vue";

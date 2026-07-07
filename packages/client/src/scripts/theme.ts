@@ -13,6 +13,8 @@ export type Theme = {
 
 import lightTheme from "@/themes/_light.json5";
 import darkTheme from "@/themes/_dark.json5";
+import lightThemeBasic from "@/themes/l-iceshrimp.json5";
+import darkThemeBasic from "@/themes/d-iceshrimp.json5";
 import { deepClone } from "./clone";
 import { defaultStore } from "@/store";
 
@@ -23,7 +25,6 @@ export const themeProps = Object.keys(lightTheme.props).filter(
 export const getBuiltinThemes = () =>
 	Promise.all(
 		[
-			"l-iceshrimp",
 			"l-rosepinedawn",
 			"l-light",
 			"l-nord",
@@ -36,7 +37,6 @@ export const getBuiltinThemes = () =>
 			"l-sushi",
 			"l-u0",
 
-			"d-iceshrimp",
 			"d-rosepine",
 			"d-rosepinemoon",
 			"d-dark",
@@ -58,7 +58,7 @@ export const getBuiltinThemes = () =>
 				({ default: _default }): Theme => _default,
 			),
 		),
-	);
+	).then(themes => [...themes, lightThemeBasic, darkThemeBasic]);
 
 export const getBuiltinThemesRef = () => {
 	const builtinThemes = ref<Theme[]>([]);

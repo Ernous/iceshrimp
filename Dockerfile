@@ -4,7 +4,7 @@ LABEL stage=build
 WORKDIR /iceshrimp
 
 # Install compilation dependencies
-RUN apk add --no-cache --no-progress git alpine-sdk python3 py3-setuptools linux-headers brotli
+RUN apk add --no-cache --no-progress git alpine-sdk python3 py3-setuptools linux-headers
 
 # Copy package files + bunfig (нужен для @iceshrimp scoped registry)
 COPY package.json bunfig.toml ./
