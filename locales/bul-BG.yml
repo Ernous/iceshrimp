@@ -1,0 +1,823 @@
+username: Потребителско име
+password: Парола
+ok: Добре
+_lang_: Български
+forgotPassword: Забравена парола
+error: Грешка
+search: Търсене
+notifications: Известия
+fetchingAsApObject: Извличане от Федивселената
+gotIt: Разбрах!
+cancel: Отказ
+noThankYou: Не, благодаря
+enterUsername: Въведи потребителско име
+noNotes: Няма публикации
+noNotifications: Няма известия
+instance: Сървър
+settings: Настройки
+basicSettings: Основни Настройки
+otherSettings: Други Настройки
+profile: Профил
+timeline: Инфопоток
+noAccountDescription: Този потребител все още не е написал своята биография.
+login: Вписване
+loggingIn: Влизане
+logout: Отписване
+signup: Регистриране
+uploading: Качване…
+save: Запазване
+users: Потребители
+addUser: Добавяне на потребител
+addInstance: Добавяне на сървър
+favorite: Добавяне към отметките
+favorites: Отметки
+alreadyFavorited: Вече е добавено към отметките.
+cantFavorite: Неуспешно добавяне към отметките.
+unpin: Откачане от профила
+copyLink: Копиране на връзката
+delete: Изтриване
+deleted: Изтрито
+deleteAndEdit: Изтриване и редактиране
+edited: Редактирано на {date} {time}
+addToList: Добавяне към списък
+sendMessage: Изпращане на съобщение
+copyUsername: Копиране на потребителското име
+searchUser: Търсене на потребител
+reply: Отговор
+jumpToPrevious: Премини към предишно
+loadMore: Зареди още
+showMore: Покажи още
+newer: по-ново
+receiveFollowRequest: Заявка за последване получена
+mention: Споменаване
+mentions: Споменавания
+directNotes: Директни съобщения
+cw: Предупреждение за съдържание
+importAndExport: Импорт/Експорт на Данни
+import: Импортиране
+files: Файлове
+download: Изтегляне
+lists: Списъци
+noLists: Нямаш никакви списъци
+note: Публикуване
+following: Последвани
+followers: Последователи
+followsYou: Следва те
+createList: Създаване на списък
+privacy: Поверителност
+follow: Последване
+followRequest: Заявка за последване
+followRequests: Заявки за последване
+unfollow: Отследване
+enterEmoji: Въведи емоджи
+quote: Цитиране
+pinnedNote: Закачена публикация
+pinned: Закачено в профила
+you: Ти
+clickToShow: Щракни за показване
+add: Добавяне
+reaction: Реакции
+enterFileName: Въведи име на файл
+block: Блокиране
+unblock: Отблокиране
+emojiName: Име на емоджи
+emojiUrl: URL адрес на емоджи
+addEmoji: Добавяне
+flagSpeakAsCat: Говорене като котка
+flagShowTimelineReplies: Показване на отговори в инфопотока
+addAccount: Добавяне на акаунт
+showOnRemote: Отваряне на оригиналната страница
+general: Общи
+emoji: Емоджи
+emojis: Емоджита
+wallpaper: Тапет
+setWallpaper: Задаване на тапет
+searchWith: 'Търсене: {q}'
+youHaveNoLists: Нямаш никакви списъци
+host: Хост
+selectUser: Избор на потребител
+recipient: Получател(и)
+instances: Сървъри
+registeredAt: Регистриран на
+latestRequestSentAt: Последно изпратена заявка
+blockThisInstance: Блокиране на този сървър
+operations: Операции
+version: Версия
+metadata: Метаданни
+disk: Диск
+instanceInfo: Информация за сървъра
+statistics: Статистика
+noUsers: Няма потребители
+noInstances: Няма сървъри
+editProfile: Редактиране на профила
+done: Готово
+preview: Преглед
+default: По подразбиране
+defaultValueIs: 'По подразбиране: {value}'
+federating: Федериране
+instanceFollowers: Последователи на сървъра
+instanceUsers: Потребители на този сървър
+changePassword: Промяна на паролата
+security: Сигурност
+newPassword: Нова парола
+more: Още
+featured: Представени
+noSuchUser: Потребителят не е намерен
+upload: Качване
+explore: Разглеждане
+start: Започване
+activity: Дейност
+images: Изображения
+birthday: Рожден ден
+yearsOld: на {age} години
+location: Местоположение
+theme: Теми
+light: Светла
+dark: Тъмна
+lightThemes: Светли теми
+darkThemes: Тъмни теми
+fileName: Име на файл
+selectFile: Избор на файл
+selectFiles: Избор на файлове
+selectFolder: Избор на папка
+selectFolders: Избор на папки
+renameFile: Преименуване на файла
+folderName: Име на папка
+createFolder: Създаване на папка
+renameFolder: Преименуване на тази папка
+addFile: Добавяне на файл
+emptyFolder: Тази папка е празна
+inputNewFileName: Въведи ново име на файл
+inputNewFolderName: Въведи ново име на папка
+copyUrl: Копиране на URL адреса
+rename: Преименуване
+reload: Опресняване
+thisYear: Година
+thisMonth: Месец
+today: Днес
+dayX: '{day}'
+monthX: '{month}'
+yearX: '{year}'
+pages: Страници
+integration: Интеграции
+registration: Регистрация
+markAsReadAllUnreadNotes: Маркиране на всички публикации като прочетени
+markAsReadAllTalkMessages: Маркиране на всички съобщения като прочетени
+help: Помощ
+inputMessageHere: Въведи съобщение тук
+close: Затваряне
+group: Група
+groups: Групи
+invites: Покани
+members: Членове
+messagingWithGroup: Групов чат
+title: Заглавие
+text: Текст
+enable: Включване
+next: Следващо
+retype: Въведи отново
+noMessagesYet: Все още няма съобщения
+newMessageExists: Има нови съобщения
+invitations: Покани
+invitationCode: Код на поканата
+available: Свободно
+tooShort: Твърде кратко
+tooLong: Твърде дълго
+weakPassword: Слаба парола
+normalPassword: Средна парола
+strongPassword: Силна парола
+signinHistory: История на вписванията
+passwordNotMatched: Не съвпада
+or: Или
+language: Език
+aboutX: Относно {x}
+unfavorite: Премахване от отметките
+favorited: Добавено към отметките.
+copyContent: Копиране на съдържанието
+monthAndDay: '{day}/{month}'
+deleteAndEditConfirm: Сигурен ли си, че искаш да изтриеш тази публикация и да я редактираш?
+  Ще загубиш всички реакции, подсилвания и отговори към нея.
+older: по-старо
+followRequestAccepted: Заявка за последване приета
+export: Експортиране
+notes: Публикации
+manageLists: Управление на списъци
+retry: Повторен опит
+defaultNoteVisibility: Видимост по подразбиране
+followRequestPending: Заявка за последване в изчакване
+removeReaction: Премахване на реакцията
+editWidgetsExit: Готово
+flagAsCat: Котка ли си? 😺
+loginFailed: Неуспешно вписване
+removeWallpaper: Премахване на тапета
+selectInstance: Избор на сървър
+latestRequestReceivedAt: Последно получена заявка
+stopActivityDelivery: Спиране на изпращането на дейности
+software: Софтуер
+blockedInstances: Блокирани сървъри
+pinLimitExceeded: Не може да закачаш повече публикации
+instanceFollowing: Последвани на сървъра
+currentPassword: Текуща парола
+keepOriginalUploading: Запазване на оригиналното изображение
+themeForLightMode: Тема за използване в светъл режим
+themeForDarkMode: Тема за използване в тъмен режим
+syncDeviceDarkMode: Синхронизиране на тъмния режим с настройките на устройството
+deleteFolder: Изтриване на тази папка
+hasChildFilesOrFolders: Тъй като тази папка не е празна, тя не може да бъде изтрита.
+signinRequired: Моля, регистрирайте се или се впишете, преди да продължите
+signinFailed: Неуспешно вписване. Въведените потребителско име или парола са неправилни.
+emailRequiredForSignup: Изискване на адрес на ел. поща за регистриране
+createGroup: Създаване на група
+noteOf: Публикация от {user}
+unavailable: Не е свободно
+passwordMatched: Съвпада
+unmarkAsSensitive: Отмаркиране като деликатно
+introIceshrimp: Добре дошли! Iceshrimp е децентрализирана социална медийна платформа
+  с отворен код, която е безплатна завинаги! 🚀
+headlineIceshrimp: Децентрализирана социална медийна платформа с отворен код, която
+  е безплатна завинаги! 🚀
+searchPlaceholder: Търсене във Федивселената
+pin: Закачане в профила
+youGotNewFollower: те последва
+showLess: Покажи по-малко
+markAsSensitive: Маркиране като деликатно
+clearCachedFiles: Изчистване на кеша
+inMb: В мегабайти
+pinnedUsers: Закачени потребители
+pinnedNotes: Закачени публикации
+hcaptcha: hCaptcha
+enableHcaptcha: Включване на hCaptcha
+recaptcha: reCAPTCHA
+enableRecaptcha: Включване на reCAPTCHA
+license: Лиценз
+_theme:
+  explore: Разглеждане на темите
+  description: Описание
+  color: Цвят
+  key: Ключ
+  func: Функции
+  argument: Аргумент
+  defaultValue: Стойност по подразбиране
+  installedThemes: Инсталирани теми
+  keys:
+    link: Връзка
+    hashtag: Хаштаг
+    mention: Споменаване
+    fg: Текст
+    renote: Подсилване
+  manage: Управление на темите
+  install: Инсталиране на тема
+  code: Код на темата
+  builtinThemes: Вградени теми
+  constant: Константа
+  addConstant: Добавяне на константа
+_time:
+  second: Секунди
+  minute: Минути
+  hour: Часа
+  day: Дни
+_ago:
+  future: Бъдеще
+  justNow: Току-що
+  secondsAgo: преди {n}сек
+  minutesAgo: преди {n}мин
+  hoursAgo: преди {n}ч
+  daysAgo: преди {n}д
+  weeksAgo: преди {n}сед
+  monthsAgo: преди {n}мес
+  yearsAgo: преди {n}г
+_tutorial:
+  step1_1: Добре дошли!
+  step1_2: Нека да ви настроим. Ще бъдете готови за нула време!
+  step3_1: Сега е време да последвате няколко хора!
+  title: Как се използва Iceshrimp
+  step2_1: Първо, моля, попълнете своя профил.
+  step2_2: Предоставянето на известна информация за това кой сте вие ще улесни другите
+    да разберат дали искат да видят вашите публикации или да ви следват.
+  step4_2: За първата си публикация някои хора обичат да правят публикация {introduction}
+    или просто „Здравей свят!“
+  step5_2: Вашият сървър има активирани {timelines} различни инфопотоци.
+  step5_3: Началният {icon} инфопоток е мястото, където можеш да видиш публикации
+    от акаунтите, които следваш.
+  step5_4: Местният {icon} инфопоток е мястото, където можеш да видиш публикации от
+    всички останали на този сървър.
+  step5_5: Социалният {icon} инфопоток е комбинация от Началния и Местния инфопоток.
+  step5_6: Препоръчаният {icon} инфопоток е мястото, където можеш да видиш публикации
+    от сървъри, препоръчани от администраторите.
+  step6_1: И така, какво е това място?
+  step6_4: Сега отидете, изследвайте и се забавлявайте!
+  step6_3: Всеки сървър работи по различни начини и не всички сървъри работят с Iceshrimp.
+    Този обаче го прави! Малко е сложно, но ще разберете за нула време.
+  step5_7: Глобалният {icon} инфопоток е мястото, където можете да видиш публикации
+    от всеки друг свързан сървър.
+_filters:
+  fromUser: От потребител
+  notesBefore: Публикации преди
+  notesAfter: Публикации след
+  followingOnly: Само последвани
+  followersOnly: Само последователи
+  _dialog:
+    word: дума
+_permissions:
+  "write:favorites": Редактирай списъка си с отметки
+  "read:favorites": Виж списъка си с отметки
+_2fa:
+  renewTOTPCancel: Отказ
+_widgets:
+  timeline: Инфопоток
+  calendar: Календар
+  digitalClock: Дигитален часовник
+  clock: Часовник
+  notifications: Известия
+  button: Бутон
+  photos: Снимки
+  unixClock: UNIX часовник
+  activity: Дейност
+  slideshow: Слайдшоу
+  trends: Актуални
+  _userList:
+    chooseList: Избор на списък
+_profile:
+  description: Биография
+  metadata: Допълнителна информация
+  metadataContent: Съдържание
+  name: Име
+  username: Потребителско име
+  metadataEdit: Редактиране на допълнителната информация
+  changeAvatar: Промяна на профилната снимка
+  metadataLabel: Етикет
+_timelines:
+  recommended: Препоръчани
+  local: Местни
+  social: Социални
+  global: Глобални
+  home: Начало
+_pages:
+  blocks:
+    _numberInput:
+      default: Стойност по подразбиране
+      text: Заглавие
+    _switch:
+      default: Стойност по подразбиране
+      text: Заглавие
+    _radioButton:
+      default: Стойност по подразбиране
+      title: Заглавие
+    _textInput:
+      default: Стойност по подразбиране
+      text: Заглавие
+    _textareaInput:
+      default: Стойност по подразбиране
+      text: Заглавие
+    button: Бутон
+    if: Ако
+    image: Изображения
+    text: Текст
+    _post:
+      text: Съдържание
+    _button:
+      _action:
+        _dialog:
+          content: Съдържание
+      text: Заглавие
+    _counter:
+      text: Заглавие
+      inc: Стъпка
+    _if:
+      variable: Променлива
+  script:
+    categories:
+      list: Списъци
+      value: Стойности
+      fn: Функции
+    blocks:
+      _join:
+        arg1: Списъци
+      add: Добави
+      _dailyRannum:
+        arg1: Минимална стойност
+        arg2: Максимална стойност
+      _seedRannum:
+        arg2: Минимална стойност
+        arg3: Максимална стойност
+      _rannum:
+        arg1: Минимална стойност
+        arg2: Максимална стойност
+      text: Текст
+      _strLen:
+        arg1: Текст
+      _strPick:
+        arg1: Текст
+      _strReplace:
+        arg1: Текст
+      _strReverse:
+        arg1: Текст
+      _if:
+        arg2: Тогава
+        arg3: Иначе
+        arg1: Ако
+      _stringToNumber:
+        arg1: Текст
+      _splitStrByLine:
+        arg1: Текст
+      ref: Променлива
+      fn: Функция
+      _listLen:
+        arg1: Списък
+      _dailyRandomPick:
+        arg1: Списък
+      _seedRandomPick:
+        arg2: Списък
+      _pick:
+        arg1: Списък
+      _randomPick:
+        arg1: Списък
+    types:
+      string: Текст
+      array: Списък
+  contentBlocks: Съдържание
+  created: Страницата е създадена успешно
+  deleted: Страницата е изтрита успешно
+  newPage: Създаване на нова страница
+  editPage: Редактиране на тази страница
+  featured: Популярни
+  like: Харесване
+  contents: Съдържание
+  font: Шрифт
+  title: Заглавие
+  liked: Харесани страници
+  my: Моите страници
+  pageSetting: Настройки на страницата
+  editThisPage: Редактиране на тази страница
+  updated: Страницата е редактирана успешно
+aboutIceshrimp: Относно Iceshrimp
+token: Токен
+moderator: Модератор
+moderation: Модерация
+userList: Списъци
+_deck:
+  _columns:
+    tl: Инфопоток
+    direct: Директни съобщения
+    notifications: Известия
+    antenna: Антена
+    list: Списък
+  addColumn: Добавяне на колона
+createNewClip: Създай нова подборка
+unclip: Премахни от подборка
+repliesCount: Брой изпратени отговори
+repliedCount: Брой получени отговори
+followersCount: Брой последователи
+sentReactionsCount: Брой изпратени реакции
+receivedReactionsCount: Брой получени реакции
+value: Стойност
+currentVersion: Настояща версия
+latestVersion: Най-нова версия
+createdAt: Създадено на
+clips: Подборки
+translate: Превеждане
+translatedFrom: Преведено от {x}
+whatIsNew: Показване на промените
+searchResult: Резултати от търсенето
+_aboutIceshrimp:
+  translation: Преводи
+  contributors: Основни сътрудници
+  source: Iceshrimp разработка
+  changelog: Дневник на промените
+  documentation: Документация
+  chatroom: Чат стая
+  allContributors: Всички сътрудници
+pinnedPages: Закачени страници
+about: Относно
+administrator: Администратор
+invalidValue: Невалидна стойност.
+_notification:
+  _types:
+    follow: Нови последователи
+    reaction: Реакции
+    renote: Подсилвания
+    quote: Цитирания
+    pollVote: Гласувания в анкети
+    receiveFollowRequest: Получени заявки за следване
+    reply: Отговора
+    mention: Споменавания
+    followRequestAccepted: Приети заявки за следване
+    all: Всички
+    pollEnded: Приключване на анкети
+    groupInvited: Покани в групи
+    app: Известия от свързани приложения
+  youGotQuote: '{name} те цитира'
+  youGotReply: '{name} ти отговори'
+  youGotMention: '{name} те спомена'
+  youGotMessagingMessageFromUser: '{name} ти изпрати чат съобщение'
+  youWereFollowed: те последва
+  _actions:
+    renote: Подсилвания
+    reply: Отговор
+  fileUploaded: Файлът е качен успешно
+apps: Приложения
+remindMeLater: Може би по-късно
+clip: Подборка
+notesCount: Брой публикации
+followingCount: Брой последвани акаунти
+create: Създаване
+oneHour: Един час
+oneDay: Един ден
+oneWeek: Една седмица
+tenMinutes: 10 минути
+numberOfColumn: Брой колони
+video: Видео
+file: Файл
+image: Изображение
+audio: Звук
+failedToUpload: Неуспешно качване
+openInWindow: Отваряне в прозорец
+renotedBy: Подсилено от {user}
+unfollowConfirm: Сигурен ли си, че искаш да спреш да следваш {name}?
+somethingHappened: Възникна грешка
+pageLoadError: Възникна грешка при зареждането на страницата.
+enterListName: Въведи име за списъка
+_mfm:
+  link: Връзка
+  hashtag: Хаштаг
+  url: URL адрес
+  mention: Споменаване
+  font: Шрифт
+share: Споделяне
+openInNewTab: Отваряне в нов раздел
+showInPage: Показване в страницата
+shareWithNote: Споделяне чрез публикация
+flagAsBot: Маркиране на този акаунт като бот 🤖
+nsfw: Деликатно
+hideFromHome: Скриване от началния инфопоток
+expandAllCws: Показване на съдържанието за всички отговори
+collapseAllCws: Скриване на съдържанието за всички отговори
+renoted: Подсилено.
+renoteMute: Заглушаване на подсилванията
+sensitive: Деликатно
+mute: Заглушаване
+attachCancel: Премахване на прикачен файл
+renote: Подсилване
+selectAntenna: Избор на антена
+selectList: Избор на списък
+selectChannel: Избор на канал
+settingGuide: Препоръчителни настройки
+annotation: Коментари
+all: Всичко
+muteAndBlock: Заглушени и блокирани
+blockedUsers: Блокирани потребители
+mutedUsers: Заглушени потребители
+noteDeleteConfirm: Сигурен ли си, че искаш да изтриеш тази публикация?
+hiddenTags: Скрити хаштагове
+home: Начало
+newPasswordRetype: Повтори новата парола
+remove: Изтриване
+removed: Успешно изтриване
+deleteAreYouSure: Сигурен ли си, че искаш да изтриеш "{x}"?
+saved: Запазени
+startMessaging: Започване на нов чат
+uploadFromUrl: Качване от URL адрес
+imageUrl: URL адрес на изображение
+fromUrl: От URL адрес
+messaging: Чат
+avatar: Профилна снимка
+instanceName: Име на сървъра
+instanceDescription: Описание на сървъра
+accept: Приемане
+name: Име
+antennas: Антени
+enableLocalTimeline: Включване на местния инфопоток
+enableGlobalTimeline: Включване на глобалния инфопоток
+findOtherInstance: Намиране на друг сървър
+removeMember: Премахване на член
+isAdmin: Администратор
+isModerator: Модератор
+_preferencesBackups:
+  save: Запазване на промените
+  loadFile: Зареждане от файл
+  list: Създадени резервни копия
+  cannotSave: Неуспешно запазване
+  apply: Прилагане към това устройство
+  saveConfirm: Запазване на резервното копие като {name}?
+  createdAt: 'Създадено на: {date} {time}'
+  updatedAt: 'Обновено на: {date} {time}'
+  cannotLoad: Неуспешно зареждане
+  saveNew: Запазване на ново резервно копие
+  inputName: Моля, въведи име за това резервно копие
+  deleteConfirm: Изтриване на резервното копие {name}?
+  delete: Изтриване на резервното копие
+_registry:
+  createKey: Създаване на ключ
+  domain: Домейн
+  keys: Ключове
+  key: Ключ
+_menuDisplay:
+  hide: Скриване
+_channel:
+  nameOnly: Само име
+  notesCount: '{n} Публикации'
+  nameAndDescription: Име и описание
+  create: Създаване на канал
+_messaging:
+  groups: Групи
+  dms: Лични
+_sfx:
+  antenna: Антени
+  chat: Чат
+  note: Нова публикация
+  notification: Известия
+_weekday:
+  sunday: Неделя
+  monday: Понеделник
+  tuesday: Вторник
+  wednesday: Сряда
+  thursday: Четвъртък
+  friday: Петък
+  saturday: Събота
+_antennaSources:
+  all: Всички публикации
+  homeTimeline: Публикации от последвани потребители
+  users: Публикации от конкретни потребители
+  userList: Публикации от конкретен списък с потребители
+  userGroup: Публикации от потребители в конкретна група
+  instances: Публикации от всички потребители на сървър
+_visibility:
+  localOnly: Само местни
+  public: Публична
+  publicDescription: Публикацията ще бъде видима във всички публични инфопотоци
+  home: Скрита
+  specified: Директна
+  localOnlyDescription: Не е видима за отдалечени потребители
+  specifiedDescription: Видима само за определени потребители
+  followersDescription: Видима само за последователите ти и споменатите потребители
+  followers: Последователи
+  homeDescription: Публикуване само в началния инфопоток
+_exportOrImport:
+  allNotes: Всички публикации
+exploreFediverse: Разглеждане на Федивселената
+notesAndReplies: Публикации и отговори
+popularUsers: Популярни потребители
+recentlyUpdatedUsers: Последно активни потребители
+newPasswordIs: Новата парола е "{password}"
+cacheClear: Изчистване на кеша
+notFound: Не е намерено
+popularTags: Популярни тагове
+local: Местни
+total: Общо
+remote: Отдалечени
+signinWith: Вписване чрез {x}
+uiLanguage: Език на потребителския интерфейс
+accountSettings: Настройки на акаунта
+dashboard: Табло
+openImageInNewTab: Отваряне на изображенията в нов раздел
+youHaveNoGroups: Нямаш групи
+existingAccount: Съществуващ акаунт
+createAccount: Създаване на акаунт
+category: Категория
+tags: Тагове
+accessibility: Достъпност
+details: Подробности
+install: Инсталиране
+email: Ел. поща
+emailAddress: Адрес на ел. поща
+addItem: Добавяне на елемент
+menu: Меню
+visibility: Видимост
+smtpHost: Хост
+smtpUser: Потребителско име
+invisibleNote: Невидима публикация
+deletedNote: Изтрита публикация
+description: Описание
+preferencesBackups: Резервни копия
+poll: Анкета
+_relayStatus:
+  accepted: Прието
+_feeds:
+  rss: RSS
+  atom: Atom
+  jsonFeed: JSON feed
+  copyFeed: Копиране на емисия
+overview: Обзор
+other: Други
+channel: Канали
+renotedCount: Брой получени подсилвания
+no: Не
+yes: Да
+accountInfo: Информация за акаунта
+send: Изпращане
+renotesCount: Брой изпратени подсилвания
+clearCache: Изчистване на кеша
+closeAccount: Затваряне на акаунта
+saveConfirm: Запазване на промените?
+onlineUsersCount: '{n} потребители на линия'
+nNotes: '{n} Публикации'
+nUsers: '{n} Потребители'
+developer: Разработчик
+gallery: Галерия
+popularPosts: Популярни страници
+recentPosts: Последни страници
+info: Относно
+user: Потребител
+offline: Извън линия
+online: На линия
+onlineStatus: Онлайн състояние
+addDescription: Добавяне на описание
+goBack: Назад
+editCode: Редактиране на кода
+publish: Публикувай
+manageAccounts: Управление на акаунти
+breakFollow: Премахване на последовател
+learnMore: Научи повече
+hashtags: Хаштагове
+priority: Приоритет
+hide: Скриване
+document: Документация
+saveAs: Запазване като…
+copy: Копиране
+emailServer: Ел. пощенски сървър
+uninstall: Деинсталиране
+author: Автор
+smtpPass: Парола
+accounts: Акаунти
+userInfo: Информация за потребителя
+isBot: Този акаунт е бот
+removeAreYouSure: Сигурен ли си, че искаш да премахнеш "{x}"?
+searchByGoogle: Търсене
+size: Размер
+tablet: Таблет
+smartphone: Смартфон
+deleteAccount: Изтриване на акаунта
+numberOfPageCache: Брой кеширани страници
+localOnly: Само местни
+remoteOnly: Само отдалечени
+beta: Бета
+fast: Бърза
+slow: Бавна
+speed: Скорост
+account: Акаунт
+move: Преместване
+migration: Прехвърляне
+moveTo: Преместване на текущия акаунт в нов акаунт
+moveToLabel: 'Акаунт, към който се местиш:'
+moveAccount: Преместване на акаунта!
+_gallery:
+  like: Харесване
+  liked: Харесани публикации
+  my: Моята галерия
+withFiles: С прикачени файлове
+unmute: Отмяна на заглушаването
+renoteUnmute: Отмяна на заглушаването на подсилванията
+unrenote: Отмяна на подсилването
+flagAsCatDescription: Ще получиш котешки уши и ще говориш като котка!
+editWidgets: Редактиране на джаджите
+selectWidget: Избор на джаджа
+customEmojis: Персонализирани Емоджи
+perHour: За час
+perDay: За ден
+announcements: Оповестявания
+manageGroups: Управление на групи
+remoteUserCaution: Информацията от отдалечени потребители може да е непълна.
+registeredDate: Присъединяване
+nUsersRead: прочетено от {n}
+attachFile: Прикачване на файлове
+watch: Наблюдаване
+unwatch: Спиране на наблюдаването
+invite: Поканване
+manageAntennas: Управление на антени
+searchEmptyQuery: Моля, въведете термин за търсене.
+_wordMute:
+  mutedNotes: Заглушени публикации
+_poll:
+  totalVotes: '{n} гласа общо'
+  votesCount: '{n} гласа'
+  choiceN: Избор {n}
+  expiration: Приключване на анкетата
+  infinite: Никога
+_postForm:
+  _placeholders:
+    b: Какво се случва около теб?
+recentlyDiscoveredUsers: Новооткрити потребители
+recentlyRegisteredUsers: Новоприсъединени потребители
+inviteToGroup: Поканване в група
+groupName: Име на групата
+nothing: Няма нищо за гледане тук
+chooseEmoji: Избор на емоджи
+deleteAll: Изтриване на всички
+newNoteRecived: Има нови публикации
+useCw: Скриване на съдържание
+abuseReports: Доклади
+reportAbuse: Докладване
+reportAbuseOf: Докладване на {name}
+switchUi: Превключване на оформление
+reloadToApplySetting: Тази настройка ще се приложи само след презареждане на страницата.
+  Презареждане сега?
+apply: Прилагане
+selectAccount: Избор на акаунт
+markAllAsRead: Маркиране на всички като прочетени
+switchAccount: Превключване на акаунт
+unread: Непрочетени
+filter: Филтриране
+previewNoteText: Показване на преглед
+muteThread: Заглушаване на нишката
+ffVisibility: Видимост на Последвани/Последователи
+navbar: Навигационна лента

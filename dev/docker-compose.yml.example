@@ -1,0 +1,41 @@
+version: "3"
+
+services:
+  web:
+    image: iceshrimp.dev/iceshrimp/iceshrimp:dev
+    build: ..
+    container_name: iceshrimp_web
+    restart: always
+    depends_on:
+      - db
+      - redis
+    ports:
+      - "3000:3000"
+    networks:
+      - network
+    volumes:
+      - ../files:/iceshrimp/files
+      - ../.config:/iceshrimp/.config:ro
+
+  redis:
+    restart: always
+    container_name: iceshrimp_redis
+    image: docker.io/valkey/valkey:7-alpine
+    networks:
+      - network
+    volumes:
+      - ../redis:/data
+
+  db:
+    restart: always
+    image: docker.io/postgres:16-alpine
+    container_name: iceshrimp_db
+    networks:
+      - network
+    env_file:
+      - ../.config/docker.env
+    volumes:
+      - ../db:/var/lib/postgresql/data
+
+networks:
+  network:

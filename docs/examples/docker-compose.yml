@@ -1,0 +1,53 @@
+version: "3"
+
+services:
+  web:
+    image: iceshrimp.dev/iceshrimp/iceshrimp:dev
+### If you want to build the image locally
+#    build: .
+### If you want to build the image locally AND use Docker 20.10
+#		 build:
+#      context: .
+#      args:
+#        DOCKER_BUILDKIT: 1
+    container_name: iceshrimp_web
+    restart: unless-stopped
+    depends_on:
+      - db
+      - redis
+    ports:
+      - "3000:3000"
+    networks:
+      - ishnet
+#     - web
+    environment:
+      NODE_ENV: production
+    volumes:
+      - ./files:/iceshrimp/files
+      - ./.config:/iceshrimp/.config:ro
+
+  redis:
+    restart: unless-stopped
+    image: docker.io/valkey/valkey:7-alpine
+    container_name: iceshrimp_redis
+    networks:
+      - ishnet
+    volumes:
+      - ./redis:/data
+
+  db:
+    restart: unless-stopped
+    image: docker.io/postgres:16-alpine
+    container_name: iceshrimp_db
+    networks:
+      - ishnet
+    env_file:
+      - .config/docker.env
+    volumes:
+      - ./db:/var/lib/postgresql/data
+
+networks:
+  ishnet:
+  #  web:
+  #    external:
+  #      name: web

@@ -1,0 +1,83 @@
+_lang_: "Norsk Bokmål"
+search: Søk
+monthAndDay: '{day}/{month}'
+fetchingAsApObject: Henter fra fediverset
+ok: OK
+gotIt: Jeg forstår!
+profile: Profil
+timeline: Tidslinje
+save: Lagre
+addToList: Legg til liste
+searchPlaceholder: Søk Iceshrimp
+username: Brukernavn
+password: Passord
+notifications: Meldinger
+forgotPassword: Glemt passord
+cancel: Avbryt
+noNotes: Ingen poster
+instance: Server
+settings: Innstillinger
+noAccountDescription: Denne brukeren har ikke fylt ut bio'en sin ennå.
+login: Logg inn
+loggingIn: Logger inn
+signup: Oppretter bruker
+uploading: Laster opp..
+enterUsername: Skriv inn brukernavn
+noNotifications: Ingen meldinger
+users: Brukere
+addUser: Legg til en bruker
+favorite: Legg til i bokmerker
+cantFavorite: Kunne ikke legges til i bokmerker.
+pin: Fest til profilen
+copyContent: Kopier innhold
+deleteAndEdit: Slett og rediger
+sendMessage: Send en melding
+copyUsername: Kopier brukernavn
+reply: Svar
+loadMore: Last mer
+showLess: Lukk
+receiveFollowRequest: Følgeforespørsel mottatt
+directNotes: Direktemelding
+importAndExport: Importer/eksporter data
+importRequested: Du har bedt om en importering. Dette vil ta litt tid.
+lists: Lister
+listsDesc: Lister lar deg lage tidslinjer med utvalgte brukere. De kan hentes frem
+  fra tidslinje-siden.
+deleted: Slettet
+editNote: Rediger notat
+followsYou: Følger deg
+createList: Lag liste
+newer: nyere
+older: eldre
+download: Last ned
+unfollowConfirm: Er du sikker på at du ikke lenger vil følge {name}?
+noLists: Du har ingen lister
+following: Følger
+files: Filer
+note: Post
+notes: Poster
+followers: Følgere
+otherSettings: Andre innstillinger
+addInstance: Legg til en server
+alreadyFavorited: Allerede lagt til i bokmerker.
+delete: Slett
+openInWindow: Åpne i vindu
+basicSettings: Grunnleggende innstillinger
+headlineIceshrimp: En desentralisert sosialt media-plattform, basert på åpen kildekode,
+  som alltid vil være gratis! 🚀
+introIceshrimp: Velkommen! Iceshrimp er en desentralisert sosialt media-plattform, basert
+  på åpen kildekode, som alltid vil være gratis! 🚀
+exportRequested: Du har bedt om en eksportering. Dette vil ta litt tid. Den vil bli
+  lagt til på disken din når den er ferdig.
+noThankYou: Nei takk
+favorites: Bokmerker
+unfavorite: Fjern fra bokmerker
+favorited: Lagt til i bokmerker.
+copyLink: Kopier lenke
+searchUser: Søk etter en bruker
+jumpToPrevious: Gå til foregående
+showMore: Vis mer
+followRequestAccepted: Følgeforespørsel godtatt
+import: Importer
+export: Eksporter
+logout: Logger ut

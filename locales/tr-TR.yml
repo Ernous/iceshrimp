@@ -1,0 +1,2118 @@
+_lang_: "Türkçe"
+introIceshrimp: "Hoş geldin! Iceshrimp, sonsuza kadar ücretsiz olan, açık kaynaklı, merkezi
+  olmayan bir sosyal medya platformudur! 🚀"
+monthAndDay: "{month}Ay {day}Gün"
+search: "Arama"
+notifications: "Bildirimler"
+username: "Kullanıcı Adı"
+password: "Şifre"
+forgotPassword: "şifremi unuttum"
+ok: "TAMAM"
+gotIt: "Anladım!"
+cancel: "İptal"
+enterUsername: "Kullanıcı adınızı giriniz"
+noNotes: "Gönderiler mevcut değil"
+noNotifications: "Bildirim bulunmuyor"
+settings: "Ayarlar"
+basicSettings: "Temel Ayarlar"
+otherSettings: "Diğer Ayarlar"
+openInWindow: "Bir pencere ile aç"
+profile: "Profil"
+timeline: "Zaman çizelgesi"
+noAccountDescription: "Bu kullanıcı henüz hakkındasını yazmadı."
+login: "Giriş Yap"
+logout: "Çıkış Yap"
+signup: "Kayıt Ol"
+uploading: "Yükleniyor..."
+users: "Kullanıcı"
+addUser: "Kullanıcı Ekle"
+favorite: "Favoriler"
+favorites: "Favoriler"
+unfavorite: "Favorilerden Kaldır"
+favorited: "Favorilerime eklendi."
+alreadyFavorited: "Zaten favorilerinizde kayıtlı."
+pin: "Sabitlenmiş"
+unpin: "Sabitlemeyi kaldır"
+copyContent: "İçeriği kopyala"
+copyLink: "Bağlantıyı Kopyala"
+delete: "Sil"
+deleteAndEdit: "Sil ve yeniden düzenle"
+deleteAndEditConfirm: "Bu gönderiyi silip yeniden düzenlemek istiyor musunuz? Bu gönderiye
+  ilişkin tüm tepkiler, destekler ve yanıtlar silinecektir."
+addToList: "Listeye ekle"
+sendMessage: "Mesaj Gönder"
+copyUsername: "Kullanıcı Adını Kopyala"
+searchUser: "Kullanıcıları ara"
+pinned: "Sabitlenmiş"
+remove: "Sil"
+smtpUser: "Kullanıcı Adı"
+smtpPass: "Şifre"
+user: "Kullanıcı"
+searchByGoogle: "Arama"
+_mfm:
+  search: "Arama"
+  play: MFM'i çal
+  stop: MFM'i durdur
+  cheatSheet: MFM Kopya Kağıdı
+  intro: MFM, Iceshrimp, Iceshrimp, Akkoma ve daha pek çok yerde kullanılabilen bir biçimlendirme
+    dilidir. Burada mevcut tüm MFM sözdiziminin bir listesini görüntüleyebilirsiniz.
+  link: Link
+  boldDescription: Harfleri kalınlaştırarak vurgular.
+  small: Küçük
+  smallDescription: İçeriği küçük ve ince görüntüler.
+  warn: MFM, hızla hareket eden veya gösterişli animasyonlar içerebilir
+  alwaysPlay: Her zaman tüm animasyonlu MFM'yi otomatik oynat
+  x4Description: İçeriği büyükten de büyükten daha büyük görüntüler.
+  rainbowDescription: İçeriğin gökkuşağı renklerinde görünmesini sağlar.
+  bounceDescription: İçeriğe sıçarayan bir animasyon verir.
+  sparkle: Işıltı
+  sparkleDescription: İçeriğe ışıltılı bir parçacık efekti verir.
+  rotateDescription: İçeriği belirli bir açıyla döndürür.
+  fadeDescription: İçeriği içeri ve dışarı karartır.
+  fade: Karart
+  position: Pozisyon
+  blockCode: Kod (Blok)
+  crop: Kırp
+  positionDescription: İçeriği belirli bir miktarda taşıyın.
+  scale: Ölçek
+  scaleDescription: İçeriği belirtilen bir miktara göre ölçeklendirin.
+  foreground: Ön plan rengi
+  mention: Bahset
+  mentionDescription: Bir et-sembolü (@) ve bir kullanıcı adı kullanarak bir kullanıcı
+    belirleyebilirsiniz.
+  hashtag: Etiket
+  dummy: Iceshrimp, Fediverse dünyasını genişletiyor
+  hashtagDescription: Sayı işareti ve metin kullanarak bir etiket belirtebilirsiniz.
+  url: URL
+  urlDescription: URL'ler görüntülenebilir.
+  inlineMath: Matematik (Satır İçi)
+  blockCodeDescription: Bir blokta çok satırlı (program) kod için sözdizimi vurgulamasını
+    görüntüler.
+  inlineMathDescription: Matematik formüllerini (KaTeX) satır içinde görüntüleyin
+  quote: Alıntı
+  quoteDescription: İçeriği alıntı olarak görüntüler.
+  twitch: Animasyon (Seğir)
+  emoji: Özel Emoji
+  jelly: Animasyon (Jöle)
+  blur: Bulanık
+  blurDescription: İçeriği bulanıklaştırır. Fareyle üzerine gelindiğinde net bir şekilde
+    görüntülenecektir.
+  spinDescription: İçeriğe dönen bir animasyon verir.
+  plainDescription: Bu MFM efektinde bulunan tüm MFM'lerin etkilerini devre dışı bırakır.
+  background: Arka plan rengi
+  backgroundDescription: Metnin arka plan rengini değiştirin.
+  jump: Animasyon (Zıpla)
+  cropDescription: İçeriği kırpar.
+  advancedDescription: Devre dışı bırakılırsa, animasyonlu MFM oynatılmadığı sürece
+    yalnızca temel işaretlemeye izin verir
+  bold: Kalın
+  inlineCodeDescription: (Program) kodu için satır içi sözdizimi vurgulamasını görüntüler.
+  flip: Tersine Çevir
+  flipDescription: İçeriği yatay veya dikey olarak çevirir.
+  font: Yazı Tipi
+  twitchDescription: İçeriğe güçlü bir şekilde seğiren bir animasyon verir.
+  spin: Animasyon (Dön)
+  x2Description: İçeriği büyük gösterir.
+  rotate: Döndür
+  plain: Düz
+  linkDescription: Metnin belirli bölümleri bir URL olarak görüntülenebilir.
+  searchDescription: Önceden girilmiş metin içeren bir arama kutusu görüntüler.
+  blockMathDescription: Matematik formüllerini (KaTeX) bir blokta görüntüleyin
+  jumpDescription: İçeriğe zıplama animasyonu verir.
+  rainbow: Gökkuşağı
+  x4: İnanılmaz derecede büyük
+  tadaDescription: İçeriğe "Tada!" benzeri bir animasyon verir.
+  shake: Animasyon (Salla)
+  x3: Büyük göster
+  blockMath: Matematik (Blok)
+  x2: Büyük
+  fontDescription: İçeriğin görüntüleneceği yazı tipini ayarlar.
+  foregroundDescription: Metnin ön plan rengini değiştirin.
+  centerDescription: İçeriği ortada görüntüler.
+  inlineCode: Kod (Satır İçi)
+  advanced: Gelişmiş MFM
+  center: Ortala
+  x3Description: İçeriği daha büyük gösterir.
+  tada: Animasyon (Tada)
+  emojiDescription: Özel bir emoji adını iki nokta ile çevreleyerek, özel emoji görüntülenebilir.
+  jellyDescription: İçeriğe jöle benzeri bir animasyon verir.
+  shakeDescription: İçeriğe sallanan bir animasyon verir.
+  bounce: Animasyon (Sıçra)
+_sfx:
+  notification: "Bildirim"
+  noteMy: Kendi Gönderim
+  note: Yeni gönderi
+  antenna: Anten
+  chat: Sohbet
+  channel: Kanal bildirimleri
+  chatBg: Sohbet (Arkaplan)
+_widgets:
+  notifications: "Bildirim"
+  timeline: "Zaman çizelgesi"
+  photos: Fotoğraflar
+  userList: Kullanıcı Listesi
+  _userList:
+    chooseList: Liste seç
+  onlineUsers: Aktif Kullanıcılar
+  aiscript: AiScript Konsolu
+  activity: Aktivite
+  digitalClock: Dijital Saat
+  unixClock: UNIX Saati
+  meiliIndexCount: Indexlenmiş gönderiler
+  calendar: Takvim
+  trends: Popüler
+  memo: Yapışkan Notlar
+  rssTicker: RSS Ticker
+  federation: Federasyon
+  postForm: Gönderi Formu
+  meiliSize: Index boyutu
+  slideshow: Slayt Gösterisi
+  button: Düğme
+  clock: Saat
+  rss: RSS Okuyucu
+  serverInfo: Sunucu Bilgisi
+  meiliStatus: Sunucu Durumu
+  jobQueue: İş Sırası
+  serverMetric: Sunucu Bilgileri
+_profile:
+  username: "Kullanıcı Adı"
+  changeBanner: Afişini değiştir
+  locationDescription: Önce şehrinizi girerseniz, yerel saatinizi diğer kullanıcılara
+    gösterecektir.
+  youCanIncludeHashtags: Hakkımdan'da etiket kullanabilirsin.
+  description: Hakkımda
+  metadataDescription: 'Bunları kullanarak profilinizde ek bilgi alanları görüntüleyebilirsiniz. Profilinizdeki bağlantıyı doğrulamak için {rel} ile bir {a} etiketi veya {l} etiketi ekleyebilirsiniz!'
+  metadata: Ek Bilgi
+  metadataContent: İçerik
+  metadataLabel: Etiket
+  changeAvatar: Avatarını değiştir
+  name: İsim
+  metadataEdit: Ek Bilgini Düzenle
+_deck:
+  _columns:
+    notifications: "Bildirim"
+    tl: "Zaman çizelgesi"
+    antenna: Anten
+    list: Liste
+    widgets: Araçlar
+    channel: Kanal
+    direct: Direkt mesajlar
+    main: Ana
+    mentions: Bahsetmeler
+  swapLeft: Sol sütunla değiştir
+  addColumn: Sütun ekle
+  configureColumn: Sütun ayarları
+  swapRight: Sağ sütunla değiştir
+  swapUp: Üstteki sütunla değiştir
+  stackLeft: Sol sütunla birleştir
+  swapDown: Alttaki sütunla değiştir
+  popRight: Sağdaki sütunu aç
+  introduction2: İstediğiniz zaman yeni sütunlar eklemek için ekranın sağındaki +
+    işaretini tıklayın.
+  alwaysShowMainColumn: Her zaman ana sütunu göster
+  columnAlign: Sütunları hizala
+  profile: Çalışma alanı
+  newProfile: Yeni çalışma alanı
+  renameProfile: Çalışma alanını yeniden adlandır
+  deleteProfile: Çalışma alanını sil
+  nameAlreadyExists: Bu çalışma alanı zaten mevcut.
+  introduction: Sütunları özgürce düzenleyerek sizin için mükemmel arayüzü oluşturun!
+  widgetsIntroduction: Lütfen sütun menüsünde "Araç'ları düzenle"yi seçin ve bir widget
+    ekleyin.
+searchPlaceholder: Iceshrimp'de Ara
+reply: Yanıtla
+jumpToPrevious: Öncekini görüntüle
+deleted: Silindi
+editNote: Notu düzenle
+noThankYou: Hayır, teşekkürler
+addInstance: Bir sunucu ekle
+cantFavorite: Favorilere eklenemedi.
+edited: '{date} tarihinde ve {time} vaktinde düzenlendi'
+loggingIn: Giriş Yapılıyor
+save: Kaydet
+headlineIceshrimp: Sonsuza kadar ücretsiz, açık kaynak kodlu, merkeziyetsiz sosyal medya
+  platformu! 🚀
+loadMore: Daha fazla yükle
+instance: Sunucu
+fetchingAsApObject: Fediverse'den çekiliyor
+removeReaction: Tepkini sil
+rememberNoteVisibility: Gönderi görünürlüğü ayarlarını hatırla
+attachCancel: Eklentiyi kaldır
+suspend: Askıya Al
+unsuspend: Askıya Almayı Kaldır
+unmute: Susturmayı Kaldır
+blockConfirm: Bu hesabı engellemek istediğinize emin misiniz?
+unblockConfirm: Bu hesabın engelini kaldırmak istediğinize emin misiniz?
+settingGuide: Tavsiye edilen ayarlar
+cacheRemoteFilesDescription: Bu ayar devre dışı bırakıldığında, uzak dosyalar doğrudan
+  uzak sunucudan yüklenir. Bunun devre dışı bırakılması depolama kullanımını azaltacak,
+  ancak küçük resimler oluşturulmayacağından trafiği artıracaktır.
+flagAsCatDescription: Kedi kulaklarına sahip olacak ve bir kedi gibi konuşacaksın!
+flagSpeakAsCat: Kedi gibi konuş
+setWallpaper: Arkaplan ayarla
+removeWallpaper: Arkaplanı sil
+operations: Operasyonlar
+clearCachedFiles: Ön belleği temizle
+clearCachedFilesConfirm: Önbelleğe alınan tüm uzak dosyaları silmek istediğinizden
+  emin misiniz?
+blockedInstancesDescription: Engellemek istediğiniz sunucuların ana bilgisayar adlarını
+  listeleyin. Listelenen sunucular artık bu sunucularla iletişim kuramayacak.
+blockedUsers: Engellenmiş kullanıcılar
+editProfile: Profilini düzenle
+intro: Iceshrimp'in indirilmesi tamamlandı! Lütfen yönetici hesap oluşturun.
+instanceUsers: Sunucunun kullanıcıları
+changePassword: Şifreyi değiştir
+security: Güvenlik
+newPasswordRetype: Yeni şifreyi tekrarla
+uploadFromUrlRequested: Yükleme istendi
+syncDeviceDarkMode: Karanlık modu cihazının ayarları ile senkronize et
+renameFolder: Bu klasörü yeniden adlandır
+emptyFolder: Bu klasör boş
+unableToDelete: Silinemiyor
+inputNewDescription: Yeni başlık gir
+hasChildFilesOrFolders: Bu klasör boş olduğundan silinemez.
+disconnectedFromServer: Sunucuyla bağlantı kesildi
+reload: Yenile
+disablingTimelinesInfo: Yöneticiler ve Moderatörler, etkinleştirilmemiş olsalar bile
+  tüm zaman çizelgelerine her zaman erişebilir.
+pinnedUsersDescription: '"Keşfet" sekmesinde sabitlenecek kullanıcı adlarını satır
+  sonlarıyla ayırarak listeleyin.'
+pinnedPages: Sabitlenmiş Sayfalar
+pinnedPagesDescription: Bu sunucunun üst sayfasına sabitlemek istediğiniz Sayfaların
+  yollarını satır sonları ile ayırarak girin.
+enableHcaptcha: hCaptcha'yı Aktif Et
+notifyAntenna: Yeni gönderileribildir
+recentlyUpdatedUsers: En son aktif kullanıcılar
+about: Hakkında
+twoStepAuthentication: İki-adımlı doğrulama
+securityKeyName: Key name
+help: Yardım
+inputMessageHere: Mesajını buraya gir
+ownedGroups: Gruplarım
+joinedGroups: Katılınmış gruplar
+invites: Davetler
+members: Kullanıcılar
+transfer: Transfer
+messagingWithGroup: Grup sohbeti
+next: Sonraki
+retype: Tekrar gir
+dashboard: Panel
+objectStorageBucket: Bucket
+objectStorageBucketDesc: Sağlayıcınız tarafından kullanınan bucket ismini yazın.
+showFixedPostForm: Gönderim formunu zaman çizelgesinin en üstünde görüntüleyin
+newNoteRecived: Yeni gönderiler mevcut
+none: Hiçbiri
+details: Detaylar
+recentUsed: Son kullanılan
+installedApps: Yetkilendirilmiş Uygulamalar
+removeAllFollowing: Takip edilen herkesi çıkar
+yourAccountSuspendedDescription: Bu hesap, sunucunun hizmet şartlarını veya benzerlerini
+  ihlal ettiği için askıya alındı. Daha ayrıntılı bir neden öğrenmek istiyorsanız
+  yöneticiyle iletişime geçin. Lütfen yeni bir hesap oluşturmayın.
+addedRelays: Eklenen Röleler
+serviceworkerInfo: Push bildirimleri için aktif olması gerekiyor.
+author: Sahip
+tokenRequested: Hesaba erişim ver
+useFullReactionPicker: Tam boyutunda tepki seçici kullan
+small: Küçük
+enableAll: Hepsine izin ver
+disableAll: Hepsini kapat
+regexpError: Regex hatası
+emailConfigInfo: Kayıt sırasında veya şifrenizi unutursanız e-postanızı onaylamak
+  için kullanılır
+smtpSecure: SMTP bağlantıları için SSL/TSL kullan
+regexpErrorDescription: '{tab} kelimenizin {line} satırındaki normal ifadede bir hata
+  oluştu:'
+instanceMute: Sunucu Susturmaları
+reporter: Rapor eden
+userSaysSomethingReason: '{name}, {reason} söyledi'
+userSaysSomethingReasonRenote: '{name}, {reason} içeren bir gönderiyi öne çıkardı'
+userSaysSomethingReasonQuote: '{name}, {reason} içeren bir gönderiden alıntı yaptı'
+notificationSettingDesc: Görünecek bildirimleri seç.
+other: Diğer
+sample: Örnek
+notSet: Ayarlanmadı
+emailVerified: Mail doğrulandı
+showGapBetweenNotesInTimeline: Zaman tünelinde gönderiler arasındaki boşluğu göster
+sendErrorReports: Hata raporları gönder
+followingCount: Takip edilen hesap sayısı
+no: Hayır
+myTheme: Temam
+backgroundColor: Arkaplan rengi
+accentColor: Vurgu rengi
+textColor: Yazı rengi
+createdAt: Oluşturuldu
+updatedAt: Güncellendi
+saveConfirm: Kaydet?
+registry: Kayıt
+currentVersion: Şuanki Sürüm
+accountDeletionInProgress: Hesap silme şu anda devam ediyor
+unresolved: Çözülmedi
+newVersionOfClientAvailable: Yeni istemci sürümü mevcut.
+shareWithNote: Gönderi ile paylaş
+whatIsNew: Değişiklikleri göster
+translate: Çevir
+breakFollow: Takipçiyi sil
+breakFollowConfirm: Takipçiyi kaldırmak istediğinizden emin misiniz?
+unfollowConfirm: "{name}'i takibi bırakmak istediğinizden emin misiniz?"
+importRequested: Bir içe aktarma isteğinde bulundunuz. Bu biraz zaman alabilir.
+somethingHappened: Bir hata ile karşılaşıldı
+retry: Tekrar Dene
+youShouldUpgradeClient: Bu sayfayı görüntülemek için, lütfen istemcinizi güncelleyin.
+reactionSetting: Tepki seçicide gösterilecek tepkiler
+unmarkAsSensitive: NSFW işaretini kaldır
+enterFileName: Dosya adı gir
+noJobs: Hiçbir iş yok
+instanceFollowing: Sunucuda takip ediliyor
+instanceFollowers: Sunucunun takipçileri
+currentPassword: Şuanki şifre
+newPassword: Yeni şifre
+saved: Kaydedildi
+uploadFromUrlDescription: Yüklemek istediğiniz dosyanın URL'si
+noMoreHistory: Başka geçmiş yok
+startMessaging: Yeni sohbet oluştur
+manageGroups: Grupları düzenle
+nUsersRead: '{n} tarafından okundu'
+images: Görseller
+birthday: Doğumgünü
+light: Aydınlık
+dark: Karanlık
+lightThemes: Aydınlık temalar
+selectFiles: Dosyalar seç
+selectFolders: Klasörler seç
+renameFile: Dosyayı yeniden adlandır
+folderName: Klasör adı
+createFolder: Klasör oluştur
+copyUrl: URL'yi Kopyala
+maintainerName: Sahip
+maintainerEmail: Sahibin e-postası
+tosUrl: Kullanım Koşulları URL'si
+monthX: '{month}'
+basicInfo: Basit bilgi
+pinnedUsers: Sabitlenmiş kullanıcılar
+manageAntennas: Antenleri Düzenle
+name: İsim
+silence: Sustur
+unsilence: Susturmayı geri al
+exploreUsersCount: '{count} Kullanıcı var'
+exploreFediverse: Fediversi keşfet
+popularTags: Popüler etiketler
+close: Kapat
+group: Grup
+text: Yazı
+checking: Doğrulanıyor...
+tooLong: Çok uzun
+weakPassword: Zayıf şifre
+normalPassword: Ortalama şifre
+disableDrawer: Çekmece tarzı menüler kullanmayın
+youHaveNoGroups: Grupların yok
+joinOrCreateGroup: Bir gruba davet edil veya kendininkini oluştur.
+regenerate: Yeniden Oluştur
+fontSize: Yazı boyutu
+noFollowRequests: Bekleyen takip isteğiniz yok
+openImageInNewTab: Resmi yeni sekmede aç
+useObjectStorage: Object Storage kullan
+objectStorageUseProxy: Proxy üzerinden bağlan
+installedDate: Yetkilendirilme tarihi
+scratchpad: Karalama Defteri
+deleteAllFiles: Tüm dosyaları isl
+useCw: İçeriği gizle
+plugins: Eklentiler
+manage: Yönetmek
+preferencesBackups: Tercih yedekleri
+generateAccessToken: Erişim tokeni oluştur
+enableEmail: E-posta dağıtımını etkinleştir
+regenerateLoginToken: Giriş tokenini yeniden oluştur
+regenerateLoginTokenDescription: Oturum açma sırasında dahili olarak kullanılan belirteci
+  yeniden oluşturur. Normalde bu eylem gerekli değildir. Yeniden oluşturulursa, tüm
+  cihazların oturumu kapatılacaktır.
+followersCount: Takipçi sayısı
+yes: Evet
+lockedAccountInfo: Gönderi görünürlüğünüzü "Yalnızca takipçiler" olarak ayarlamazsanız,
+  takipçilerin manuel olarak onaylanmasını isteseniz bile gönderileriniz herkes tarafından
+  görülebilir.
+unlikeConfirm: Beğeniyi kaldırmak istiyor musunuz?
+notSpecifiedMentionWarning: Bu gönderi, alıcı olarak dahil edilmeyen kullanıcılardan
+  bahsetmektedir
+hideOnlineStatus: Çevrimiçi bilgisini gizle
+hideOnlineStatusDescription: Çevrimiçi durumunuzu gizlemek, arama gibi bazı özelliklerin
+  rahatlığını azaltır.
+botProtection: Bot Koruması
+selectAccount: Hesap seç
+recentPosts: En son sayfalar
+high: Yüksek
+middle: Orta
+secureModeInfo: Diğer sunuculardan talepte bulunurken kanıtlamadan geri göndermeyiniz.
+previewNoteText: Önizlemeyi göster
+customCss: Özel CSS
+global: Global
+makeReactionsPublic: Tepki geçmişini herkese açık olarak ayarla
+clickToFinishEmailVerification: Mail doğrulamasını tamamlamak için lütfen [{ok}]'a
+  tıklayın.
+overridedDeviceKind: Cihaz tipi
+smartphone: Akıllı telefon
+tablet: Tablet
+auto: Otomatik
+tenMinutes: 10 dakika
+recentNDays: Son {n} gün
+noEmailServerWarning: Mail sunucusu ayarlanmadı.
+thereIsUnresolvedAbuseReportWarning: Çözülmemiş raporlar var.
+statusbar: Durum çubuğu
+pleaseSelect: Bir seçenek seçin
+lastActiveDate: Son kullanılan
+reverse: Tersi
+logoutConfirm: Gerçekten oturum kapatılsın mı?
+type: Tip
+speed: Hız
+slow: Yavaş
+activeEmailValidationDescription: Tek kullanımlık adreslerin kontrol edilmesi ve gerçekten
+  iletişim kurup kurulamayacağına göre e-posta adreslerinin daha sıkı doğrulanmasını
+  sağlar. İşaretlenmediğinde, yalnızca e-postanın biçimi doğrulanır.
+move: Taşı
+defaultReaction: Giden ve gelen gönderiler için varsayılan emoji tepkisi
+indexPosts: Dizin Gönderileri
+youGotNewFollower: takip etti
+receiveFollowRequest: Takip isteği alındı
+followRequestAccepted: Takip isteği onaylandı
+mention: Bahset
+download: İndir
+lists: Listeler
+noLists: Hiç listen yok
+cantRenote: Bu gönderi yükseltilemez.
+cantReRenote: Yükseltme yükseltilemez.
+mute: Sustur
+block: Engelle
+editWidgetsExit: Tamamlandı
+customEmojis: Özel Tepki
+cpuAndMemory: İşlemci ve Bellek
+selectInstance: Sunucu seç
+instances: Sunucular
+silencedInstancesDescription: Susturmak istediğiniz sunucuların ana bilgisayar adlarını
+  listeleyin. Listelenen sunuculardaki hesaplar "Sessiz" olarak değerlendirilir, yalnızca
+  takip istekleri yapabilir ve takip edilmediği takdirde yerel hesaplardan bahsedemez.
+  Bu, engellenen sunucuları etkilemeyecektir.
+muteAndBlock: Susturmalar ve Engeller
+noteDeleteConfirm: Bu gönderiyi silmek istediğine emin misin?
+resetAreYouSure: Gerçekten sıfırla?
+remoteUserCaution: Uzak kullanıcılardan gelen bilgiler eksik olabilir.
+yearsOld: '{age} yaşında'
+removed: Başarıyla silindi
+reject: Reddet
+unwatch: İzlemeyi bırak
+accept: Kabul et
+normal: Normal
+thisMonth: Ay
+enableRecaptcha: reCAPTCHA'yı Aktif Et
+antennas: Antenler
+recaptchaSiteKey: Site key
+withFileAntenna: Sadece dosyalı gönderiler
+antennaInstancesDescription: Sunucu başı bir satır kullanın
+moderator: Moderatör
+moderation: Moderasyon
+lastUsed: En son kullanılan
+unregister: Kaydı sil
+passwordLessLogin: Şifresiz giriş
+uploadFolder: Yüklemeler için varsayılan klasör
+markAsReadAllUnreadNotes: Tüm gönderileri okundu olarak işaretle
+notFound: Bulunamadı
+groups: Gruplar
+quoteQuestion: Alıntı olarak eklensin mi?
+signinRequired: Lütfen devam etmeden önce kayıt olun
+noMessagesYet: Şuana kadar mesaj yok
+newMessageExists: Yeni mesaj yok
+invitations: Davetler
+invitationCode: Davet kodu
+signinWith: '{x} ile giriş yap'
+strongPassword: Güçlü şifre
+passwordNotMatched: Uyuşmuyor
+signinFailed: Giriş yapılamadı. Şifre ve ya kullanıcı adı yanlış.
+tapSecurityKey: Güvenlik anahtarınıza dokunun
+or: veya
+noHistory: Geçmiş bulunamadı
+language: Dil
+clientSettings: İstemci Ayarları
+accountSettings: Hesap Ayarları
+listen: Dinle
+chooseEmoji: Emoji seç
+promotion: Terfi Edildi
+nothing: Burada görüntülenecek bir şey yok
+lastUsedDate: Son kullanılma tarihi
+updateRemoteUser: Uzak kullanıcı bilgilerini güncelle
+width: Genişlik
+height: Uzunluk
+permission: İzinler
+email: Mail
+smtpSecureInfo: STARTTLS kullanırken bunu kapatın
+alwaysMarkSensitive: Varsayılan olarak NSFW olarak işaretle
+noteFavoritesCount: İşaretlenen gönderilerin sayısı
+pageLikesCount: Beğenilen Sayfaların sayısı
+duplicate: Kopyasını Oluştur
+clearCache: Önbelleği Temizle
+onlineUsersCount: '{n} kullanıcı aktif'
+nUsers: '{n} Kullanıcı'
+nNotes: '{n} Gönderi'
+useReactionPickerForContextMenu: Sağ tık ile tepki seçiciyi aç
+typingUsers: '{users} yazıyor'
+jumpToSpecifiedDate: Spesifik tarihe atla
+showingPastTimeline: Şuan eski bir zaman çizelgesini görüntülüyorsunuz
+clear: Temizle
+fullView: Tam görünüm
+emailNotConfiguredWarning: Mail adresi seçilmedi.
+privateMode: Özel Mod
+fast: Hızlı
+learnMore: Daha fazla bilgi edin
+localOnly: Sadece yerel
+delayed: Ertelenmiş
+useGlobalSetting: Global ayaralrı kullan
+switchAccount: Hesap değiştir
+notRecommended: Tavsiye edilmiyor
+onlineStatus: Çevrimiçi bilgisi
+active: Aktif
+instanceBlocking: Federasyon Yönetmek
+enabled: Aktif
+disabled: Deaktif
+quickAction: Hızlı işlemler
+configure: Yapılandır
+blockedInstances: Engellenmiş Sunucular
+silencedInstances: Susturulmuş Sunucular
+lookup: Görüntüle
+inputNewFolderName: Yeni klasör ismi gir
+noteOf: Gönderi {user} tarafından
+onlyOneFileCanBeAttached: Bir mesaja sadece 1 dosya ekleyebilirsin
+install: İndir
+uninstall: kALDIR
+send: Gönder
+noCrawleDescription: Arama motorlarından profil sayfanızı, gönderilerinizi, Sayfalarınızı
+  vb. indekslememesini isteyin.
+emailNotification: Mail bildirimleri
+goBack: Geri
+online: Çevrimiçi
+translatedFrom: "{x}'den çevrildi"
+cropImage: Resmi kırp
+deleteAccount: Hesabı Sil
+navbar: Gezinti çubuğu
+account: Hesap
+instanceDefaultThemeDescription: Tema kodunu nesne biçiminde girin.
+alt: ALT
+mutePeriod: Sessiz süresi
+indefinitely: Kalıcı olarak
+oneHour: Bir saat
+oneWeek: Bir hafta
+colored: Renkli
+sensitiveMediaDetection: Resim NSFW Belirleme
+subscribePushNotification: Push bildirimlerini aktif et
+pushNotificationAlreadySubscribed: Push bildirimler zaten açık
+sendPushNotificationReadMessage: İlgili bildirimler veya mesajlar okunduktan sonra
+  push bildirimlerini silin
+sendPushNotificationReadMessageCaption: Kısa bir süre için "{emptyPushNotificationMessage}"
+  metnini içeren bir bildirim görüntülenecektir. Bu, mümkünse cihazınızın pil kullanımını
+  artırabilir.
+enterSendsMessage: Mesaj göndermek için Mesajlaşma'da Geri Dön'e basın (Ctrl + Return)
+customMOTDDescription: Bir kullanıcı sayfayı her yüklediğinde/yeniden yüklediğinde
+  rastgele gösterilecek satır sonlarıyla ayrılmış MOTD (açılış ekranı) için özel mesajlar.
+customSplashIconsDescription: Bir kullanıcı sayfayı her yüklediğinde/yeniden yüklediğinde
+  rastgele gösterilecek satır sonlarıyla ayrılmış özel açılış ekranı simgeleri için
+  URL'ler. Lütfen resimlerin statik bir URL'de olduğundan ve tercihen tümü 192x192
+  olarak yeniden boyutlandırıldığından emin olun.
+updateAvailable: Bir güncelleme mevcut olabilir!
+splash: Açılış Ekranı
+moveTo: Şimdiki hesabını yeni bir hesaba taşı
+swipeOnMobile: Sayfalar arasında kaydırmaya izin ver
+swipeOnDesktop: Masaüstünde mobil stil kaydırmaya izin ver
+migration: Taşıma
+moveAccount: Hesabını taşı!
+moveFrom: Daha eski bir hesaptan bu hesaba taşıyın
+moveFromLabel: 'Taşındığınız hesap:'
+importAndExport: İçeri/Dışarı Aktar
+manageLists: Listeleri düzenle
+error: Hata
+pageLoadError: Sayfayı yüklerken bir hata ile karşılaşıldı.
+serverIsDead: Sunucu yanıt vermiyor. Biraz bekleyip tekrar deneyin.
+defaultNoteVisibility: Varsayılan görünürlük
+follow: Takip et
+reactionSettingDescription2: Yeniden sıralamak için sürükleyin, silmek için tıklayın,
+  eklemek için "+"ya basın.
+you: Sen
+clickToShow: Görmek için tıkla
+sensitive: NSFW
+add: Ekle
+reaction: Tepkiler
+markAsSensitive: NSFW olarak işaretle
+unblock: Engeli Kaldır
+addAccount: Hesap ekle
+network: İnternet
+disk: Depolama
+instanceInfo: Sunucu Bilgisi
+statistics: İstatistikler
+hiddenTagsDescription: Trendlerden gizlemek ve keşfetmek istediğiniz etiketlerin (#
+  olmadan)etiketlerini listeleyin. Gizli etiketler başka yollarla keşfedilebilir.
+mutedUsers: Susturulmuş kullanıcılar
+uploadFromUrlMayTakeTime: Yüklemenin tamamlanması zaman alabilir.
+activity: Aktivite
+theme: Temalar
+themeForLightMode: Aydınlık modda kullanmak için temalar
+reloadConfirm: Zaman çizelgesini yenilemek ister misiniz?
+instanceName: Sunucu adı
+circularReferenceFolder: Hedef klasör, taşımak istediğiniz klasörün bir alt klasörüdür.
+instanceDescription: Sunucu açıklaması
+driveCapacityPerLocalAccount: Kullanıcı başı Driver kapasitesi
+driveCapacityPerRemoteAccount: Uzak kullanıcı başı Driver kapasitesi
+inMb: Megabayt cinsinden
+pinnedClipId: Sabitlenecek atacın ID'si
+withFiles: Dosya içeren
+recentlyRegisteredUsers: Yeni katılmış kullanıcılar
+recentlyDiscoveredUsers: Yeni keşfedilmiş kullanıcılar
+nUsersMentioned: '{n} kullanıcı tarafından bahsedildi'
+securityKey: Security key
+title: Başlık
+total: Toplam
+sounds: Sesler
+objectStorageRegionDesc: "'xx-east-1' gibi bir bölge belirtin. Hizmetiniz bölgeler
+  arasında ayrım yapmıyorsa, bunu boş bırakın veya 'us-east-1' girin."
+objectStorageUseSSL: SSL Kullan
+popout: Açılır Pencere
+volume: Ses Kuvveti
+showInPage: Sayfada göster
+masterVolume: Ana ses
+undeck: Desteden çık
+useBlurEffectForModal: Modallar için bulanıklık efekti uygula
+leaveConfirm: Kaydedilmemiş değişiklikler var. Devam etmek istiyor musunuz?
+testEmail: Email dağıtımını test et
+wordMute: Kelime susturması
+userSaysSomething: '{name} bir şey söyledi'
+channel: Kanallar
+create: Oluştur
+useGlobalSettingDesc: Açıksa, hesap bildirim ayarlarınız kullanılacaktır. Kapatılırsa,
+  bireysel yapılandırmalar yapılabilir.
+setMultipleBySeparatingWithSpace: Birden çok girişi boşluklarla ayırın.
+fileIdOrUrl: Dosya ID veya URL'si
+behavior: Davranış
+abuseReported: Raporunuz gönderildi. Teşekkürler.
+reporteeOrigin: Ana Raporcu
+reporterOrigin: Ana Rapor Eden
+defaultNavigationBehaviour: Varsayılan gezinme davranışı
+editTheseSettingsMayBreakAccount: Bunları düzenlemek hesabınıza zarar verebilir.
+renotedCount: Alınan yükseltme sayısı
+driveFilesCount: Drive dosya sayısı
+deleteConfirm: Sil?
+invalidValue: Geçersiz değer.
+instanceSecurity: Sunucu Güvenliği
+searchResult: Arama sonuçları
+useBlurEffect: Kullanıcı arayüzünde bulanıklaştırma efektleri kullanın
+iceshrimpUpdated: Iceshrimp güncellendi!
+lastCommunication: Son iletişim
+itsOn: Etkinleştirilmiş
+emailRequiredForSignup: Kayıt olmak için mail gerekiyor
+leaveGroup: Gruptan ayrıl
+useDrawerReactionPickerForMobile: Reaksiyon seçiciyi mobil cihazda çekmece olarak
+  göster
+leaveGroupConfirm: '"{name}"den ayrılmak istediğinizden emin misiniz?'
+instanceDefaultLightTheme: Sunucu genelinde varsayılan aydınlık tema
+document: Dökümanlar
+numberOfPageCacheDescription: Bu sayının arttırılması, kullanıcılar için kolaylık
+  sağlayacaktır ancak daha fazla sunucu yükünün yanı sıra daha fazla bellek kullanılmasına
+  neden olacaktır.
+refreshInterval: 'Güncelleme aralığı '
+label: Etiket
+replayTutorial: Eğiticiyi tekrar oynat
+moveAccountDescription: Bu süreç geri döndürülemez. Taşımadan önce yeni hesabınızda
+  bu hesap için bir takma ad ayarladığınızdan emin olun. Lütfen @person@server.com
+  şeklinde biçimlendirilmiş hesabın etiketini girin
+emojis: Emoji
+flagAsCat: Kedi misin? 😺
+selectChannel: Kanal seç
+emojiName: Emoji adı
+showOnRemote: Uzak sunucuda görüntüle
+flagSpeakAsCatDescription: Gönderileriniz kedi modundayken nyanifiye edilecek
+flagShowTimelineReplies: Yanıtları zaman çizelgesinde göster
+silenceThisInstance: Bu sunucuyu sustur
+proxyAccountDescription: Vekil hesabı, belirli koşullar altında kullanıcılar için
+  uzaktan takipçi işlevi gören bir hesaptır. Örneğin, bir kullanıcı listeye bir uzak
+  kullanıcı eklediğinde, o kullanıcıyı takip eden yerel bir kullanıcı yoksa uzak kullanıcının
+  etkinliği sunucuya teslim edilmeyecektir, bu nedenle onun yerine vekil hesabı takip
+  edilecektir.
+clearQueueConfirmTitle: Bu sırayı temizlemek istediğine emin misin?
+software: Yazılım
+version: Sürüm
+federating: Federasyon
+preview: Ön izleme
+retypedNotMatch: Girişler uyuşmuyor.
+attachFile: Dosya ekle
+noSuchUser: Kullanıcı bulunamadı
+removeAreYouSure: '"{x}" kaldırmak istediğinize emin misiniz?'
+keepOriginalUploading: Orjinal resmi sakla
+messageRead: Oku
+deleteAreYouSure: '"{x}" silmek istediğinize emin misiniz?'
+messaging: Sohbet
+upload: Yükle
+fromUrl: URL'den
+agreeTo: '{0} kabul ediyorum'
+tos: Kullanım Koşulları
+drive: Drive
+selectFolder: Klasör seç
+inputNewFileName: Yeni dosya ismi gir
+whenServerDisconnected: Sunucuyla bağlantı kesildiğinde
+avatar: Avatar
+rename: Yeniden Adlandır
+banner: Afiş
+nsfw: NSFW
+doNothing: Görmezden Gel
+watch: İzle
+connectService: Bağlan
+registration: Kayıt
+hcaptcha: hCaptcha
+pinnedNotes: Sabitlenmiş gönderiler
+hcaptchaSiteKey: Site key
+hcaptchaSecretKey: Secret key
+antennaSource: Anten kaynağı
+antennaKeywords: Dinlenecek anahtar kelimeler
+antennaExcludeKeywords: Hariç tutulacak anahtar kelimeler
+antennaKeywordsDescription: AND koşulu için boşluklarla veya OR koşulu için satır
+  sonlarıyla ayırın.
+caseSensitive: Büyük harf duyarlı
+enableServiceworker: Tarayıcınız için Push-Bildirimleri Etkinleştirin
+unsilenceConfirm: Bu kullanıcının susturma işlemini geri almak istediğinizden emin
+  misiniz?
+userList: Listeler
+antennaUsersDescription: Kullanıcı başı bir satır kullanın
+administrator: Yönetici
+token: Token
+cacheClear: Önbelleği temizle
+createGroup: Grup oluştur
+newPasswordIs: Yeni şifren "{password}"
+share: Paylaş
+enable: Etkinleştir
+groupName: Grup adı
+available: Mevcut
+unavailable: Mevcut değil
+weekOverWeekChanges: Geçen haftadan beri değişiklikler
+usernameInvalidFormat: Büyük ve küçük harfleri, sayıları ve alt çizgileri kullanabilirsiniz.
+tooShort: Çok kısa
+passwordMatched: Uyuşuyor
+dayOverDayChanges: Dünden beri değişiklikler
+appearance: Görünüm
+objectStorageBaseUrl: Ana URL
+objectStoragePrefix: Prefix
+unableToProcess: Operasyon tamamlanamadı
+deleteAllFilesConfirm: Tüm dosyaları silmek istediğine emin misin?
+disablePagesScript: Sayfalardan AiScript'i deaktive et
+expandOnNoteClick: Gönderileri basarak aç
+expandOnNoteClickDesc: Kapatılırsa, gönderileri hala menüden veya sağtıklayarak açabilirsin.
+removeAllFollowingDescription: Bunu gerçekleştirmek, {host} üzerindeki tüm hesapları
+  takip etmeyi bırakır.
+deck: Deste
+pluginTokenRequestedDescription: Bu eklenti, burada ayarlanan izinleri kullanabilecektir.
+notificationType: Bildirim tipi
+channelFederationWarn: Kanallar başka sunuculara federe edilmiyor
+forwardReport: Raporu uzak sunucuya ilet
+openInNewTab: Yeni sekmede aç
+clip: Ataç
+optional: Opsiyonel
+manageAccessTokens: Erişim tokenlerini düzenle
+clipsDesc: Ataçlar, paylaşılabilen kategorize yer imleri gibidir. Tek tek gönderiler
+  menüsünden ataçlar oluşturabilirsiniz.
+makeExplorable: Hesabını "Keşfet" 'te göster
+accountInfo: Hesap Bilgisi
+makeExplorableDescription: Bunu kapatırsanız, hesabınız "Keşfet" bölümünde görünmez.
+saveAs: Olarak kaydet...
+advanced: Gelişmiş
+value: Değer
+youAreRunningUpToDateClient: En son istemci sürümünü kullanıyorsunuz.
+accounts: Hesaplar
+switch: Değiştir
+popularPosts: Popüler sayfalar
+inChannelSearch: Kanalda ara
+administration: Yönetim
+ads: Reklamlar
+low: Düşük
+seperateRenoteQuote: Ayrı destek ve fiyat teklifi düğmeleri
+sent: Gönderildi
+customMOTD: Özel MOTD
+showUpdates: Iceshrimp güncellendiğinde bir açılır pencere göster
+logoImageUrl: Logo resim URL'si
+showAdminUpdates: Yeni bir Iceshrimp sürümünün mevcut olduğunu belirtin (yalnızca yönetici)
+newer: asla
+older: daha eski
+exportRequested: Bir dışarı aktarma talebinde bulundunuz. Bu biraz zaman alabilir.
+  Tamamlandığında Drive'ınıza eklenecektir.
+notes: Gönderiler
+following: Takip Ediyor
+followers: Takipçiler
+followsYou: Seni takip ediyor
+pageLoadErrorDescription: Buna normalde ağ hataları veya tarayıcının önbelleği neden
+  olur. Önbelleği temizlemeyi deneyin ve biraz bekledikten sonra tekrar deneyin.
+quote: Alıntıla
+pinnedNote: Sabitlenmiş gönderi
+renote: Yükselt
+unrenote: Yükseltmeyi geri al
+emojiUrl: Emoji URL
+suspendConfirm: Bu hesabı askıya almak istediğinize emin misiniz?
+addEmoji: Ekle
+autoAcceptFollowed: Takip ettiğiniz kullanıcıların takip isteklerini otomatik olarak
+  onaylayın
+general: Genel
+accountMoved: 'Bu kullanıcı yeni bir hesapa taşındı:'
+wallpaper: Arkaplan
+searchWith: 'Arat: {q}'
+youHaveNoLists: Hiçbir listen yok
+followConfirm: '{name} kullanıcısını takip etmek istediğine emin misin?'
+metadata: Metadata
+monitor: İzlengeç
+jobQueue: İş Sırası
+noUsers: Kullanıcı bulunamadı
+noInstances: Sunucu bulunamadı
+pinLimitExceeded: Daha fazla gönderi sabitleyemezsin
+defaultValueIs: 'Varsayılan: {value}'
+noCustomEmojis: Emoji yok
+blocked: Engellenmiş
+default: Varsayılan
+all: Tümü
+subscribing: Abone Olunuyor
+publishing: Yayınlanmak
+notResponding: Cevap vermiyor
+more: Daha fazla!
+featured: Önerilen
+usernameOrUserId: Kullanıcı adı veya kullanıcı id'si
+fromDrive: Drive'dan
+uploadFromUrl: URL'den yükle
+announcements: Duyurular
+explore: Keşfet
+imageUrl: Resim URL'si
+thisYear: Yıl
+deleteFolder: Bu klasörü sil
+addFile: Dosya ekle
+dayX: '{day}'
+enableLocalTimeline: Yerel zaman çizgisini aktif et
+disconnectService: Bağlantıyı kes
+enableGlobalTimeline: Global zaman çizgisini aktif et
+enableRegistration: Yeni kullanıcı kaydını aktif et
+invite: Davet et
+bannerUrl: Afiş resmi URL
+backgroundImageUrl: Arkaplan URL'si
+recaptcha: reCAPTCHA
+iconUrl: Ikon URL
+recaptchaSecretKey: Secret key
+avoidMultiCaptchaConfirm: Birden fazla Captcha sistemi kullanmak aralarında etkileşime
+  neden olabilir. Şu anda etkin olan diğer Captcha sistemlerini devre dışı bırakmak
+  ister misiniz? Etkin kalmalarını istiyorsanız, iptal düğmesine basın.
+aboutIceshrimp: Iceshrimp Hakkında
+popularUsers: Popüler kullanıcılar
+notFoundDescription: Bu URL'ye karşılık gelen sayfa bulunamadı.
+reduceUiAnimation: Arayüz animasyonlarını azalt
+markAsReadAllNotifications: Tüm bildirimleri okundu olarak işaretle
+markAsReadAllTalkMessages: Tüm mesajları okundu olarak işaretle
+inviteToGroup: Gruba davet et
+quoteAttached: Alıntıla
+useOsNativeEmojis: Sistem Emojilerini Kullan
+signinHistory: Giriş geçmişleri
+disableAnimatedMfm: Animasyonlu MFM'yi devre dışı bırak
+uiLanguage: Arayüz dili
+groupInvited: Bir gruba davet edildin
+createAccount: Hesap Oluştur
+existingAccount: Var olan hesap
+aboutX: '{x} Hakkında'
+doing: İşleniyor...
+category: Kategori
+deleteAll: Hepsini sil
+objectStorageEndpoint: Endpoint
+output: Çıkış
+userSuspended: Bu kullanıcı askıya alındı.
+userSilenced: Bu kullanıcı susturuldu.
+yourAccountSuspendedTitle: Bu hesap askıya alındı
+relays: Röleler
+inboxUrl: Gelen URL
+menu: Menü
+divider: Ayraç
+addItem: Öğe Ekle
+enableInfiniteScroll: Otomatik olarak daha fazla yükle
+enablePlayer: Video oynatıcıyı aç
+disablePlayer: Video oynatıcıyı kapat
+expandTweet: Tweeti Büyüt
+large: Büyük
+medium: Orta
+smtpConfig: SMTP Sunucusu Ayarları
+smtpHost: Adres
+emailServer: Mail sunucusu
+edit: Düzenle
+emailAddress: Mail adresi
+smtpPort: Port
+emptyToDisableSmtpAuth: SMTP doğrulamasını kapatmak için kullanıcı adı ve şifreyi
+  boş bırakın
+makeActive: Aktif
+display: Gösterim
+copy: Kopyala
+metrics: Metrikler
+pollVotesCount: Gönderilen oylama sayısı
+loadRawImages: Küçük resimleri göstermek yerine orijinal resimleri yükleyin
+switchUi: Düzen
+sentReactionsCount: Gönderilen tepki sayısı
+receivedReactionsCount: Alınan tepki sayısı
+pollVotedCount: Alınan oylama sayısı
+pageLikedCount: Beğeni alan Sayfa sayısı
+contact: Bağlantı
+useSystemFont: Sistemin varsayılan yazı tipini kullan
+usageAmount: Kullanım
+inUse: Kullanılan
+userInfo: Kullanıcı bilgisi
+unknown: Bilinmiyor
+customCssWarn: Bu ayar yalnızca ne işe yaradığını biliyorsanız kullanılmalıdır. Uygun
+  olmayan değerlerin girilmesi, istemcinin normal şekilde çalışmamasına neden olabilir.
+memo: Not
+allowedInstancesDescription: Her biri yeni bir satırla ayrılmış, federasyon için beyaz
+  listeye eklenecek sunucu ana bilgisayarları (yalnızca özel modda geçerlidir).
+expiration: Bitiş
+troubleshooting: Sorun giderme
+usernameInfo: Hesabınızı bu sunucudaki diğerlerinden ayıran bir ad. Alfabeyi (a~z,
+  A~Z), rakamları (0~9) veya alt çizgileri (_) kullanabilirsiniz. Kullanıcı adları
+  daha sonra değiştirilemez.
+size: Boyut
+numberOfColumn: Sütun Sayısı
+driveCapOverrideCaption: 0 veya daha düşük bir değer girerek kapasiteyi varsayılana
+  sıfırlayın.
+requireAdminForView: Bunu görüntülemek için bir yönetici hesabıyla oturum açmalısınız.
+userSaysSomethingReasonReply: '{name}, {reason} içeren bir gönderiye cevap verdi'
+overview: Genel Bakış
+logs: Günlükler
+database: Veri Tabanı
+reportAbuseOf: '{name} kullanıcısını raporla'
+openInSideView: Yan görünümde aç
+createNew: Yeni oluştur
+createNewClip: Yeni ataç oluştur
+unclip: Atacı Kaldır
+notesCount: Gönderi sayısı
+repliesCount: Gönderilen yanıt sayısı
+renotesCount: Göndeirlen yükseltme sayısı
+repliedCount: Alınan yanıt sayısı
+driveUsage: Drive kullanımı
+noCrawle: Tarayıcı dizine eklemeyi reddet
+needReloadToApply: Bunun yansıtılması için bir yeniden yükleme gereklidir.
+showTitlebar: Başlık çubuğunu göster
+latestVersion: En Son Sürüm
+capacity: Kapasite
+userPagePinTip: Tek tek gönderiler menüsünden "Profile sabitle"yi seçerek gönderileri
+  burada görüntüleyebilirsiniz.
+offline: Çevrimdışı
+priority: Öncelik
+ratio: Oran
+secureMode: Güvenli Mod (Yetkili Getirme)
+aiChanMode: Klasik kullanıcı arayüzünde Ai-chan
+recommended: Önerilen
+received: Alındı
+classic: Ortalanmış
+muteThread: Konuyu sessize al
+deleteAccountConfirm: Bu, hesabınızı geri alınamaz bir şekilde silecektir. İlerle?
+hide: Gizle
+pubSub: Pub/Sub Hesapları
+filter: Filtre
+controlPanel: Kontrol Paneli
+continueThread: Konuya devam et
+incorrectPassword: Yanlış şifre.
+voteConfirm: '"{choice}" için oyunuzu onaylıyor musunuz?'
+failedToFetchAccountInformation: Hesap bilgileri getirilemedi
+rateLimitExceeded: Hız limiti aşıldı
+renotedBy: '{user} Yükseltti'
+host: Host
+objectStorage: Object Storage
+objectStorageUseSSLDesc: API bağlantıları için HTTPS kullanmayacaksanız bunu kapatın
+objectStorageUseProxyDesc: API bağlantıları için Proxy kullanmayacaksanız bunu kapatın
+objectStorageSetPublicRead: Yüklendiğinde "public-read" kullan
+serverLogs: Sunucu günlüğü
+abuseReports: Raporlar
+reportAbuse: Rapor
+verificationEmailSent: Bir doğrulama maili gönderildi. Doğrulamayı tamamlamak için
+  lütfen verilen bağlantıyı takip edin.
+hashtags: Etiketler
+resolved: Çözüldü
+flagShowTimelineRepliesDescription: Açıksa, kullanıcıların zaman çizelgesindeki diğer
+  kullanıcıların gönderilerine verdiği yanıtları gösterir.
+clearQueueConfirmText: Kuyrukta kalan teslim edilmemiş gönderiler birleştirilmeyecektir.
+  Genellikle bu işleme gerek yoktur.
+image: Resim
+video: Video
+showMore: Daha Fazla
+showLess: Kapat
+selectAntenna: Anten seç
+selectWidget: Araç seç
+unsuspendConfirm: Bu hesabın askıya almasını kaldırmak istediğinize emin misiniz?
+selectList: Liste seç
+editWidgets: Araçları düzenle
+showEmojisInReactionNotifications: Tepki bildirimlerinde emojileri göster
+renoteMute: Yükseltmeleri sustur
+renoteUnmute: Yükseltmeleri susturmayı kaldır
+loginFailed: Giriş yapılamadı
+proxyAccount: Vekil Hesap
+selectUser: Kullanıcı seç
+recipient: Alıcı(lar)
+annotation: Yorumlar
+federation: Federasyon
+registeredAt: Kayıtlı
+latestRequestSentAt: Gönderilen son istek
+latestRequestReceivedAt: Alınan son istek
+latestStatus: Son durum
+storageUsage: Depolama kullanımı
+charts: Grafikler
+perHour: Saat Başı
+perDay: Gün Başı
+stopActivityDelivery: Etkinlik göndermeyi durdur
+blockThisInstance: Bu sunucuyu engelle
+themeForDarkMode: Karanlık modda kullanmak için temalar
+fileName: Dosya adı
+selectFile: Dosya seç
+emptyDrive: Drive'n boş
+promote: Terfi
+numberOfDays: Gün sayısı
+hideThisNote: Bu gönderiyi gizle
+file: Dosya
+enableEmojiReactions: Emoji tepkilerini aç
+cw: İçerik uyarısı
+makeFollowManuallyApprove: Takip istekleri onay gerektirir
+today: Bugün
+enableRecommendedTimeline: Tavsiye edilen zaman çizgisini aktive et
+state: Durum
+sort: Sırala
+script: Skript
+keepCw: İçerik uyarılarını sakla
+manageAccounts: Hesapları Düzenle
+makeReactionsPublicDescription: Bu, tüm geçmiş tepkilerinizin listesini herkesin görebileceği
+  bir hale getirecektir.
+unmuteThread: İleti dizisinin sesini aç
+ffVisibility: Takipler/Takipçiler Görünürlüğü
+reflectMayTakeTime: Bunun yansıması biraz zaman alabilir.
+cropImageAsk: Bu resmi kırpmak istediğinize emin misiniz?
+check: Kontrol Et
+driveCapOverrideLabel: Bu kullanıcı için drive kapasitesini değiştirin
+numberOfPageCache: Önbelleğe alınan sayfa sayısı
+license: Lisans
+indexFrom: Post ID'den itibaren dizin
+xl: XL
+notificationSetting: Bildirim ayarları
+fillAbuseReportDescription: Lütfen bu raporla ilgili ayrıntıları doldurun. Belirli
+  bir gönderiyle ilgiliyse, lütfen URL'sini ekleyin.
+forwardReportIsAnonymous: Uzak sunucuda, hesabınız yerine raportör olarak anonim bir
+  sistem hesabı görüntülenecektir.
+abuseMarkAsResolved: Raporu çözüldü olarak işaretle
+instanceTicker: Göndeirlerdeki sunucu bilgisi
+waitingFor: '{x} bekleniyor'
+random: Rastgele
+public: Herkese açık
+i18nInfo: Iceshrimp, gönüllüler tarafından çeşitli dillere çevriliyor. {link} adresinden
+  yardımcı olabilirsiniz.
+disableShowingAnimatedImages: Animasyonlu görüntüleri oynatma
+clips: Ataçlar
+experimentalFeatures: Deneysel özellikler
+developer: Geliştirici
+left: Sol
+center: Orta
+wide: Geniş
+narrow: Dar
+reloadToApplySetting: Bu ayar yalnızca bir sayfa yeniden yüklendikten sonra geçerli
+  olacaktır. Şimdi yeniden yüklensin mi?
+editCode: Kodu düzenle
+apply: Uygula
+receiveAnnouncementFromInstance: Bu sunucudan bildirimleri al
+publish: Paylaş
+quitFullView: Tam görünümden çık
+addDescription: Açıklama ekle
+info: Hakkında
+noMaintainerInformationWarning: Yönetici bilgileri yapılandırılmadı.
+noBotProtectionWarning: Bot koruması yapılandırılmamış.
+postToGallery: Yeni galeri gönderisi oluştur
+gallery: Galeri
+privateModeInfo: Etkinleştirildiğinde, yalnızca beyaz listedeki sunucular sunucunuzla
+  birleşebilir. Tüm gönderiler halktan gizlenecektir.
+itsOff: Etkinsizleştirilmiş
+ffVisibilityDescription: Kimleri takip ettiğinizi ve kimlerin sizi takip ettiğini
+  kimlerin görebileceğini yapılandırmanıza izin verir.
+themeColor: Sunucu Kayan Yazı Rengi
+audio: Ses
+recentNHours: Son {n} saat
+isSystemAccount: Bu hesap sistem tarafından oluşturulur ve otomatik olarak işletilir.
+  Lütfen bu hesabı denetlemeyin, düzenlemeyin, silmeyin veya başka bir şekilde kurcalamayın,
+  aksi takdirde sunucunuz bozulabilir.
+typeToConfirm: Lütfen onaylamak için {x} girin
+remoteOnly: Sadece uzak
+failedToUpload: Yükleme başarısız
+cannotUploadBecauseInappropriate: Bu dosya, bazı bölümleri potansiyel olarak NSFW
+  olarak algılandığından yüklenemedi.
+cannotUploadBecauseNoFreeSpace: Drive kapasitesi yetersiz olduğundan yükleme başarısız
+  oldu.
+cannotUploadBecauseExceedsFileSizeLimit: Bu dosya, izin verilen maksimum boyutu aştığı
+  için yüklenemedi.
+beta: Beta
+enableAutoSensitive: Otomatik NSFW İşaretleme
+enableAutoSensitiveDescription: Mümkün olduğunda Makine Öğrenimi yoluyla NSFW ortamının
+  otomatik olarak algılanmasına ve işaretlenmesine olanak tanır. Bu seçenek devre
+  dışı bırakılsa bile, sunucu çapında etkinleştirilebilir.
+shuffle: Karıştır
+pushNotification: Push bildirimleri
+unsubscribePushNotification: Push bildirimlerini kapat
+pushNotificationNotSupported: Tarayıcınız veya sunucunuz push bildirimleri desteklemiyor
+caption: Otomatik Başlık
+moveToLabel: 'Taşıyacağın hesap:'
+moveFromDescription: Bu, eski hesabınızın bir takma adını belirleyecek ve böylece
+  o hesaptan bu mevcut hesaba geçebileceksiniz. Bunu eski hesabınızdan taşınmadan
+  ÖNCE yapın. Lütfen @person@server.com şeklinde biçimlendirilmiş hesabın etiketini
+  girin
+migrationConfirm: "Hesabınızı {account} hesabına taşımak istediğinizden kesinlikle
+  emin misiniz? Bunu yaptığınızda, geri alamazsınız ve hesabınızı bir daha normal
+  şekilde kullanamazsınız.\nAyrıca, lütfen bu cari hesabı, taşındığınız hesap olarak
+  ayarladığınızdan emin olun."
+indexFromDescription: Her gönderiyi dizine eklemek için boş bırakın
+indexNotice: Şimdi indeksleniyor. Bu muhtemelen biraz zaman alacaktır, lütfen sunucunuzu
+  en az bir saat yeniden başlatmayın.
+customKaTeXMacro: Özel KaTeX makroları
+directNotes: Direkt Mesajlar
+import: İçeri Aktar
+export: Dışarı Aktar
+mentions: Bahsetmeler
+files: Dosyalar
+driveFileDeleteConfirm: '"{name}" dosyasını silmek istediğinizden emin misiniz? Ek
+  olarak içeren tüm gönderilerden kaldırılacaktır.'
+createList: Liste oluştur
+listsDesc: Listeler, belirtilen kullanıcılarla zaman çizelgesi oluşturmanıza olanak
+  tanır. Zaman Çizelgesi sayfasından erişilebilirler.
+note: Gönder
+enterListName: Liste için isim gir
+unfollow: Takipten Çık
+privacy: Gizlilik
+followRequestPending: Takip isteği bekleniyor
+enterEmoji: Bir emoji gir
+followRequest: Takip İsteği
+followRequests: Takip istekleri
+renoted: Yükseldi.
+emoji: Emoji
+cacheRemoteFiles: Uzak dosyaları önbellekle
+flagAsBot: Bu hesabı robot olarak işaretle
+flagAsBotDescription: Bu hesap bir program tarafından kontrol ediliyorsa bu seçeneği
+  etkinleştirin. Etkinleştirilirse, diğer geliştiricilerin diğer botlarla sonsuz etkileşim
+  zincirlerini önlemesi ve Iceshrimp'nin dahili sistemlerini bu hesabı bir bot olarak
+  ele alacak şekilde ayarlaması için bir bayrak görevi görür.
+clearQueue: Sırayı Temizle
+hiddenTags: Gizlenmiş Etiketler
+done: Tamamlandı
+processing: İşleniyor
+silenced: Susturulmuş
+darkThemes: Karanlık temalar
+suspended: Askıya Alınmış
+keepOriginalUploadingDescription: Orijinal olarak yüklenen görüntüyü olduğu gibi kaydeder.
+  Kapatılırsa, yükleme sırasında web'de görüntülenecek bir sürüm oluşturulur.
+start: Başla
+home: Ev
+location: Konum
+registeredDate: Katılım tarihi
+yearX: '{year}'
+pages: Sayfalar
+integration: Entegrasyonlar
+antennasDesc: "Antenler, belirlediğiniz kriterlere uyan yeni gönderiler görüntüler!\n
+  Zaman çizelgeleri sayfasından erişilebilirler."
+notesAndReplies: Gönderiler ve yanıtlar
+withReplies: Yanıtları da içer
+connectedTo: Aşağıdaki hesap(lar) bağlı
+silenceConfirm: Bu kullanıcıyı susturmak istediğinize emin misiniz?
+messagingWithUser: Özel sohbet
+resetPassword: Şifreyi sıfırla
+registerSecurityKey: Yeni security key tanımla
+docSource: Bu dökümanın kaynağı
+ascendingOrder: Artan
+tags: Etiketler
+descendingOrder: Azalan
+scratchpadDescription: Karalama defteri, AiScript deneyleri için bir ortam sağlar.
+  İçinde Iceshrimp ile etkileşime girerek sonuçlarını yazabilir, çalıştırabilir ve kontrol
+  edebilirsiniz.
+local: Yerel
+remote: Uzak
+addRelay: Röle Ekle
+accessibility: Erişilebilirlik
+showFeaturedNotesInTimeline: Önerilen gönderileri zaman çizelgesinde göster
+objectStorageBaseUrlDesc: "Referans olarak kullanılan URL. İkisinden birini kullanıyorsanız,
+  CDN veya Proxy'nizin URL'sini belirtin.\nS3 için 'https://<bucket>.s3.amazonaws.com'
+  kullanın ve GCS veya eşdeğer hizmetler için 'https://storage.googleapis.com/<bucket>'
+  vb. kullanın."
+objectStoragePrefixDesc: Dosyalar bu prefix ile dizinler altında saklanacaktır.
+objectStorageEndpointDesc: AWS S3 kullanıyorsanız bunu boş bırakın, aksi halde kullandığınız
+  hizmete bağlı olarak uç noktayı "<host>" veya "<host>:<port>" olarak belirtin.
+objectStorageRegion: Region
+invisibleNote: Gizli Gönderi
+deletedNote: Silinmiş Gönderi
+visibility: Görünürlük
+poll: Anket
+themeEditor: Tema düzenleyicisi
+enterFileDescription: Başlık gir
+description: Açıklama
+describeFile: Başlık ekle
+system: Sistem
+desktop: Masaüstü
+confirmToUnclipAlreadyClippedNote: Bu gönderi zaten "{name}" atacının bir parçası.
+  Bunun yerine onu bu ataçtan kaldırmak istiyor musunuz?
+sendErrorReportsDescription: "Açıldığında, bir sorun oluştuğunda ayrıntılı hata bilgileri
+  Iceshrimp ile paylaşılarak Iceshrimp kalitesinin artırılmasına yardımcı olur.\nBu, işletim
+  sisteminizin sürümü, kullandığınız tarayıcı, Iceshrimp'deki etkinliğiniz vb. bilgileri
+  içerecektir."
+closeAccount: Hesabı kapat
+markAllAsRead: Okunmuş olarak işaretle
+allowedInstances: Beyaz Listedeki Sunucular
+squareAvatars: Kare avatarları göster
+unread: Okunmaımş
+instanceDefaultDarkTheme: Sunucu genelinde varsayılan karanlık tema
+oneDay: Bir gün
+showAds: Reklamları göster
+adminCustomCssWarn: Bu ayar yalnızca ne işe yaradığını biliyorsanız kullanılmalıdır.
+  Yanlış değerler girilmesi, HERKESİN istemcilerinin normal şekilde çalışmamasına
+  neden olabilir. Lütfen CSS'nizi kullanıcı ayarlarınızda test ederek düzgün çalıştığından
+  emin olun.
+customSplashIcons: Özel açılış ekranı simgeleri (url'ler)
+recommendedInstancesDescription: Önerilen zaman çizelgesinde görünmesi için satır
+  sonlarıyla ayrılmış önerilen sunucular.
+recommendedInstances: Önerilen sunucular
+enableServerMachineStats: Sunucu donanımı istatistiklerini etkinleştir
+_sensitiveMediaDetection:
+  sensitivityDescription: Hassasiyetin düşürülmesi daha az yanlış tespite yol açarken,
+    hassasiyeti artırmak daha az tespitin gözden kaçmasına yol açacaktır.
+  setSensitiveFlagAutomaticallyDescription: Bu seçenek kapatılsa bile dahili algılamanın
+    sonuçları korunacaktır.
+  description: Makine Öğrenimi yoluyla NSFW ortamını otomatik olarak tanıyarak sunucu
+    denetleme çabasını azaltır. Bu, sunucudaki yükü biraz artıracaktır.
+  sensitivity: Algılama hassasiyeti
+  analyzeVideos: Videoların analizini etkinleştir
+  setSensitiveFlagAutomatically: NSFW olarak işaretle
+  analyzeVideosDescription: Görüntülere ek olarak videoları da analiz eder. Bu, sunucudaki
+    yükü biraz artıracaktır.
+enableIdenticonGeneration: Kimlik oluşturmayı etkinleştir
+reactionPickerSkinTone: Tercih edilen emoji cilt tonu
+noteId: Gönderi ID
+preventAiLearning: AI bot öğrenmesini önleyin
+preventAiLearningDescription: Gönderiler ve resimler gibi yüklediğiniz içeriği incelememek
+  için üçüncü taraf yapay zeka dil modellerini isteyin.
+isAdmin: Yönetici
+_emailUnavailable:
+  disposable: Tek kullanımlık mail adresleri kullanılamaz
+  smtp: Bu mail sunucusu cevap vermiyor
+  mx: Bu mail sunucusu hatalı
+  used: Bu mail zaten kullanılıyor
+  format: Bu mail adresi yanlış
+apps: Uygulamalar
+findOtherInstance: Başka bir sunucu bul
+showWithSparkles: Parıltılarla göster
+showPopup: Kullanıcıları pop-up ile bilgilendirin
+silencedWarning: Bu sayfa, bu kullanıcılar yöneticinizin susturduğu sunuculardan olduğu
+  için gösteriliyor, bu nedenle potansiyel olarak spam olabilirler.
+isPatron: Iceshrimp Patronu
+youHaveUnreadAnnouncements: Okunmamış duyurularınız var
+donationLink: Bağış sayfası linki
+neverShow: Birdaha gösterme
+remindMeLater: Belki sonra
+removeQuote: Alıntıyı sil
+removeRecipient: Alıcıyı sil
+removeMember: Kullanıcıyı sil
+customKaTeXMacroDescription: 'Kolayca matematiksel ifadeler yazmak için makrolar kurun!
+  Gösterim, LaTeX komut tanımlarına uygundur ve \newcommand{\ name}{content} veya
+  \newcommand{\name}[argüman sayısı]{content} şeklinde yazılır. Örneğin, \newcommand{\add}[2]{#1
+  + #2}, \add{3}{foo} öğesini 3 + foo olarak genişletir. Makro adını çevreleyen süslü
+  parantezler, yuvarlak veya köşeli parantezler olarak değiştirilebilir. Bu, bağımsız
+  değişkenler için kullanılan parantezleri etkiler. Satır başına bir (ve yalnızca
+  bir) makro tanımlanabilir ve satırı tanımın ortasından ayıramazsınız. Geçersiz satırlar
+  basitçe yoksayılır. Yalnızca basit dizi değiştirme işlevleri desteklenir; koşullu
+  dallanma gibi gelişmiş söz dizimi burada kullanılamaz.'
+enableCustomKaTeXMacro: Özel KaTeX makrolarını aktif et
+isLocked: Bu hesabın takip onayları var
+isModerator: Moderatör
+signupsDisabled: Bu sunucudaki kayıtlar şu anda devre dışı, ancak istediğiniz zaman
+  başka bir sunucuya kaydolabilirsiniz! Bu sunucu için bir davet kodunuz varsa, lütfen
+  aşağıya girin.
+sendModMail: Moderasyon Bildirimi Gönder
+noGraze: Iceshrimp ile çakıştığı için lütfen "Graze for Mastodon" tarayıcı uzantısını
+  devre dışı bırakın.
+isBot: Bu hesap bir bottur
+_2fa:
+  renewTOTPOk: Yeniden Yapılandır
+  registerTOTP: Doğrulayıcı uygulamasını kaydedin
+  renewTOTPCancel: İptal Et
+  renewTOTPConfirm: Bu, önceki uygulamanızdaki doğrulama kodlarının çalışmamasına
+    neden olur
+  alreadyRegistered: Zaten bir 2 faktörlü kimlik doğrulama cihazını kaydettiniz.
+  chromePasskeyNotSupported: Chrome geçiş anahtarları şu anda desteklenmemektedir.
+  registerSecurityKey: Bir güvenlik veya geçiş anahtarı kaydedin
+  securityKeyName: Bir anahtar adı girin
+  removeKey: Güvenlik anahtarını kaldır
+  removeKeyConfirm: '{name} anahtarı gerçekten silinsin mi?'
+  renewTOTP: Kimlik doğrulayıcı uygulamasını yeniden yapılandırın
+  token: 2FA Tokeni
+  step1: Öncelikle, cihazınıza bir kimlik doğrulama uygulaması ({a} veya {b} gibi)
+    yükleyin.
+  step2Click: Bu QR koduna tıklamak, 2FA'yı güvenlik anahtarınıza veya telefon kimlik
+    doğrulayıcı uygulamanıza kaydetmenize olanak tanır.
+  step3Title: Bir kimlik doğrulama kodu girin
+  securityKeyNotSupported: Tarayıcınız güvenlik anahtarlarını desteklemiyor.
+  step2: Ardından, bu ekranda görüntülenen QR kodunu tarayın.
+  step2Url: "Bir masaüstü programı kullanıyorsanız bu URL'yi de girebilirsiniz:"
+  step3: Kurulumu tamamlamak için uygulamanız tarafından sağlanan tokeni girin.
+  step4: Şu andan itibaren, gelecekteki herhangi bir oturum açma denemesi böyle bir
+    oturum açma tokeni isteyecektir.
+  securityKeyInfo: Parmak izi veya PIN kimlik doğrulamasının yanı sıra, hesabınızın
+    güvenliğini daha da artırmak için FIDO2'yi destekleyen donanım güvenlik anahtarları
+    aracılığıyla kimlik doğrulama ayarlayabilirsiniz.
+  tapSecurityKey: Güvenlik veya geçiş anahtarını kaydetmek için lütfen tarayıcınızı
+    takip edin
+  registerTOTPBeforeKey: Bir güvenlik veya geçiş anahtarı kaydetmek için lütfen bir
+    kimlik doğrulama uygulaması kurun.
+  whyTOTPOnlyRenew: Kimlik doğrulayıcı uygulaması, bir güvenlik anahtarı kaydedildiği
+    sürece kaldırılamaz.
+_poll:
+  voted: Oylandı
+  deadlineTime: Zaman
+  remainingDays: '{d} gün {h} saat kaldı'
+  remainingHours: '{h} saat {m} dakika kaldı'
+  remainingSeconds: '{s} saniye kaldı'
+  remainingMinutes: '{m} dakika {s} saniye kaldı'
+  noOnlyOneChoice: En az 2 seçenek gerekiyor
+  noMore: Daha fazla seçenek ekleyemezsin
+  at: Bitiş...
+  deadlineDate: Bitiş tarihi
+  duration: Süre
+  votesCount: '{n} oy'
+  expiration: Anketi bitir
+  totalVotes: toplam {n} oy
+  closed: Bitti
+  infinite: Asla
+  vote: Oyla
+  showResult: Sonuçları görüntüle
+  after: "'den sonra bitiş..."
+  choiceN: Seçenek {n}
+  canMultipleVote: Birden fazla seçime izin ver
+_theme:
+  code: Tema kodu
+  description: Açıklama
+  builtinThemes: Yerleşik temalar
+  color: Renk
+  keys:
+    fgHighlighted: Vurgulanan Metin
+    infoWarnFg: Uyarı metni
+    mention: Bahsetme
+    mentionMe: Bahsetme (Kendim)
+    buttonBg: Düğme arka planı
+    buttonHoverBg: Düğme arka planı (Üstüne Gelince)
+    shadow: Gölge
+    navBg: Kenar çubuğu arka planı
+    accent: Vurgu
+    fg: Yazı
+    dateLabelFg: Tarih etiketi metni
+    navActive: Kenar çubuğu metni (Etkin)
+    wallpaperOverlay: Arkaplan arayüzü
+    messageBg: Sohbet arkaplanı
+    focus: Fokus
+    accentLighten: Vurgu (Aydınlık)
+    bg: Arkaplan
+    indicator: Gösterge
+    hashtag: Etiket
+    renote: Yükseltme
+    modalBg: Modal arka plan
+    divider: Bölücü
+    scrollbarHandle: Kaydırma çubuğu kolu
+    scrollbarHandleHover: Kaydırma çubuğu tutacağı (Üzerine Gelince)
+    infoBg: Bilgi geçmişi
+    accentDarken: Vurgu (Karanlık)
+    header: Başlık
+    navFg: Kenar çubuğu metni
+    navIndicator: Kenar çubuğu göstergesi
+    link: Link
+    infoFg: Bilgi metni
+    infoWarnBg: Uyarı arka planı
+    badge: Rozen
+    panel: Panel
+    navHoverFg: Kenar çubuğu metni (Üzerine Gelince)
+    cwBg: CW düğmesi arka planı
+    cwFg: CW düğmesi meni
+    cwHoverBg: CW düğmesi arka planı (Üzerine Gelince)
+    toastFg: Bildirim metni
+    inputBorder: Giriş alanı sınırı
+    listItemHoverBg: Liste öğesi arka planı (Üstüne Gelince)
+    toastBg: Bildirim arka planı
+    driveFolderBg: Drive klasörü arkaplanı
+  funcKind: Fonksiyon tipi
+  argument: Argüman
+  lighten: Aydınlat
+  inputConstantName: Bu sabit için bir ad girin
+  deleteConstantConfirm: '{const} sabitini gerçekten silmek istiyor musunuz?'
+  explore: Temaları Keşfet
+  darken: Karart
+  base: Temel
+  manage: Temaları düzenle
+  installedThemes: Yüklenen temalar
+  invalid: Bu temanın biçimi geçersiz
+  make: Tema oluştur
+  key: Anahtar
+  alpha: Opaklık
+  install: Tema yükle
+  installed: '{name} başarıyla yüklendi'
+  alreadyInstalled: Bu tema zaten yüklendi
+  importInfo: Buraya tema kodunu girerseniz, onu tema düzenleyiciye aktarabilirsiniz
+  func: Fonksiyonlar
+  basedProp: Referenslanan özellik
+  constant: Sabit
+  defaultValue: Varsayılan değer
+  refConst: Bir sabiti referansla
+  refProp: Bir mülkü referansla
+  addConstant: Sabit ekle
+_menuDisplay:
+  sideIcon: Yan (Simgeler)
+  sideFull: Yan
+  hide: Gizle
+  top: Üst
+_filters:
+  fromUser: Kullanıcıdan
+  withFile: Dosya ile
+  notesBefore: Gönderiden önce
+  notesAfter: Gönderiden sonra
+  followingOnly: Sadece takip ettiklerim
+  fromDomain: Alan adı ile
+  followersOnly: Sadece takipçiler
+_permissions:
+  "write:blocks": Engelli kullanıcıları düzenle
+  "read:drive": Drive dosya ve klasörlerine eriş
+  "read:favorites": Yer imlerini görüntüle
+  "write:mutes": Susturulmuş kullanıcıları düzenle
+  "read:notifications": Bildirimleri görüntüle
+  "write:notifications": Bildirimleri düzenle
+  "write:page-likes": Sayfalardaki beğenilerini düzenle
+  "read:user-groups": Kullanıcı gruplarını göster
+  "write:reactions": Tepkilerini düzenle
+  "read:pages": Sayfalarını göster
+  "write:channels": Kanallarını düzenle
+  "read:gallery": Galerini göster
+  "read:gallery-likes": Beğenilen galeri gönderilerini göster
+  "write:gallery-likes": Galeri gönderilerini düzenle
+  "write:messaging": Sohbet mesajı oluştur veya sil
+  "write:user-groups": Kullanıcı gruplarını düzenle veya sil
+  "read:messaging": Sohbetlerini görüntüle
+  "read:mutes": Susturulmuş kullanıcıları göster
+  "write:votes": Bir ankete oy ver
+  "read:page-likes": Beğenilen sayfalarını göster
+  "read:reactions": Tepkilerini göster
+  "read:channels": Kanallarını göster
+  "write:notes": Gönderi oluştur veya sil
+  "write:drive": Drive dosya ve klasörlerini düzenle
+  "write:favorites": Yer imlerini düzenle
+  "read:following": Kimleri takip ettiğini göster
+  "write:account": Hesap bilgisini düzenle
+  "read:account": Hesap bilgisini görüntüle
+  "read:blocks": Engelli kullanıcıları gör
+  "write:following": Hesapları takip et veya takipten çıkar
+  "write:pages": Sayfalarını düzenle veya sil
+  "write:gallery": Galerini düzenle
+_auth:
+  pleaseGoBack: Lütfen uygulamaya geri dönün
+  callback: Uygulamaya geri dönülüyor
+  shareAccess: '"{name}" adlı kişinin bu hesaba erişmesine izin vermek ister misiniz?'
+  permissionAsk: 'Bu uygulama aşağıdaki izinleri ister:'
+  allPermissions: Tam hesap erişimi
+  denied: Erişim reddedildi
+  copyAsk: 'Lütfen aşağıdaki yetkilendirme kodunu uygulamaya yapıştırın:'
+  shareAccessAsk: Bu uygulamanın hesabınıza erişmesine izin vermek istediğinizden
+    emin misiniz?
+_antennaSources:
+  users: Belirli kullanıcılardan gönderiler
+  homeTimeline: Takip edilen kullanıcılardan gönderiler
+  all: Tüm gönderiler
+  instances: Bir sunucudaki tüm kullanıcılardan gelen gönderiler
+  userList: Belirli bir kullanıcı listesinden gönderiler
+  userGroup: Belirli bir gruptaki kullanıcıların gönderileri
+_charts:
+  usersIncDec: Kullanıcı sayısı farkı
+  usersTotal: Toplam kullanıcı sayısı
+  remoteNotesIncDec: Uzak gönderilerin sayısındaki fark
+  notesTotal: Toplam gönderi sayısı
+  filesTotal: Toplam dosya sayısı
+  apRequest: İstekler
+  storageUsageIncDec: Depolama kullanımındaki fark
+  localNotesIncDec: Yerel gönderilerin sayısındaki fark
+  storageUsageTotal: Toplam depolama kullanımı
+  federation: Federasyon
+  notesIncDec: Gönderi sayısındaki fark
+  activeUsers: Aktif kullanıcılar
+  filesIncDec: Dosya sayısındaki fark
+_pages:
+  fontSerif: Serif
+  fontSansSerif: Sans Serif
+  chooseBlock: Bloğu sil
+  blocks:
+    _canvas:
+      id: Tuval ID
+      height: Yükseklik
+      width: Genişlik
+    _button:
+      _action:
+        resetRandom: Rastgele çekirdeği sıfırla
+        _pushEvent:
+          no-variable: Hiçbiri
+          event: Etkinlik ismi
+          message: Aktif olduğunda gösterilecek mesaj
+          variable: Gönderilecek değişken
+        callAiScript: AiScript'i çağırın
+        _callAiScript:
+          functionName: Fonksiyon ismi
+        dialog: Dialog göster
+        _dialog:
+          content: İçerik
+        pushEvent: Etkinlik gönder
+      text: Başlık
+      action: Düğmeye basıldığında olacaklar
+      colored: Renkli
+    text: Yazı
+    if: Eğer
+    _if:
+      variable: Değişken
+    canvas: Tuval
+    note: Gömülü yazı
+    _note:
+      id: Gönderi ID
+      idDescription: Alternatif olarak gönderi URL'sini buraya yapıştırabilirsiniz.
+      detailed: Detaylı görüntüleme
+    _counter:
+      text: Başlık
+      inc: Adım
+      name: Değer ismi
+    radioButton: Seçenek
+    _radioButton:
+      name: Değişken ismi
+      values: Seçenekleri satırlarla ayırın
+      title: Başlık
+      default: Varsayılan değer
+    _post:
+      text: İçerik
+      attachCanvasImage: Tuval resmi ekle
+      canvasId: Tuval ID
+    _textInput:
+      text: Başlık
+      name: Değişken ismi
+      default: Varsayılan değer
+    _numberInput:
+      name: Değiken ismi
+      text: Başlık
+      default: Varsayılan değer
+    _textareaInput:
+      text: Başlık
+      name: Değişken ismi
+      default: Varsayılan değer
+    textarea: Yazı alanı
+    _switch:
+      name: Değişken ismi
+      default: Varsayılan değer
+      text: Başlık
+    counter: Sayaç
+    switch: Değiştir
+    post: Gönderi formu
+    image: Resimler
+    section: Bölüm
+    textareaInput: Çok satırlı yazı girişi
+    button: Düğme
+    textInput: Yazı girişi
+    numberInput: Sayısal giriş
+  script:
+    categories:
+      text: Yazı işlemleri
+      flow: Akış kontrolü
+      random: Rastgele
+      fn: Fonksiyonlar
+      convert: Dönüşümler
+      list: Listeler
+      logical: Mantıksal işlem
+      operation: Hesaplama
+      comparison: Karşılaştırma
+      value: Değerler
+    blocks:
+      and: A ve B
+      _or:
+        arg2: B
+        arg1: A
+      _lt:
+        arg1: A
+        arg2: B
+      _ltEq:
+        arg1: A
+        arg2: B
+      textList: Yazı listesi
+      strReverse: Yazıyı çevir
+      multiply: Çarp
+      subtract: Çıkar
+      _mod:
+        arg1: A
+        arg2: B
+      _divide:
+        arg2: B
+        arg1: A
+      round: Ondalık yuvarlama
+      _round:
+        arg1: Sayı
+      _eq:
+        arg1: A
+        arg2: B
+      notEq: A ve B farklıysa
+      _notEq:
+        arg1: A
+        arg2: B
+      or: A veya B
+      gt: "> A, B'den çoksa"
+      ltEq: <= A, B'den az veya eşitse
+      gtEq: ">= A, B'den çok veya eşitse"
+      _gtEq:
+        arg1: A
+        arg2: B
+      _not:
+        arg1: OLUMSUZ
+      random: Rastgele
+      randomPick: Listeden rastgele seç
+      seedRandom: Random (çekirdek ile)
+      _for:
+        arg1: Tekrarlama sayısı
+        arg2: Eylem
+      _seedRannum:
+        arg3: Maksimum değer
+        arg2: Minimum değer
+        arg1: Çekirdek
+      _strReplace:
+        arg3: ile değiştir
+        arg2: Değiştirilecek yazı
+        arg1: Yazı
+      _subtract:
+        arg2: B
+        arg1: A
+      mod: Kalan
+      _and:
+        arg1: A
+        arg2: B
+      _DRPWPM:
+        arg1: Yazı listesi
+      _fn:
+        slots-info: Her yuvayı bir satır sonu ile ayırın
+        arg1: Çıkış
+        slots: Yuvalar
+      for: dögü
+      dailyRandomPick: Listeden rastgele seçim yapın (Her kullanıcı için günde bir
+        kez değişir)
+      _dailyRannum:
+        arg1: Minimum değer
+        arg2: Maksimum değer
+      _seedRandomPick:
+        arg2: Liste
+        arg1: Çekirdek
+      _pick:
+        arg2: Pozisyon
+        arg1: Liste
+      number: Sayı
+      _if:
+        arg3: Yoksa
+        arg1: Eğer
+        arg2: Sonra
+      _rannum:
+        arg1: Minimum değer
+        arg2: Maksimum değer
+      eq: A ve B eşitse
+      _gt:
+        arg1: A
+        arg2: B
+      rannum: Rastgele sayı
+      _randomPick:
+        arg1: Liste
+      pick: Listeden seç
+      _listLen:
+        arg1: Liste
+      _multiply:
+        arg2: B
+        arg1: A
+      divide: Böl
+      strPick: Dize ayıklayın
+      _strPick:
+        arg1: Yazı
+        arg2: Dize konunumu
+      dailyRandom: Rastgele (Her kullanıcı için günde bir kez değişir)
+      _dailyRandom:
+        arg1: Olasılık
+      dailyRannum: Rastgele sayı (Her kullanıcı için günde bir kez değişir)
+      _stringToNumber:
+        arg1: Yazı
+      if: Şube
+      strReplace: Yedek dize
+      text: Yazı
+      _splitStrByLine:
+        arg1: Yazı
+      not: OLUMSUZ
+      _seedRandom:
+        arg1: Çekirdek
+        arg2: Olasılık
+      seedRandomPick: Listeden rastgele seçim yapın (çekirdek ile)
+      fn: Fonksiyon
+      multiLineText: Yazı (çok satırlı)
+      _textList:
+        info: Her girişi satırlar ile ayırın
+      _strReverse:
+        arg1: Yazı
+      join: Yazıyı birleştirme
+      _join:
+        arg1: Listeler
+        arg2: Ayraç
+      add: Ekle
+      _add:
+        arg1: A
+        arg2: B
+      _strLen:
+        arg1: Yazu
+      aiScriptVar: AiScript Değişkeni
+      ref: Değişken
+      splitStrByLine: Yazıyı satır sonlarına göre bölme
+      strLen: Yazı uzunluğu
+      lt: < A, B'den azsa
+      _random:
+        arg1: Olasılık
+      DRPWPM: Ağırlıklı listeden rastgele seçim yapın (Her kullanıcı için günde bir
+        kez değişir)
+      listLen: Listenin uzunluğunu al
+      numberToString: Sayıdan yazıya
+      _dailyRandomPick:
+        arg1: Liste
+      stringToNumber: Yazıdan Sayıya
+      seedRannum: Rastgele sayı (çekirdek ile)
+      _numberToString:
+        arg1: Sayı
+    types:
+      number: Sayı
+      boolean: Etiket
+      array: Liste
+      stringArray: Yazı listesi
+      string: Yazı
+    emptySlot: Boş yuva
+    enviromentVariables: Ortam değikenleri
+    argVariables: Giriş yuvaları
+    thereIsEmptySlot: Yuva {slot} boş!
+    typeError: Yuva {slot}, "{expect}" türündeki değerleri kabul eder, ancak sağlanan
+      değer "{actual}" türündedir!
+    pageVariables: Sayfa değişkenleri
+  readPage: Bu sayfanın kaynağını görüntüle
+  created: Sayfa başarıyla oluşturuldu
+  eyeCatchingImageRemove: Afişi sil
+  selectType: Tip seç
+  pageSetting: Sayfa ayarları
+  viewSource: Kaynağı görüntüle
+  variables: Değişkenler
+  url: Sayfa URL'si
+  unlike: Beğeniyi kaldır
+  my: Sayfalarım
+  content: Sayfa bloğu
+  deleted: Sayfa başarıyla silindi
+  newPage: Yeni sayfa oluştur
+  editPage: Bu sayfayı düzenle
+  viewPage: Sayfalarını görüntüle
+  like: Beğen
+  nameAlreadyExists: Belirtilen Sayfa URL'si zaten var
+  invalidNameTitle: Belirtilen Sayfa URL'si geçersiz
+  invalidNameText: Sayfa başlığının boş olmadığından emin olun
+  editThisPage: Sayfayı düzenle
+  featured: Popüler
+  inspector: Denetçi
+  contents: İçerik
+  title: Başlık
+  liked: Beğenilen Sayfalar
+  font: Yazı Tipi
+  alignCenter: İçerikleri ortala
+  eyeCatchingImageSet: Afiş ayarla
+  enterVariableName: Değişken ismi ekle
+  hideTitleWhenPinned: Profile sabitlendiğinde Sayfa başlığını gizle
+  variableNameIsAlreadyUsed: Bu değişken adı zaten kullanımda
+  contentBlocks: İçerik
+  inputBlocks: Giriş
+  specialBlocks: Özel
+  updated: Sayfa başarıyla düzenlendi
+  summary: Sayfa özeti
+_notification:
+  _types:
+    follow: Yeni takipçiler
+    mention: Bahsetmeler
+    app: Bağlı uygulamalardan bildirimler
+    pollEnded: Biten anket
+    receiveFollowRequest: Takip istekleri alındı
+    reaction: Tepkiler
+    all: Hepsi
+    followRequestAccepted: Takip istekleri kabul edildi
+    pollVote: Anket oylamaları
+    renote: Yükseltmeler
+    reply: Yanıtlar
+    groupInvited: Grup davetleri
+    quote: Alıntılar
+  pollEnded: Anket sonuçları açıklandı
+  fileUploaded: Dosya başarıyla yüklendi
+  youRenoted: '{name} tarafından yükseltildin'
+  _actions:
+    followBack: Seni geri takip etti
+    reply: Yanıtla
+    renote: Yükseltmeler
+  youGotMention: '{name} senden bahsetti'
+  youWereFollowed: seni takip etti
+  youGotMessagingMessageFromGroup: '{name} grubuna bir sohbet mesajı gönderildi'
+  renoted: gönderini yükseltti
+  youGotQuote: '{name} seni alıntıladı'
+  youGotReply: '{name} seni yanıtladı'
+  reacted: gönderine tepki ekledi
+  yourFollowRequestAccepted: Takip isteğin kabul edildi
+  emptyPushNotificationMessage: Push bildirimleri güncellendi
+  youWereInvitedToGroup: '{userName} seni gruba davet etti'
+  voted: anketine oy verdi
+  youReceivedFollowRequest: Bir takip isteği geldi
+  youGotPoll: '{name} anketinde oylama yaptı'
+  youGotMessagingMessageFromUser: '{name} sana bir sohbet mesajı gönderdi'
+_dialog:
+  charactersExceeded: 'Maksimum karakter aşıldı! Geçerli: {current}/Sınır: {max}'
+  charactersBelow: 'Yeterli karakter yok! Geçerli: {current}/Sınır: {min}'
+_signup:
+  emailSent: Mail adresinize ({email}) bir onay maili gönderildi. Hesap oluşturmayı
+    tamamlamak için lütfen verilen bağlantıya tıklayın.
+  almostThere: Neredeyse vardık
+  emailAddressInfo: Lütfen mail adresinizi giriniz. Herkese açık gözükmeyecektir.
+_ad:
+  back: Geri
+  reduceFrequencyOfThisAd: Daha az reklam göster
+_accountDelete:
+  accountDelete: Hesabı sil
+  mayTakeTime: Hesap silme, kaynak yoğun bir işlem olduğundan, ne kadar içerik oluşturduğunuza
+    ve ne kadar dosya yüklediğinize bağlı olarak tamamlanması biraz zaman alabilir.
+  sendEmail: Hesap silme işlemi tamamlandıktan sonra, bu hesapta kayıtlı olan mail
+    adresine bir mail gönderilecektir.
+  started: Silme işlemi başlatıldı.
+  requestAccountDelete: Hesap silme talebinde bulun
+  inProgress: Silme işlemi şu anda devam ediyor
+_forgotPassword:
+  enterEmail: Kaydolmak için kullandığınız mail adresini girin. Parolanızı sıfırlayabileceğiniz
+    bir bağlantı daha sonra ona gönderilecektir.
+  contactAdmin: Bu sunucu, mail adreslerinin kullanılmasını desteklemiyor, bunun yerine
+    şifrenizi sıfırlamak için lütfen sunucu yöneticisiyle iletişime geçin.
+  ifNoEmail: Kayıt sırasında bir mail kullanmadıysanız, sunucu yöneticisiyle iletişime
+    geçin.
+_gallery:
+  my: Galerim
+  liked: Beğenilen Gönderiler
+  like: Beğen
+  unlike: Beğeniyi kaldır
+_registry:
+  key: Anahtar
+  scope: Kapsam
+  keys: Anahtarlar
+  createKey: Anahtar oluştur
+  domain: Alan adı
+_email:
+  _follow:
+    title: Yeni bir takipçin var
+  _receiveFollowRequest:
+    title: Yeni bir takip isteğin var
+_preferencesBackups:
+  apply: Bu cihaza uygula
+  invalidFile: Geçersiz dosya formatı
+  applyConfirm: '"{name}" yedeğini bu cihaza gerçekten uygulamak istiyor musunuz?
+    Bu cihazın mevcut ayarlarının üzerine yazılacak.'
+  inputName: Lütfen bu yedekleme için bir ad girin
+  cannotSave: Kaydedilemedi
+  saveConfirm: Yedekleme {name} olarak kaydedilsin mi?
+  renameConfirm: '"{old}" olan bu yedeğin adı "{new}" olarak değiştirilsin mi?'
+  createdAt: 'Oluşturma tarihi: {date} {time}'
+  save: Değişiklikleri Kaydet
+  nameAlreadyExists: '"{name}" adlı bir yedek zaten var. Lütfen farklı bir ad girin.'
+  deleteConfirm: '{name} yedeği silinsin mi?'
+  noBackups: Yedekleme yok. "Yeni yedekleme oluştur" seçeneğini kullanarak bu sunucudaki
+    istemci ayarlarınızı yedekleyebilirsiniz.
+  list: Oluşturulan yedekler
+  saveNew: Yeni bir yedek oluştur
+  loadFile: Dosyadan yükle
+  updatedAt: 'Güncelleme tarihi: {date} {time}'
+  cannotLoad: Yüklenemedi
+_aboutIceshrimp:
+  patronsList: Bağış büyüklüğüne göre değil, kronolojik olarak listelenmiştir. Adınızı
+    buraya almak için yukarıdaki bağlantıyla bağış yapın!
+  about: Iceshrimp, 2022'den beri geliştirilmekte olan ThatOneCalculator tarafından
+    yapılan bir Iceshrimp çatalıdır.
+  allContributors: Tüm katkıda bulunanlar
+  patrons: Iceshrimp patronları
+  morePatrons: Burada listelenmeyen diğer birçok yardımcının desteğini de takdir ediyoruz.
+    Teşekkür ederim! 🥰
+  donate: Iceshrimp'e bağışta bulunun
+  contributors: Ana katkıda bulunanlar
+  source: Kaynak Kodu
+  translation: Iceshrimp'i tercüme et
+  donateTitle: Iceshrimp'den hoşlanıyor musunuz?
+  pleaseDonateToIceshrimp: Lütfen gelişimini desteklemek için Iceshrimp'e bağış yapmayı
+    düşünün.
+  pleaseDonateToHost: İşletme maliyetlerini desteklemek için lütfen ev sunucunuz {host}'a
+    bağış yapmayı da düşünün.
+  donateHost: '{ev sahibi} için bağış yapın'
+  sponsors: Iceshrimp sponsorları
+_weekday:
+  saturday: Cumartesi
+  sunday: Pazar
+  wednesday: Çarşamba
+  friday: Cuma
+  thursday: Perşembe
+  monday: Pazartesi
+  tuesday: Salı
+_serverDisconnectedBehavior:
+  reload: Otomatik olarak yenile
+  quiet: Göze çarpmayan uyarı göster
+  nothing: Hiçbir şey yapma
+  dialog: Uyarı mesajını göster
+_channel:
+  removeBanner: Afişi sil
+  owned: Sahip Olunan
+  nameOnly: Sadece isim
+  featured: Popüler
+  setBanner: Afiş ayarla
+  usersCount: '{n} Katılımcı'
+  create: Kanal oluştur
+  following: Takip
+  notesCount: '{n} Gönderi'
+  nameAndDescription: İsim ve açıklama
+  edit: Kanalı düzenle
+_messaging:
+  groups: Gruplar
+  dms: Özel
+_tutorial:
+  step5_5: Sosyal {icon} zaman çizelgesi, Ev ve Yerel zaman çizelgelerinin bir kombinasyonudur.
+  step5_6: Önerilen {icon} zaman çizelgesi, yöneticilerin önerdiği sunuculardan gelen
+    gönderileri görebileceğiniz yerdir.
+  step6_1: Peki burası neresi?
+  title: Iceshrimp nasıl kullanılır
+  step3_2: "Ev ve sosyal zaman çizelgeleriniz, kimi takip ettiğinize bağlıdır, bu
+    nedenle başlamak için birkaç hesabı takip etmeyi deneyin.\nTakip etmek için bir
+    profilin sağ üstündeki artı dairesine tıklayın."
+  step5_3: Ana Sayfa {icon} zaman çizelgesi, takip ettiğiniz hesaplardan gelen gönderileri
+    görebileceğiniz yerdir.
+  step5_4: Yerel {icon} zaman çizelgesi, bu sunucudaki diğer herkesin gönderilerini
+    görebileceğiniz yerdir.
+  step6_2: Iceshrimp'e öylece katılmadın. Binlerce sunucudan oluşan birbirine bağlı
+    bir ağ olan Fediverse'e giden bir portala katıldınız.
+  step6_4: Şimdi gidin, keşfedin ve eğlenin!
+  step5_7: Global {icon} zaman çizelgesi, bağlı diğer tüm sunuculardan gelen gönderileri
+    görebileceğiniz yerdir.
+  step2_1: Öncelikle lütfen profilinizi doldurunuz.
+  step2_2: Kim olduğunuz hakkında biraz bilgi vermeniz, başkalarının gönderilerinizi
+    görmek mi yoksa sizi takip etmek mi istediklerini anlamalarını kolaylaştıracaktır.
+  step3_1: Şimdi birkaç kullanıcı takip etme zamanı!
+  step1_1: Hoşgeldin!
+  step1_2: Hadi seni hazırlayalım. Kısa sürede kullanmaya başlayacaksınız!
+  step5_1: Zaman çizelgeleri, her yerde zaman çizelgeleri!
+  step6_3: Her sunucu farklı şekillerde çalışır ve tüm sunucular Iceshrimp'i çalıştırmaz.
+    Ama bu sunucu kullanıyor! Biraz karışık ama kısa sürede anlayacaksın.
+  step4_1: Seni oradan çıkaralım.
+  step5_2: Sunucunuzda etkinleştirilmiş {timelines} farklı zaman çizelgesi var.
+  step4_2: İlk gönderiniz için, bazı insanlar bir {introduction} gönderisi veya basit
+    bir "Merhaba dünya!" gönderir
+_visibility:
+  public: Herkese açık
+  publicDescription: Gönderiniz herkese açık tüm zaman çizelgelerinde görünür olacak
+  specified: Direkt
+  followersDescription: Yalnızca takipçilerinize ve adı geçen kullanıcılara görünür
+    kılın
+  localOnlyDescription: Uzak kullanıcılara gözükmez
+  home: Listelenmemiş
+  homeDescription: Yalnızca ev zaman çizelgesine yayınla
+  followers: Takipçiler
+  specifiedDescription: Belirli kullanıcılara özel yapın
+  localOnly: Sadece yerel
+_postForm:
+  quotePlaceholder: Bu gönderiyi alıntıla...
+  _placeholders:
+    a: Ne ile meşgulsün?
+    b: Etrafında neler oluyor?
+    f: Yazman bekleniyor...
+    c: Aklınızdan ne geçiyor?
+    d: Ne demek istiyorsun?
+    e: Yazmaya başka...
+  replyPlaceholder: Bu gönderiyi yanıtla...
+  channelPlaceholder: Bir kanala gönder...
+_exportOrImport:
+  allNotes: Tüm gönderiler
+  followingList: Takip edilen kullanıcılar
+  muteList: Susturulmuş kullanıcılar
+  excludeMutingUsers: Susturulmuş kullanıcıları hariç tut
+  excludeInactiveUsers: Aktif olmayan kullanıcıları hariç tut
+  userLists: Kullanıcı listeleri
+  blockingList: Engellenimş kullanıcılar
+_instanceCharts:
+  notes: Gönderi sayısındaki fark
+  notesTotal: Toplu gönderi sayısı
+  files: Dosya sayısındaki fark
+  filesTotal: Toplu dosya sayısı
+  requests: İstekler
+  usersTotal: Toplu kullanıcı sayısı
+  users: Kullanıcı sayısı farkı
+  cacheSize: Önbellek boyutundaki fark
+  ff: 'Takip edilen / Takipçi sayısındaki fark '
+  cacheSizeTotal: Toplam önbellek boyutu
+  ffTotal: Toplu Takip edilen / Takipçi sayısı
+_wordMute:
+  soft: Yumuşak
+  muteWords: Susturulmuş kelimeler
+  muteWordsDescription: AND koşulu için boşluklarla veya OR koşulu için satır sonlarıyla
+    ayırın.
+  softDescription: Belirlenen koşulları karşılayan gönderileri zaman çizelgesinden
+    gizleyin.
+  hardDescription: Belirlenen koşulları sağlayan gönderilerin zaman çizelgesineeklenmesini
+    engeller. Ayrıca bu gönderiler, koşullar değişse dahi zaman tüneline eklenmeyecektir.
+  mutedNotes: Susturulmuş gönderiler
+  hard: Sert
+  muteWordsDescription2: Normal ifadeleri kullanmak için anahtar kelimeleri eğik çizgilerle
+    çevreleyin.
+_ago:
+  weeksAgo: '{n}hafta önce'
+  minutesAgo: '{n}dakika önce'
+  daysAgo: '{n}gün önce'
+  future: Gelecek
+  justNow: Şimdi
+  secondsAgo: '{n}saniye önce'
+  hoursAgo: '{n}saat önce'
+  monthsAgo: '{n}ay önce'
+  yearsAgo: '{n}yıl önce'
+_timelines:
+  home: Ev
+  local: Yerel
+  social: Sosyal
+  global: Global
+  recommended: Tavsiye Edilen
+_nsfw:
+  respect: NSFW medyasını gizle
+  force: Tüm medyayı gizle
+  ignore: NSFW medyasını gizleme
+_cw:
+  files: '{count} dosya(lar)'
+  chars: '{count} harf'
+  hide: Gizle
+  show: İçeriği göster
+_relayStatus:
+  rejected: Reddedildi
+  accepted: Kabul edildi
+  requesting: Bekleniyor
+_time:
+  day: Gün(ler)
+  hour: Saat(ler)
+  second: Saniye(ler)
+  minute: Dakika(lar)
+_skinTones:
+  light: Aydınlık
+  medium: Orta
+  mediumLight: Orta Aydınlık
+  dark: Karanlık
+  yellow: Sarı
+  mediumDark: Orta Karanlık
+_plugin:
+  install: Eklenti indir
+  installWarn: Lütfen güvenli olmayan eklentiler kurmayınız.
+  manage: Eklentileri yönet
+_instanceTicker:
+  remote: Uzak kullanıcılar için göster
+  always: Her zaman göster
+  none: Asla gösterme
+_instanceMute:
+  heading: Sessize alınacak sunucuların listesi
+  instanceMuteDescription2: Yeni satırlarla ayırın
+  title: Listelenen sunuculardan gönderileri gizler.
+  instanceMuteDescription: Bu, sessize alınmış bir sunucudan bir kullanıcıya yanıt
+    veren kullanıcılarınkiler de dahil olmak üzere, listelenen sunuculardan gelen
+    tüm gönderileri/yükseltmeleri sessize alacaktır.
+_ffVisibility:
+  followers: Takipçilere açık
+  private: Gizli
+  public: Herkese açık

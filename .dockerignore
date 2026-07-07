@@ -1,0 +1,44 @@
+# Visual Studio Code
+.vscode
+
+# Intelij-IDEA
+.idea
+
+# Node.js / Bun
+node_modules
+**/node_modules
+report.*.json
+
+# Bun
+bun.lock
+bun.lockb
+
+# Rust
+packages/backend/native-utils/target
+
+# Coverage
+coverage
+
+# config
+/.config
+
+# misskey
+built
+db
+elasticsearch
+redis
+npm-debug.log
+*.pem
+run.bat
+api-docs.json
+*.log
+*.code-workspace
+.DS_Store
+files
+ormconfig.json
+packages/backend/assets/instance.css
+
+# dockerignore custom
+.git
+Dockerfile
+docker-compose.yml

@@ -1,0 +1,236 @@
+_lang_: "Dansk"
+monthAndDay: '{month}/{day}'
+search: Søge
+notifications: Notifikationer
+username: Brugernavn
+password: Adgangskode
+forgotPassword: Glemt adgangskode
+fetchingAsApObject: Henter fra Fediverset
+ok: OK
+gotIt: Forstået!
+cancel: Annullere
+enterUsername: Indtast brugernavn
+instance: Instans
+renotedBy: Forstærket fra {user}
+noNotes: Ingen opslag
+otherSettings: Andre Indstillinger
+profile: Profil
+timeline: Tidslinje
+signup: Registrere
+logout: Log Ud
+login: Log ind
+uploading: Uploader...
+save: Gem
+users: Brugere
+favorited: Tilsat til bogmærker.
+unfavorite: Fjerne fra bogmærker
+alreadyFavorited: Allerede inden i bogmærker.
+pin: Fastgøre til profil
+unpin: Løse fra profil
+delete: Slet
+addToList: Tilsæt til liste
+deleteAndEdit: Slet og ændre
+reply: Svar
+loadMore: Indlæs mere
+receiveFollowRequest: Følgeanmodning er blevet sendt
+import: Importere
+export: Eksportere
+driveFileDeleteConfirm: Er du sikker på at du vil slette filen "{name}"? Denne vil
+  blive slettet fra alle tilknyttede opslage.
+unfollowConfirm: Er du sikker på at du vil ikke følge {name} længere?
+privacy: Privatlivs
+enterListName: Indtast navnen for denne list
+makeFollowManuallyApprove: Følgeanmodninger kræver godkendelse
+unrenote: Fratag forstærkelse
+renote: Forstærk
+add: Tilsæt
+reactionSetting: Reaktioner til at vise i reaktion-vælgeren
+reactionSettingDescription2: Bevæg til at flytte om på, tryk til at slette og indtast
+  "+" til at tilsætte.
+rememberNoteVisibility: Husk opslagsynlidhedsindstillinger
+emojis: Emoji
+flagShowTimelineReplies: Vis svare i tidslinjen
+flagAsCatDescription: Du kommer til at få katøre og tale som en kat!
+showOnRemote: Vis på fjerninstans
+general: Generelt
+accountMoved: 'Bruger har flyttet til et nyt konto:'
+settings: Indstillinger
+basicSettings: Primær Indstillinger
+openInWindow: Åben i vindue
+noAccountDescription: Denne bruger har ikke skrevet deres bio endnu.
+loggingIn: Logger ind
+cantFavorite: Kunne ikke tilsætte til bogmærker.
+copyUsername: Kopi brugernavn
+copyContent: Kopi indholdet
+copyLink: Kopi link
+searchUser: Søg for en bruger
+files: Filer
+noLists: Du har ingen liste
+lists: Lister
+reaction: Reaktioner
+sensitive: NSFW
+emoji: Emoji
+cacheRemoteFilesDescription: Når denne indstilling er deaktiveret, fremmed filer bliver
+  indlæset direkte fra denne fjerneinstans. Hvis du deaktivere dette så vil det formindske
+  brugte opbevaringsplads men det vil også få netværktraffic til at stige fordi miniaturebilleder
+  vil ikke blive skabt.
+flagAsBot: Markere denne konto som en robot
+flagShowTimelineRepliesDescription: Vis svare af brugere til opslage af andre brugere
+  i tidslinjen hvis den bliver tændt.
+loginFailed: Kunne ikke logge ind
+silenceThisInstance: Nedtone denne instans
+deleteAndEditConfirm: Er du sikker på at du vil slet denne opslag og ændre det? Du
+  vil tabe alle reaktioner, forstærkninger og svarer indenfor denne opslag.
+editNote: Ændre note
+deleted: Slettet
+edited: 'Ændret den {date} {time}'
+sendMessage: Send en besked
+youShouldUpgradeClient: Til at vise denne side, vær sød at refresh til at opdatere
+  din brugerenhed.
+defaultNoteVisibility: Standard synlighed
+follow: Følge
+followRequest: Følge
+followRequests: Følgeanmodninger
+unfollow: Følge ikke længere
+followRequestPending: Følgeanmodning ventes på
+enterEmoji: Indtast en emoji
+renoted: Forstærket.
+cantRenote: Denne opslag kunne ikke forstærkes.
+cantReRenote: En forstærkelse kan ikke forstærkes.
+quote: Citere
+pinnedNote: Fastgjort opslag
+pinned: Fastgøre til profil
+you: Dig
+clickToShow: Tryk til at vise
+unblock: Blokere ikke længere
+suspend: Suspendere
+unsuspend: Suspendere ikke længere
+blockConfirm: Er du sikker på at du vil blokere denne konto?
+unblockConfirm: Er du sikker på at du vil ikke blokere denne konto endnu længere?
+suspendConfirm: Er du sikker på at du vil suspendere denne konto?
+selectAntenna: Vælg en antenne
+selectWidget: Vælg en widget
+editWidgets: Ændre widgettere
+customEmojis: Brugerdefineret emoji
+emojiName: Emoji navn
+operations: Operationer
+software: Software
+metadata: Metadata
+version: Version
+monitor: Vagt
+jobQueue: Jobkø
+statistics: Statistik
+cpuAndMemory: CPU og hukommelse
+network: Netværk
+disk: Disk
+instanceInfo: Instans information
+noThankYou: Nej tak
+noNotifications: Intet notifikationer
+addUser: Indsæt en bruger
+addInstance: Indsæt en instans
+favorite: Indsæt til bogmærker
+favorites: Bogmærker
+showMore: Vis mere
+showLess: Luk
+youGotNewFollower: følgte dig
+followRequestAccepted: Følgeanmodning accepteret
+mention: Nævne
+mentions: Nævnene
+directNotes: Direkt beskeder
+importAndExport: Importere/Eksporter data
+download: Download
+exportRequested: Du har bedt om en eksport. Det vil tage noget tid. Den vil blive
+  tilsæt til din Drev når den er færdig.
+importRequested: Du har bedt om en eksport. Det vil tage noget tid.
+note: Opslag
+notes: Opslage
+following: Følger
+followers: Følgere
+followsYou: Følger dig
+createList: Skab en list
+manageLists: Administrere lister
+error: Fejl
+somethingHappened: En fejl har opstået
+retry: Gentage
+pageLoadError: En fejl har opstået ved indlæsning af siden.
+pageLoadErrorDescription: Dette er normalt på grund af netværksproblemer eller din
+  browser's cache. Prøv at ryd cachen og så gentage efter et styk tid.
+serverIsDead: Serveren svarer ikke. Vær sød at vente et styk tid og prøv igen.
+editWidgetsExit: Færdig
+headlineIceshrimp: En åben-kildekode, decentraliseret social-media platform som er frit
+  forevigt! 🚀
+introIceshrimp: Velkommen! Iceshrimp er en åbent-kildekode, decentraliseret social-media
+  platform som er frit forevigt!🚀
+enableEmojiReactions: Aktivere emoji reaktioner
+unsuspendConfirm: Er du sikker på at du vil ikke suspendere denne konto endnu længere?
+selectList: Vælg en list
+showEmojisInReactionNotifications: Vis emoji i reaktion notifikationer
+attachCancel: Fjern tilknyttelse
+markAsSensitive: Markere som NSFW
+unmarkAsSensitive: Markere ikke som NSFW længere
+enterFileName: Indtast filnavn
+mute: Nedtone
+unmute: Nedtone ikke længere
+renoteMute: Nedtone forstærkninger
+renoteUnmute: Nedtone forstærkninger ikke længere
+block: Blokere
+cacheRemoteFiles: Cachere fremmed filer
+flagAsBotDescription: Aktivere denne valgmulighed hvis denne konto er kontrolleret
+  af en komputerprogram. Hvis den et tændt så vil det signalere til andre udviklere
+  som arbejder på komputer-kontrolleret social-media kontoer og det vil også adjustere
+  Iceshrimp's indresystemer til at behandle denne konto som en robot.
+flagAsCat: Er du en kat? 😺
+flagSpeakAsCat: Tale som en kat
+emojiUrl: Emoji URL
+addEmoji: Tilsæt
+settingGuide: Anbefalet indstillinger
+flagSpeakAsCatDescription: Din opslage vil blive nyaniferet når du er i kat-mode
+autoAcceptFollowed: Automatisk godkende følgeanmodninger fra brugere som du selv følger
+addAccount: Tilsæt konto
+wallpaper: Baggrund
+setWallpaper: Sæt baggrund
+removeWallpaper: Fjern baggrund
+host: Host
+selectUser: Vælg en bruger
+searchWith: 'Søge: {q}'
+youHaveNoLists: Du har ingen liste
+followConfirm: Er du sikker på at du vil gerne følge {name}?
+proxyAccount: Proxykonto
+proxyAccountDescription: En proxykonto er en konto som virker som en fremmed følger
+  for bruger under særlige konditioner. For eksempel, når en bruger tilsætter en fjernbruger
+  til denne list, vil denne fjernbruger's aktivitet ikke blive leveret til den instans
+  hvis ingen lokalebruger følger fjernbrugeren, så denne proxykonto vil følge den
+  istedetfor.
+instances: Instanser
+registeredAt: Registreret på
+latestRequestSentAt: Sidste anmodning sendt
+latestRequestReceivedAt: Sidste anmodning modtaget
+selectInstance: Vælg en instans
+recipient: Recipient(er)
+annotation: Kommentarer
+federation: Føderation
+latestStatus: Senest status
+storageUsage: Opbevaringspladsbrug
+charts: Grafer
+perHour: Hver time
+perDay: Hver dag
+stopActivityDelivery: Stop med at sende aktiviteter
+blockThisInstance: Blokere denne instans
+muteAndBlock: Mutes og blokeringer
+mutedUsers: Mutede brugere
+newer: nyere
+older: ældre
+silencedInstances: Nedtonede servere
+clearQueue: Ryd kø
+clearQueueConfirmTitle: Er du sikker på, at du ønsker at rydde køen?
+clearCachedFiles: Ryd cache
+clearCachedFilesConfirm: Er du sikker på, at du ønsker at slette alle cachede eksterne
+  filer?
+blockedInstances: Blokerede servere
+blockedInstancesDescription: Listen af navne på servere, du ønsker at blokere. Servere
+  på listen vil ikke længere kunne kommunikere med denne server.
+hiddenTags: Skjulte hashtags
+clearQueueConfirmText: De indlæg i denne kø, der ikke allerede er leveret, vil ikke
+  blive federeret. Denne operation er almindeligvis ikke påkrævet.
+jumpToPrevious: Spring til tidligere
+cw: Advarsel om indhold

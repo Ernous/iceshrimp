@@ -1,0 +1,2198 @@
+_lang_: "Українська"
+headlineIceshrimp: "Мережа об'єднана записами"
+introIceshrimp: "Ласкаво просимо! Iceshrimp це децентралізована служба мікроблогів,
+  вільна назавжди 🚀"
+monthAndDay: "{month}/{day}"
+search: "Пошук"
+notifications: "Сповіщення"
+username: "Ім'я користувача"
+password: "Пароль"
+forgotPassword: "Я забув пароль"
+fetchingAsApObject: "Отримуємо з федіверсу"
+ok: "OK"
+gotIt: "Зрозуміло!"
+cancel: "Скасувати"
+enterUsername: "Введіть ім'я користувача"
+renotedBy: "Поширено {user}"
+noNotes: "Немає записів"
+noNotifications: "Немає сповіщень"
+instance: "Сервер"
+settings: "Налаштування"
+basicSettings: "Основні налаштування"
+otherSettings: "Інші налаштування"
+openInWindow: "Відкрити у вікні"
+profile: "Профіль"
+timeline: "Стрічка"
+noAccountDescription: "Цей користувач ще нічого не написав про себе."
+login: "Увійти"
+loggingIn: "Здійснюємо вхід"
+logout: "Вийти"
+signup: "Реєстрація"
+uploading: "Завантаження…"
+save: "Зберегти"
+users: "Користувачі"
+addUser: "Додати користувача"
+favorite: "Обране"
+favorites: "Обране"
+unfavorite: "Видалити з обраного"
+favorited: "Додано до вподобаних."
+alreadyFavorited: "Вже додано до вподобаних."
+cantFavorite: "Неможливо вподобати."
+pin: "Закріпити"
+unpin: "Відкріпити"
+copyContent: "Скопіювати контент"
+copyLink: "Скопіювати посилання"
+delete: "Видалити"
+deleteAndEdit: "Видалити й редагувати"
+deleteAndEditConfirm: "Ви впевнені, що хочете видалити цей запис та відредагувати
+  його? Ви втратите всі реакції, поширення та відповіді на нього."
+addToList: "Додати до списку"
+sendMessage: "Надіслати повідомлення"
+copyUsername: "Скопіювати ім’я користувача"
+searchUser: "Пошук користувачів"
+reply: "Відповісти"
+loadMore: "Показати більше"
+showMore: "Показати більше"
+showLess: "Закрити"
+youGotNewFollower: "Новий підписник"
+receiveFollowRequest: "Отримано запит на підписку"
+followRequestAccepted: "Підписка прийнята"
+mention: "Згадка"
+mentions: "Згадки"
+directNotes: "Прямі повідомлення"
+importAndExport: "Імпорт та експорт"
+import: "Імпорт"
+export: "Експорт"
+files: "Файли"
+download: "Завантажити"
+driveFileDeleteConfirm: "Ви впевнені, що хочете видалити файл {name}? Його буде видалено
+  з усіх записів які містили його."
+unfollowConfirm: "Ви впевнені, що хочете відписатися від {name}?"
+exportRequested: "Експортування розпочато. Це може зайняти деякий час. Після завершення
+  експорту отриманий файл буде додано на диск."
+importRequested: "Імпортування розпочато. Це може зайняти деякий час."
+lists: "Списки"
+noLists: "Немає списків"
+note: "Запис"
+notes: "Записи"
+following: "Підписки"
+followers: "Підписники"
+followsYou: "Підписаний(-а) на вас"
+createList: "Створити список"
+manageLists: "Управління списками"
+error: "Помилка"
+somethingHappened: "Щось пішло не так"
+retry: "Спробувати знову"
+pageLoadError: "Помилка при завантаженні сторінки."
+pageLoadErrorDescription: "Зазвичай це пов’язано з помилками мережі або кешем браузера.
+  Спробуйте очистити кеш або почекайте трохи й спробуйте ще раз."
+serverIsDead: "Відповіді від сервера немає. Зачекайте деякий час і повторіть спробу."
+youShouldUpgradeClient: "Перезавантажте та використовуйте нову версію клієнта, щоб
+  переглянути цю сторінку."
+enterListName: "Введіть назву списку"
+privacy: "Конфіденційність"
+makeFollowManuallyApprove: "Підтверджувати підписників уручну"
+defaultNoteVisibility: "Видимість за замовчуванням"
+follow: "Підписатись"
+followRequest: "Запит на підписку"
+followRequests: "Запити на підписку"
+unfollow: "Відписатись"
+followRequestPending: "Очікуючі запити на підписку"
+enterEmoji: "Введіть емодзі"
+renote: "Поширити"
+unrenote: "скасувати поширення"
+renoted: "Поширено."
+cantRenote: "Цей запис неможливо поширити."
+cantReRenote: "Поширення неможливо поширити."
+quote: "Цитата"
+pinnedNote: "Закріплений запис"
+pinned: "Закріпити"
+you: "Ви"
+clickToShow: "Натисніть для перегляду"
+sensitive: "Не небезпечний вміст"
+add: "Додати"
+reaction: "Реакції"
+reactionSetting: "Налаштування реакцій"
+reactionSettingDescription2: "Перемістити щоб змінити порядок, Клацнути мишою щоб
+  видалити, Натиснути \"+\" щоб додати."
+rememberNoteVisibility: "Пам’ятати параметри видимісті"
+attachCancel: "Видалити вкладення"
+markAsSensitive: "Позначити як не небезпечний вміст"
+unmarkAsSensitive: "Зняти позначку \"Не небезпечний вміст\""
+enterFileName: "Введіть ім'я файлу"
+mute: "Ігнорувати"
+unmute: "Показувати"
+block: "Заблокувати"
+unblock: "Розблокувати"
+suspend: "Призупинити"
+unsuspend: "Відновити"
+blockConfirm: "Ви впевнені, що хочете заблокувати цей акаунт?"
+unblockConfirm: "Ви впевнені, що хочете розблокувати цей акаунт?"
+suspendConfirm: "Ви впевнені, що хочете призупинити цей акаунт?"
+unsuspendConfirm: "Ви впевнені, що хочете відновити цей акаунт?"
+selectList: "Виберіть список"
+selectAntenna: "Виберіть антену"
+selectWidget: "Виберіть віджет"
+editWidgets: "Редагувати віджети"
+editWidgetsExit: "Готово"
+customEmojis: "Кастомні емоджі"
+emoji: "Емоджі"
+emojis: "Емоджі"
+emojiName: "Назва емоджі"
+emojiUrl: "URL емодзі"
+addEmoji: "Додати емодзі"
+settingGuide: "Рекомендована конфігурація"
+cacheRemoteFiles: "Кешувати дані з інших інстансів"
+cacheRemoteFilesDescription: "Якщо кешування вимкнено, віддалені файли завантажуються
+  безпосередньо з віддаленого серверу. Це зменшує використання сховища, але збільшує
+  трафік, оскільки не генеруются ескізи."
+flagAsBot: "Акаунт бота 🤖"
+flagAsBotDescription: "Ввімкніть якщо цей обліковий запис використовується ботом.
+  Ця опція позначить обліковий запис як бота. Це потрібно щоб виключити безкінечну
+  інтеракцію між ботами а також відповідного підлаштування Iceshrimp."
+flagAsCat: "Акаунт кота"
+flagAsCatDescription: "Ввімкніть, щоб позначити, що обліковий запис є котиком, та
+  отримати котячі вуха!"
+flagShowTimelineReplies: "Показувати відповіді на записи в стрічці"
+flagShowTimelineRepliesDescription: "Показує відповіді користувачів на записи інших
+  користувачів у стрічці."
+autoAcceptFollowed: "Автоматично приймати запити на підписку від користувачів, на
+  яких ви підписані"
+addAccount: "Додати акаунт"
+loginFailed: "Не вдалося увійти"
+showOnRemote: "Переглянути в оригіналі"
+general: "Загальні налаштування"
+wallpaper: "Шпалери"
+setWallpaper: "Встановити шпалери"
+removeWallpaper: "Прибрати шпалери"
+searchWith: "Пошук: {q}"
+youHaveNoLists: "У вас немає списків"
+followConfirm: "Підписатися на {name}?"
+proxyAccount: "Обліковий запис проксі"
+proxyAccountDescription: "Обліковий запис проксі – це обліковий запис, який діє як
+  віддалений підписник для користувачів за певних умов. Наприклад, коли користувач
+  додає віддаленого користувача до списку, активність віддаленого користувача не буде
+  доставлена на сервер, якщо жоден локальний користувач не стежить за цим користувачем,
+  то замість нього буде використовуватися обліковий запис проксі-сервера."
+host: "Хост"
+selectUser: "Виберіть користувача"
+recipient: "Отримувач"
+annotation: "Коментарі"
+federation: "Федіверс"
+instances: "Сервери"
+registeredAt: "Приєднався(лась)"
+latestRequestSentAt: "Останній запит надіслано"
+latestRequestReceivedAt: "Останній запит прийнято"
+latestStatus: "Останній статус"
+storageUsage: "Використання простору"
+charts: "Графіки"
+perHour: "Щогодинно"
+perDay: "Щоденно"
+stopActivityDelivery: "Припинити розсилання активності"
+blockThisInstance: "Заблокувати цей сервер"
+operations: "Операції"
+software: "Програмне забезпечення"
+version: "Версія"
+metadata: "Метадані"
+monitor: "Монітор"
+jobQueue: "Черга завдань"
+cpuAndMemory: "ЦП та пам'ять"
+network: "Мережа"
+disk: "Диск"
+instanceInfo: "Про цей сервер"
+statistics: "Статистика"
+clearQueue: "Очистити чергу"
+clearQueueConfirmTitle: "Ви впевнені, що хочете очистити чергу?"
+clearQueueConfirmText: "Будь-які невідправлені записи, що залишилися в черзі, не будуть
+  передані. Зазвичай ця операція НЕ потрібна."
+clearCachedFiles: "Очистити кеш"
+clearCachedFilesConfirm: "Ви впевнені, що хочете видалити всі кешовані файли?"
+blockedInstances: "Заблоковані сервери"
+blockedInstancesDescription: "Вкажіть сервери, які потрібно заблокувати. Перелічені
+  сервери більше не зможуть спілкуватися з цим сервером."
+muteAndBlock: "Заглушення і блокування"
+mutedUsers: "Заглушені користувачі"
+blockedUsers: "Заблоковані користувачі"
+noUsers: "Немає користувачів"
+editProfile: "Редагувати обліковий запис"
+noteDeleteConfirm: "Ви дійсно хочете видалити цей запис?"
+pinLimitExceeded: "Ви не можете закріпити більше записів"
+intro: "Встановлення Iceshrimp завершено! Будь ласка, створіть обліковий запис адміністратора."
+done: "Готово"
+processing: "Працюємо…"
+preview: "Попередній перегляд"
+default: "За умовчанням"
+noCustomEmojis: "Немає нетипових емоджі"
+noJobs: "Немає завдань"
+federating: "Федерується"
+blocked: "Заблоковано"
+suspended: "Призупинено"
+all: "Всі"
+subscribing: "Підписка"
+publishing: "Публікація"
+notResponding: "Не відповідає"
+instanceFollowing: "Підписка на сервер"
+instanceFollowers: "Підписники серверу"
+instanceUsers: "Користувачі цього серверу"
+changePassword: "Змінити пароль"
+security: "Безпека"
+retypedNotMatch: "Введені дані не збігаються."
+currentPassword: "Поточний пароль"
+newPassword: "Новий пароль"
+newPasswordRetype: "Новий пароль (повторно)"
+attachFile: "Прикріпити файл"
+more: "Бiльше"
+featured: "Популярні"
+usernameOrUserId: "Ім'я або ID користувача"
+noSuchUser: "Користувача не знайдено"
+lookup: "Пошук"
+announcements: "Оголошення"
+imageUrl: "Посилання на зображення"
+remove: "Видалити"
+removed: "Видалено"
+removeAreYouSure: "Ви впевнені, що хочете прибрати \"{x}\"?"
+deleteAreYouSure: "Ви впевнені, що хочете видалити \"{x}\"?"
+resetAreYouSure: "Ви впевнені, що хочете скинути?"
+saved: "Збережено"
+messaging: "Чати"
+upload: "Завантажити"
+keepOriginalUploading: "Зберегти оригінальне зображення"
+keepOriginalUploadingDescription: "Зберігає початково завантажене зображення як є.
+  Якщо вимкнено, версія для відображення в Інтернеті буде створена під час завантаження."
+fromDrive: "З диска"
+fromUrl: "З посилання"
+uploadFromUrl: "Завантажити з посилання"
+uploadFromUrlDescription: "Посилання на файл для завантаження"
+uploadFromUrlRequested: "Завантаження розпочалось"
+uploadFromUrlMayTakeTime: "Завантаження може зайняти деякий час."
+explore: "Огляд"
+messageRead: "Прочитано"
+noMoreHistory: "Подальшої історії немає"
+startMessaging: "Розпочати діалог"
+nUsersRead: "Прочитали {n}"
+agreeTo: "Я погоджуюсь з {0}"
+tos: "Умови використання"
+start: "Розпочати"
+home: "Домівка"
+remoteUserCaution: "Інформація може бути неповною, оскільки це віддалений користувач."
+activity: "Активність"
+images: "Зображення"
+birthday: "День народження"
+yearsOld: "{age} років"
+registeredDate: "Приєднався(лась)"
+location: "Локація"
+theme: "Тема"
+themeForLightMode: "Світла тема"
+themeForDarkMode: "Темна тема"
+light: "Світла"
+dark: "Темна"
+lightThemes: "Світлі теми"
+darkThemes: "Темні теми"
+syncDeviceDarkMode: "Синхронізувати темний режим із налаштуваннями вашого пристрою"
+drive: "Диск"
+fileName: "Ім'я файлу"
+selectFile: "Вибрати файл"
+selectFiles: "Вибрати файли"
+selectFolder: "Вибрати теку"
+selectFolders: "Вибрати теки"
+renameFile: "Перейменувати файл"
+folderName: "Ім'я теки"
+createFolder: "Створити теку"
+renameFolder: "Перейменувати теку"
+deleteFolder: "Видалити теку"
+addFile: "Додати файл"
+emptyDrive: "Диск порожній"
+emptyFolder: "Тека порожня"
+unableToDelete: "Видалення неможливе"
+inputNewFileName: "Введіть ім'я нового файлу"
+inputNewDescription: "Введіть новий заголовок"
+inputNewFolderName: "Введіть ім'я нової теки"
+circularReferenceFolder: "Ви намагаєтесь перемістити папку в її підпапку."
+hasChildFilesOrFolders: "Ця тека не порожня і не може бути видалена."
+copyUrl: "Копіювати URL"
+rename: "Перейменувати"
+avatar: "Аватар"
+banner: "Банер"
+nsfw: "Чутливий вміст"
+whenServerDisconnected: "Коли зв’язок із сервером втрачено"
+disconnectedFromServer: "Зв’язок із сервером було перервано"
+reload: "Оновити"
+doNothing: "Нічого не робити"
+reloadConfirm: "Перезавантажити стрічку?"
+watch: "Стежити"
+unwatch: "Не стежити"
+accept: "Прийняти"
+reject: "Відхилити"
+normal: "Нормальний"
+instanceName: "Назва серверу"
+instanceDescription: "Опис серверу"
+maintainerName: "Ім'я адміністратора"
+maintainerEmail: "Email адміністратора"
+tosUrl: "URL умов використання"
+thisYear: "Рік"
+thisMonth: "Місяць"
+today: "День"
+dayX: "{day}"
+monthX: "{month}"
+yearX: "{year}"
+pages: "Сторінки"
+integration: "Інтеграції"
+connectService: "Під’єднати"
+disconnectService: "Відключитися"
+enableLocalTimeline: "Увімкнути локальну стрічку"
+enableGlobalTimeline: "Увімкнути глобальну стрічку"
+disablingTimelinesInfo: "Адміністратори та модератори завжди мають доступ до всіх
+  стрічок, навіть якщо вони вимкнуті."
+registration: "Реєстрація"
+enableRegistration: "Дозволити реєстрацію"
+invite: "Запросити"
+driveCapacityPerLocalAccount: "Об'єм диска на одного локального користувача"
+driveCapacityPerRemoteAccount: "Об'єм диска на одного віддаленого користувача"
+inMb: "В мегабайтах"
+iconUrl: "URL аватара"
+bannerUrl: "URL банера"
+backgroundImageUrl: "URL-адреса фонового зображення"
+basicInfo: "Основна інформація"
+pinnedUsers: "Закріплені користувачі"
+pinnedUsersDescription: "Впишіть в список користувачів, яких хочете закріпити на сторінці
+  \"Знайти\", ім'я в стовпчик."
+pinnedPages: "Закріплені сторінки"
+pinnedPagesDescription: "Введіть шляхи сторінок, які ви бажаєте закріпити на головній
+  сторінці цього сервера, розділені новими рядками."
+pinnedClipId: "Ідентифікатор закріпленої замітки"
+pinnedNotes: "Закріплений запис"
+hcaptcha: "h-Капча"
+enableHcaptcha: "Увімкнути hCaptcha"
+hcaptchaSiteKey: "Ключ сайту"
+hcaptchaSecretKey: "Секретний ключ"
+recaptcha: "reCAPTCHA"
+enableRecaptcha: "Увімкнути reCAPTCHA"
+recaptchaSiteKey: "Ключ сайту"
+recaptchaSecretKey: "Секретний ключ"
+avoidMultiCaptchaConfirm: "Використання кількох систем Captcha може спричинити перешкоди
+  між ними. Бажаєте вимкнути інші активні системи Captcha? Якщо ви хочете, щоб вони
+  залишалися ввімкненими, натисніть «Скасувати»."
+antennas: "Антени"
+manageAntennas: "Налаштування антен"
+name: "Ім'я"
+antennaSource: "Джерело антени"
+antennaKeywords: "Ключові слова антени"
+antennaExcludeKeywords: "Винятки"
+antennaKeywordsDescription: "Відокремте пробілами для умови \"І\" або перенесенням
+  до нового рядка для умови \"АБО\"."
+notifyAntenna: "Сповіщати про нові записи"
+withFileAntenna: "Тільки записи з вкладеними файлами"
+enableServiceworker: "Ввімкнути ServiceWorker"
+antennaUsersDescription: "Список імя користувачів в стопчик"
+caseSensitive: "З урахуванням регістру"
+withReplies: "Включаючи відповіді"
+connectedTo: "Наступні акаунти під'єднані"
+notesAndReplies: "Записи та відповіді"
+withFiles: "З прикріпленими файлами"
+silence: "Заглушити"
+silenceConfirm: "Ви впевнені, що хочете заглушити цього користувача?"
+unsilence: "Не глушити"
+unsilenceConfirm: "Ви впевнені, що хочете скасувати глушіння цього користувача?"
+popularUsers: "Популярні користувачі"
+recentlyUpdatedUsers: "Нещодавно активні користувачі"
+recentlyRegisteredUsers: "Нещодавно зареєстровані користувачі"
+recentlyDiscoveredUsers: "Нещодавно знайдені користувачі"
+exploreUsersCount: "{count} користувачів"
+exploreFediverse: "Огляд федіверсу"
+popularTags: "Популярні теги"
+userList: "Списки"
+about: "Інформація"
+aboutIceshrimp: "Про Iceshrimp"
+administrator: "Адмін"
+token: "Токен"
+twoStepAuthentication: "Двохфакторна аутентифікація"
+moderator: "Модератор"
+nUsersMentioned: "Згадали: {n}"
+securityKey: "Ключ захисту"
+securityKeyName: "Назва ключа"
+registerSecurityKey: "Зареєструвати ключ захисту"
+lastUsed: "Востаннє використано"
+unregister: "Скасувати реєстрацію"
+passwordLessLogin: "Налаштувати вхід без пароля"
+resetPassword: "Скинути пароль"
+newPasswordIs: "Новий пароль: {password}"
+reduceUiAnimation: "Зменшити анімацію інтерфейсу"
+share: "Поділитись"
+notFound: "Не знайдено"
+notFoundDescription: "Сторінка за вказаною адресою не знайдена."
+uploadFolder: "Місце для завантаження за замовчуванням"
+cacheClear: "Очистити кеш"
+markAsReadAllNotifications: "Позначити всі сповіщення як прочитані"
+markAsReadAllUnreadNotes: "Позначити всі записи як прочитані"
+markAsReadAllTalkMessages: "Позначити всі повідомлення як прочитані"
+help: "Допомога"
+inputMessageHere: "Введіть повідомлення тут"
+close: "Закрити"
+group: "Група"
+groups: "Групи"
+createGroup: "Створити групу"
+ownedGroups: "Власні групи"
+joinedGroups: "Членство в групах"
+invites: "Запросити"
+groupName: "Назва групи"
+members: "Учасники"
+transfer: "Передача"
+messagingWithUser: "Чат з користувачами"
+messagingWithGroup: "Чат з групою"
+title: "Тема"
+text: "Текст"
+enable: "Увімкнути"
+next: "Далі"
+retype: "Введіть ще раз"
+noteOf: "Запис {user}"
+inviteToGroup: "Запрошення до групи"
+quoteAttached: "Цитата"
+quoteQuestion: "Ви хочете додати цитату?"
+noMessagesYet: "Ще немає повідомлень"
+newMessageExists: "Є нові повідомлення"
+onlyOneFileCanBeAttached: "До повідомлення можна вкласти лише один файл"
+signinRequired: "Будь ласка, авторизуйтесь"
+invitations: "Запрошення"
+invitationCode: "Код запрошення"
+checking: "Перевірка…"
+available: "Доступно"
+unavailable: "Недоступно"
+usernameInvalidFormat: "Ви можете використовувати великі та малі літери, цифри та
+  підкреслення."
+tooShort: "Занадто короткий"
+tooLong: "Занадто довгий"
+weakPassword: "Слабкий пароль"
+normalPassword: "Достатній пароль"
+strongPassword: "Міцний пароль"
+passwordMatched: "Все вірно"
+passwordNotMatched: "Паролі не співпадають"
+signinWith: "Увійти за допомогою {x}"
+signinFailed: "Не вдалося увійти. Введені ім’я користувача або пароль неправильнi."
+tapSecurityKey: "Торкніться ключа безпеки"
+or: "або"
+language: "Мова"
+uiLanguage: "Мова інтерфейсу"
+groupInvited: "Запрошення до групи"
+aboutX: "Про {x}"
+useOsNativeEmojis: "Використовувати емодзі ОС"
+disableDrawer: "Не використовувати висувні меню"
+youHaveNoGroups: "Немає груп"
+joinOrCreateGroup: "Отримуйте запрошення до груп або створюйте свої власні групи."
+noHistory: "Історія порожня"
+signinHistory: "Історія входів"
+disableAnimatedMfm: "Відключити анімації MFM"
+doing: "Виконується…"
+category: "Категорія"
+tags: "Теги"
+docSource: "Джерело цього документа"
+createAccount: "Створити акаунт"
+existingAccount: "Існуючий обліковий запис"
+regenerate: "Оновити"
+fontSize: "Розмір шрифту"
+noFollowRequests: "Немає запитів на підписку"
+openImageInNewTab: "Відкривати зображення в новій вкладці"
+dashboard: "Панель приладів"
+local: "Локальні"
+remote: "Віддалені"
+total: "Всього"
+weekOverWeekChanges: "Тиждень"
+dayOverDayChanges: "Доба"
+appearance: "Вигляд"
+clientSettings: "Налаштування клієнта"
+accountSettings: "Налаштування акаунта"
+promotion: "Виділене"
+promote: "Виділити"
+numberOfDays: "Кількість днів"
+hideThisNote: "Сховати цей запис"
+showFeaturedNotesInTimeline: "Показувати популярні записи у стрічці"
+objectStorage: "Сховище"
+useObjectStorage: "Використовувати object storage"
+objectStorageBaseUrl: "Базовий URL"
+objectStorageBaseUrlDesc: "URL-адреса, що використовується як джерело. Вкажіть URL-адресу
+  вашого CDN або проксі-сервера, якщо ви їх використовуєте.\nДля S3 використовуйте
+  'https://<bucket>.s3.amazonaws.com', а для GCS або подібних сервісів - 'https://storage.googleapis.com/<bucket>',
+  тощо."
+objectStorageBucket: "Сховище (Bucket)"
+objectStorageBucketDesc: "Будь ласка вкажіть назву відра в налаштованому сервісі."
+objectStoragePrefix: "Prefix"
+objectStoragePrefixDesc: "Файли будуть зберігатись у розташуванні з цим префіксом."
+objectStorageEndpoint: "Кінцевий пункт"
+objectStorageEndpointDesc: "Залиште пустим при використанні AWS S3. Інакше введіть
+  кінцевий пункт як '<host>' або '<host>:<port>' слідуючи інструкціям сервісу, який
+  використовується."
+objectStorageRegion: "Region"
+objectStorageRegionDesc: "Введіть регіон у формі 'xx-east-1'. Залиште пустим, якщо
+  ваш сервіс не різниться відповідно до регіонів, або введіть 'us-east-1'."
+objectStorageUseSSL: "Використовувати SSL"
+objectStorageUseSSLDesc: "Вимкніть коли не використовується HTTPS для з'єднання API"
+objectStorageUseProxy: "Використовувати Proxy"
+objectStorageUseProxyDesc: "Вимкніть коли проксі не використовується для з'єднання
+  ObjectStorage"
+objectStorageSetPublicRead: "Встановіть 'публічне читання' при завантаженні"
+serverLogs: "Журнал сервера"
+deleteAll: "Видалити все"
+showFixedPostForm: "Показати форму запису над стрічкою новин"
+newNoteRecived: "Є нові записи"
+sounds: "Звуки"
+listen: "Слухати"
+none: "Відсутній"
+showInPage: "Показати на сторінці"
+popout: "Від'єднати"
+volume: "Гучність"
+masterVolume: "Загальна гучність"
+details: "Детальніше"
+chooseEmoji: "Виберіть емодзі"
+unableToProcess: "Не вдається завершити операцію"
+recentUsed: "Нещодавні"
+install: "Встановити"
+uninstall: "Видалити"
+installedApps: "Встановлені аплікації"
+nothing: "Тут нічого немає"
+installedDate: "Дата встановлення"
+lastUsedDate: "Дата використання"
+state: "Стан"
+sort: "Сортування"
+ascendingOrder: "За зростанням"
+descendingOrder: "За спаданням"
+scratchpad: "Чернетка"
+scratchpadDescription: "Scratchpad надає середовище для експериментів з AiScript.
+  Ви можете писати, виконувати його і тестувати взаємодію з Iceshrimp."
+output: "Вихід"
+script: "Скрипт"
+disablePagesScript: "Вимкнути AiScript на Сторінках"
+updateRemoteUser: "Оновити інформацію про віддаленого користувача"
+deleteAllFiles: "Видалити всі файли"
+deleteAllFilesConfirm: "Ви дійсно хочете видалити всі файли?"
+removeAllFollowing: "Скасувати всі підписки"
+removeAllFollowingDescription: "Скасувати підписку на всі акаунти з {host}. Будь ласка,
+  робіть це, якщо сервер більше не існує."
+userSuspended: "Обліковий запис заблокований."
+userSilenced: "Обліковий запис приглушено."
+yourAccountSuspendedTitle: "Цей обліковий запис заблоковано"
+yourAccountSuspendedDescription: "Цей обліковий запис було заблоковано через порушення
+  умов надання послуг сервера. Зв'яжіться з адміністратором, якщо ви хочете дізнатися
+  докладнішу причину. Будь ласка, не створюйте новий обліковий запис."
+menu: "Меню"
+divider: "Розділювач"
+addItem: "Додати елемент"
+relays: "Ретранслятори"
+addRelay: "Додати ретранслятор"
+inboxUrl: "URL адреса поштової скриньки"
+addedRelays: "Додані ретранслятори"
+serviceworkerInfo: "Повинен бути ввімкнений для push-сповіщень."
+deletedNote: "Видалений запис"
+invisibleNote: "Прихований запис"
+enableInfiniteScroll: "Увімкнути нескінченну прокрутку"
+visibility: "Видимість"
+poll: "Опитування"
+useCw: "Приховати вміст"
+enablePlayer: "Відкрити відеоплеєр"
+disablePlayer: "Закрити відеоплеєр"
+expandTweet: "Розгорнути твіт"
+themeEditor: "Редактор тем"
+description: "Опис"
+describeFile: "Додати підпис"
+enterFileDescription: "Введіть підпис"
+author: "Автор"
+leaveConfirm: "Зміни не збережені. Ви дійсно хочете скасувати зміни?"
+manage: "Управління"
+plugins: "Плагіни"
+deck: "Дек"
+undeck: "Залишити Дек"
+useBlurEffectForModal: "Ефект розмиття під модальними діалогами"
+useFullReactionPicker: "Повнорозмірний селектор реакцій"
+width: "Ширина"
+height: "Висота"
+large: "Крупний"
+medium: "Середній"
+small: "Маленький"
+generateAccessToken: "Згенерувати токен доступу"
+permission: "Права"
+enableAll: "Увімкнути все"
+disableAll: "Вимкнути все"
+tokenRequested: "Надати доступ до акаунту"
+pluginTokenRequestedDescription: "Цей плагін зможе використовувати дозволи які тут
+  вказані."
+notificationType: "Тип сповіщення"
+edit: "Редагувати"
+emailServer: "Сервер електронної пошти"
+enableEmail: "Увімкнути функцію доставки пошти"
+emailConfigInfo: "Використовується для підтвердження електронної пошти під час реєстрації,
+  а також для відновлення паролю"
+email: "E-mail"
+emailAddress: "E-mail адреса"
+smtpConfig: "Налаштування сервера SMTP"
+smtpHost: "Хост"
+smtpPort: "Порт"
+smtpUser: "Ім'я користувача"
+smtpPass: "Пароль"
+emptyToDisableSmtpAuth: "Залиште назву користувача і пароль пустими для вимкнення
+  підтвердження SMTP"
+smtpSecure: "Використовувати безумовне шифрування SSL/TLS для з'єднань SMTP"
+smtpSecureInfo: "Вимкніть при використанні STARTTLS"
+testEmail: "Тестовий email"
+wordMute: "Блокування слів"
+regexpError: "Помилка регулярного виразу"
+regexpErrorDescription: "Сталася помилка в регулярному виразі в рядку {line} вашого
+  слова {tab} слова що ігноруються:"
+instanceMute: "Приглушення серверів"
+userSaysSomething: "{name} щось сказав(ла)"
+makeActive: "Активувати"
+display: "Відображення"
+copy: "Скопіювати"
+metrics: "Показники"
+overview: "Огляд"
+logs: "Журнал"
+delayed: "Затримка"
+database: "База даних"
+channel: "Канали"
+create: "Створити"
+notificationSetting: "Параметри сповіщень"
+notificationSettingDesc: "Оберіть типи сповіщень для відображення."
+useGlobalSetting: "Застосувати глобальнi параметри"
+useGlobalSettingDesc: "Якщо увімкнено, то будуть використовуватись налаштування повідомлень
+  облікового запису, інакше можливо налаштувати індивідуально."
+other: "Інше"
+regenerateLoginToken: "Оновити Login Token"
+regenerateLoginTokenDescription: "Регенерувати внутрішній ключ використовуваний під
+  час входу. Зазвичай цього не потрібно робити. При регенерації всі пристрої вийдуть
+  з системи."
+setMultipleBySeparatingWithSpace: "Можна вказати кілька значень, відділивши їх пробілом."
+fileIdOrUrl: "Ідентифікатор файлу або посилання"
+behavior: "Поведінка"
+sample: "Приклад"
+abuseReports: "Скарги"
+reportAbuse: "Поскаржитись"
+reportAbuseOf: "Поскаржитись на {name}"
+fillAbuseReportDescription: "Будь ласка вкажіть подробиці скарги. Якщо скарга стосується
+  запису, вкажіть посилання на нього."
+abuseReported: "Дякуємо. Ваш звіт було відправлено."
+reporter: "Репортер"
+reporteeOrigin: "Про кого повідомлено"
+reporterOrigin: "Хто повідомив"
+forwardReport: "Переслати звіт на віддалений сервер"
+forwardReportIsAnonymous: "Замість вашого облікового запису, анонімний системний обліковий
+  запис буде відображатися як доповідач на віддаленому сервері."
+send: "Відправити"
+abuseMarkAsResolved: "Позначити скаргу як вирішену"
+openInNewTab: "Відкрити в новій вкладці"
+openInSideView: "Відкрити збоку"
+defaultNavigationBehaviour: "Поведінка навігації за замовчуванням"
+editTheseSettingsMayBreakAccount: "Зміна цих параметрів може призвести до пошкодження
+  вашого акаунта."
+instanceTicker: "Інформація про записи на сервері"
+waitingFor: "Чекаємо на {x}"
+random: "Випадковий"
+system: "Система"
+switchUi: "Змінити компоновку"
+desktop: "Десктоп"
+clip: "Підбірка"
+createNew: "Створити новий"
+optional: "Необов'язково"
+createNewClip: "Створити підбірку"
+public: "Публічний"
+i18nInfo: "Iceshrimp перекладається на різні мови волонтерами. Ви можете допомогти
+  за посиланням: {link}."
+manageAccessTokens: "Керування токенами доступу"
+accountInfo: "Інформація про акаунт"
+notesCount: "Кількість записів"
+repliesCount: "Кількість надісланих відповідей"
+renotesCount: "Кількість поширень"
+repliedCount: "Кількість отриманих відповідей"
+renotedCount: "Кількість отриманих поширень"
+followingCount: "Кількість підписок"
+followersCount: "Кількість підписників"
+sentReactionsCount: "Кількість надісланих реакцій"
+receivedReactionsCount: "Кількість отриманих реакцій"
+pollVotesCount: "Кількість надісланих голосів"
+pollVotedCount: "Кількість отриманих голосів"
+yes: "Так"
+no: "Ні"
+driveFilesCount: "Кількість файлів на диску"
+driveUsage: "Використання місця на диску"
+noCrawle: "Заборонити індексацію"
+noCrawleDescription: "Просити пошукові системи не індексувати ваш профіль, записи,
+  сторінки тощо."
+lockedAccountInfo: "Якщо видимість вашого запису не встановлена як \"Тільки підписники\"\
+  , то кожен зможе побачити ваш запис, навіть якщо ви вимагаєте підтвердження підписок
+  вручну."
+alwaysMarkSensitive: "Позначати як \"Чутливий Зміст\" за замовчуванням"
+loadRawImages: "Відображати вкладені зображення повністю замість ескізів"
+disableShowingAnimatedImages: "Не програвати анімовані зображення"
+verificationEmailSent: "Електронний лист з підтвердженням відісланий. Будь ласка перейдіть
+  по посиланню в листі для підтвердження."
+notSet: "Не налаштовано"
+emailVerified: "Електронну пошту підтверджено"
+noteFavoritesCount: "Кількість улюблених записів"
+pageLikesCount: "Кількість отриманих вподобань сторінки"
+pageLikedCount: "Кількість вподобаних сторінок"
+contact: "Контакт"
+useSystemFont: "Використовувати стандартний шрифт системи"
+clips: "Добірка"
+experimentalFeatures: "Експериментальні функції"
+developer: "Розробник"
+makeExplorable: "Зробіть обліковий запис видимим у розділі \"Огляд\""
+makeExplorableDescription: "Вимкніть, щоб обліковий запис не показувався у розділі
+  \"Огляд\"."
+showGapBetweenNotesInTimeline: "Показувати розрив між записами у стрічці новин"
+duplicate: "Дублікат"
+left: "Лівий"
+center: "Центр"
+wide: "Широкий"
+narrow: "Вузький"
+reloadToApplySetting: "Налаштування ввійде в дію при перезавантаженні. Перезавантажити?"
+needReloadToApply: "Зміни набудуть чинності після перезавантаження сторінки."
+showTitlebar: "Показати титульний рядок"
+clearCache: "Очистити кеш"
+onlineUsersCount: "{n} користувачів онлайн"
+nUsers: "{n} Користувачів"
+nNotes: "{n} Записів"
+sendErrorReports: "Надіслати звіт про помилки"
+sendErrorReportsDescription: "Якщо увімкнено, детальна інформація про помилки буде
+  передаватися до Iceshrimp, коли виникає проблема, це допоможе покращити якість роботи
+  Iceshrimp.\nЦе буде включати інформацію таку як: версія вашої ОС, який браузер ви
+  використовуєте, ваша активність в Iceshrimp тощо."
+myTheme: "Моя тема"
+backgroundColor: "Фон"
+accentColor: "Акцент"
+textColor: "Текст"
+saveAs: "Зберегти як…"
+advanced: "Розширені"
+value: "Значення"
+createdAt: "Створено"
+updatedAt: "Останнє оновлення"
+saveConfirm: "Зберегти зміни?"
+deleteConfirm: "Ви дійсно бажаєте це видалити?"
+invalidValue: "Некоректне значення."
+registry: "Реєстр"
+closeAccount: "Закрити обліковий запис"
+currentVersion: "Версія, що використовується"
+latestVersion: "Сама свіжа версія"
+youAreRunningUpToDateClient: "У вас найсвіжіша версія клієнта."
+newVersionOfClientAvailable: "Доступніша свіжа версія клієнта."
+usageAmount: "Використане"
+capacity: "Ємність"
+inUse: "Зайнято"
+editCode: "Редагувати вихідний текст"
+apply: "Застосувати"
+receiveAnnouncementFromInstance: "Отримувати сповіщення з серверу"
+emailNotification: "Сповіщення електронною поштою"
+publish: "Опублікувати"
+inChannelSearch: "Пошук за каналом"
+useReactionPickerForContextMenu: "Відкривати палітру реакцій правою кнопкою"
+typingUsers: "{users} пише"
+goBack: "Назад"
+info: "Інформація"
+user: "Користувач"
+administration: "Управління"
+expiration: "Опитування закінчується"
+middle: "Середній"
+global: "Глобальна"
+sent: "Відправлене"
+hashtags: "Хештеґ"
+hide: "Сховати"
+searchByGoogle: "Пошук"
+indefinitely: "Ніколи"
+file: "Файли"
+reverse: "Переворот"
+colored: "Кольоровий"
+label: "Назва"
+localOnly: "Локально"
+_ffVisibility:
+  public: "Опублікувати"
+  private: Приватні
+  followers: Доступно тільки для підписників
+_ad:
+  back: "Назад"
+  reduceFrequencyOfThisAd: Менше показувати цю рекламу
+_gallery:
+  unlike: "Не вподобати"
+  liked: Вподобані записи
+  like: Подобається
+  my: Моя галерея
+_email:
+  _follow:
+    title: "Новий підписник"
+  _receiveFollowRequest:
+    title: Ви отримали запит на підписку
+_registry:
+  key: "Ключ"
+  keys: "Ключі"
+  domain: "Домен"
+  createKey: "Створити ключ"
+  scope: Область
+_aboutIceshrimp:
+  about: "Iceshrimp - це програмне забезпечення з відкритим кодом, яке розробляє syuilo
+    з 2014 року."
+  contributors: "Головні помічники"
+  allContributors: "Всі помічники"
+  source: "Розробка Iceshrimp"
+  translation: "Переклади"
+  donate: "Пожертвувати Iceshrimp"
+  morePatrons: "Ми дуже цінуємо підтримку багатьох інших помічників, не перелічених
+    тут. Дякуємо! 🥰"
+  patrons: "Підтримали"
+  patronsList: Перераховані в хронологічному порядку, а не за розміром пожертви. Зробіть
+    внесок за посиланням вище, щоб ваше ім'я було тут!
+  donateTitle: Сподобався Iceshrimp?
+  pleaseDonateToIceshrimp: Будь ласка, підтримайте розробку Iceshrimp.
+  pleaseDonateToHost: Також не забудьте підтримати ваш домашній сервер {host}, щоб
+    допомогти з його операційними витратами.
+  donateHost: Зробити внесок на рахунок {host}
+  sponsors: Спонсори Iceshrimp
+  chatroom: Чат
+  documentation: Документація
+  roadmap: План розвитку
+  changelog: Журнал змін
+_nsfw:
+  respect: "Приховувати медіа з чутливим вмістом"
+  ignore: "Не приховувати медіа з чутливим вмістом"
+  force: "Приховувати всі медіа файли"
+_mfm:
+  cheatSheet: "Довідка MFM"
+  intro: "MFM це мова розмітки тексту, яка використовується в Iceshrimp, Misskey,
+    Akkoma, та ін. яку можна використовувати в дописах та чатах Тут ви можете переглянути
+    її синтаксис."
+  dummy: "Iceshrimp розширює світ Федіверсу"
+  mention: "Згадка"
+  mentionDescription: "За допомогою знака \"@\" перед ім'ям можна згадати конкретного
+    користувача."
+  hashtag: "Хештеґ"
+  hashtagDescription: "За допомогою знака \"решітка\" перед словом задається хештег."
+  url: "URL"
+  urlDescription: "Відображаються URL-адреси."
+  link: "Посилання"
+  linkDescription: "Окремі частини тексту можуть містити посилання."
+  bold: "Жирний шрифт"
+  boldDescription: "Виділяє літери, роблячи їх товщими."
+  small: "Дрібний шрифт"
+  smallDescription: "Робить текст маленьким і тонким."
+  center: "По центру"
+  centerDescription: "Показує вміст у центрі."
+  inlineCode: "Код (у рядку)"
+  inlineCodeDescription: "Відображає підсвічування синтаксису для коду (програми)."
+  blockCode: "Код (блок)"
+  blockCodeDescription: "Відображає підсвічування синтаксису для багаторядкового (програмного)
+    коду в блоці."
+  inlineMath: "Формула (у рядку)"
+  inlineMathDescription: "Відображення математичних формул (KaTeX) у рядку"
+  blockMath: "Формули (блок)"
+  blockMathDescription: "Відображати математичні формули (KaTeX) блоками"
+  quote: "Цитата"
+  quoteDescription: "Відображає зміст як цитату."
+  emoji: "Кастомні емоджі"
+  emojiDescription: "Щоб показати нетиповий емоджі, потрібно додати до та після нього
+    двокрапки."
+  search: "Пошук"
+  searchDescription: "Відображає вікно пошуку з попередньо введеним текстом."
+  flip: "Перевернути"
+  flipDescription: "Віддзеркалює вміст по горизонталі або вертикалі."
+  jelly: "Анімація (желе)"
+  jellyDescription: "Створює желеподібну анімацію."
+  tada: "Анімація (Тада!)"
+  tadaDescription: "Створює анімацію з відчуттям \"Тада!\"."
+  jump: "Анімація (стрибки)"
+  jumpDescription: "Надає вмісту стрибучу анімацію."
+  bounce: "Анімація (пружина)"
+  shake: "Анімація (Shake)"
+  twitch: "Анімація (Twitch)"
+  spin: "Анімація (Spin)"
+  x2: "Великий"
+  x2Description: "Показує контент збільшеним."
+  x3: "Дуже великий"
+  x3Description: "Показує контент ще більшим."
+  x4: "Надзвичайно великий"
+  x4Description: "Показує контент надзвичайно великим."
+  blur: "Розмиття"
+  blurDescription: "Цей ефект зробить контент розмитим. Контент можна зробити чітким,
+    якщо навести на нього вказівник миші."
+  font: "Шрифт"
+  fontDescription: "Встановлює шрифт для контенту."
+  rotate: "Обертати"
+  play: Відтворити MFM
+  alwaysPlay: Завжди автозапускати всі анімовані MFM
+  twitchDescription: Надає контенту анімацію, що сильно сіпається.
+  spinDescription: Надає контенту анімацію обертання.
+  sparkle: Блиск
+  sparkleDescription: Надає вмісту ефект мерехтливого блиску.
+  fade: Згасання
+  fadeDescription: Зменшує та збільшує видимість контенту.
+  crop: Обрізати
+  cropDescription: Обрізати вміст.
+  scale: Масштабувати
+  positionDescription: Перемістити вміст на вказане значення.
+  scaleDescription: Масштабувати вміст на вказану величину.
+  background: Фоновий колір
+  foreground: Колір переднього плану
+  foregroundDescription: Змінити колір тексту на передньому плані.
+  bounceDescription: Надає контенту пружної анімації.
+  shakeDescription: Надає контенту тремтливої анімації.
+  rainbowDescription: Робить вміст веселковим.
+  rotateDescription: Повертає вміст на вказаний кут.
+  advancedDescription: Якщо вимкнено, дозволяє лише базову розмітку, якщо не відтворюється
+    анімований MFM
+  plainDescription: Вимикає ефекти всіх MFM, що містяться в цьому MFM-ефекті.
+  stop: Зупинити MFM
+  plain: Звичайний текст
+  advanced: Розширені MFM
+  warn: MFM може містити швидко-рухому або яскраву анімацію
+  position: Розташування
+  rainbow: Веселка
+  backgroundDescription: Змінити колір фону тексту.
+_instanceTicker:
+  none: "Не відображати"
+  remote: "Відображати для віддалених користувачів"
+  always: "Відображати завжди"
+_serverDisconnectedBehavior:
+  reload: "Автоматично перезавантажити"
+  dialog: "Показати діалогове вікно"
+  quiet: "Показати ненав’язливе попередження"
+  nothing: Нічого не робити
+_channel:
+  create: "Створити канал"
+  edit: "Редагувати канал"
+  setBanner: "Встановити банер"
+  removeBanner: "Видалити банер"
+  featured: "Тренди"
+  following: "Підписки"
+  usersCount: "{n} учасників"
+  notesCount: "{n} записів"
+  nameOnly: Тільки назва
+  nameAndDescription: Назва та опис
+  owned: Власні
+_menuDisplay:
+  hide: "Сховати"
+  sideFull: Збоку
+  sideIcon: Збоку (тільки іконки)
+  top: Верх
+_wordMute:
+  muteWords: "Заглушені слова"
+  muteWordsDescription: "Відокремліть ключові слова пробілами для умови \"І\" або
+    з нового рядку для умови \"АБО\"."
+  muteWordsDescription2: "Для використання RegEx, ключові слова потрібно вписати поміж
+    слешів \"/\"."
+  softDescription: "Приховати записи які відповідають критеріям зі стрічки."
+  hardDescription: "Приховати записи які відповідають критеріям зі стрічки подій.
+    Також приховані записи не будуть додані до стрічки навіть якщо критерії буде змінено."
+  soft: "М'яко"
+  hard: "Жорстко"
+  mutedNotes: "Ігноровані записи"
+_theme:
+  explore: "Оглянути теми"
+  install: "Встановити тему"
+  manage: "Керування темами"
+  code: "Код теми"
+  description: "Опис"
+  installed: "Тему {name} встановлено"
+  installedThemes: "Встановлені теми"
+  builtinThemes: "Вбудоваі теми"
+  alreadyInstalled: "Тему вже встановлено"
+  invalid: "Неправильний формат теми"
+  make: "Створити тему"
+  base: "Основа"
+  defaultValue: "Значення за замовчуванням"
+  func: "Функції"
+  lighten: "Яскравість"
+  inputConstantName: "Введіть назву константи"
+  importInfo: "Вставляючи сюди код теми, ви можете добавити її до редактору тем"
+  deleteConstantConfirm: "Ви дійсно бажаєте видалити константу \"{const}\"?"
+  keys:
+    accent: "Акцент"
+    bg: "Фон"
+    fg: "Текст"
+    focus: "Фокус"
+    indicator: "Індикатор"
+    panel: "Панель"
+    shadow: "Тінь"
+    header: "Заголовок"
+    navBg: "Фон бокової панелі"
+    navFg: "Текст бокової панелі"
+    navHoverFg: "Текст бокової панелі (під курсором)"
+    navActive: "Текст бокової панелі (активне)"
+    navIndicator: "Індикатор бокової панелі"
+    link: "Посилання"
+    hashtag: "Хештеґ"
+    mention: "Згадка"
+    mentionMe: "Згадки (мене)"
+    renote: "Поширити"
+    modalBg: "Модальний фон"
+    divider: "Розділювач"
+    scrollbarHandle: "Ручка смуги прокрутки"
+    scrollbarHandleHover: "Ручка смуги прокрутки (при наведенні)"
+    dateLabelFg: "Текст позначок дати"
+    infoBg: "Фон інформації"
+    infoFg: "Текст інформації"
+    infoWarnBg: "Фон попередження"
+    infoWarnFg: "Текст попередження"
+    cwBg: "Фон чутливого змісту"
+    cwFg: "Текст чутливого змісту"
+    cwHoverBg: "Фон чутливого змісту (при наведенні)"
+    toastBg: "Фон повідомлення"
+    toastFg: "Текст повідомлення"
+    buttonBg: "Фон кнопки"
+    buttonHoverBg: "Фон кнопки (при наведенні)"
+    inputBorder: "Край поля вводу"
+    listItemHoverBg: "Фон елементу в списку (при наведенні)"
+    driveFolderBg: "Фон папки на диску"
+    wallpaperOverlay: "Накладання шпалер"
+    badge: "Значок"
+    messageBg: "Фон переписки"
+    accentDarken: "Акцент (Затемлений)"
+    accentLighten: "Акцент (Освітлений)"
+    fgHighlighted: "Виділений текст"
+  color: Колір
+  refProp: Посилання на властивість
+  alpha: Прозорість
+  constant: Стала
+  refConst: Посилання на сталу
+  key: Ключ
+  funcKind: Тип функції
+  darken: Затемнення
+  argument: Аргумент
+  basedProp: Початкова властивість
+  addConstant: Додати сталу
+_sfx:
+  note: "Новий запис"
+  noteMy: "Мої записи"
+  notification: "Сповіщення"
+  chat: "Чати"
+  chatBg: "Чати (фон)"
+  antenna: "Прийом антени"
+  channel: "Повідомлення каналу"
+_ago:
+  future: "Майбутнє"
+  justNow: "Щойно"
+  secondsAgo: "{n}с тому"
+  minutesAgo: "{n}хв тому"
+  hoursAgo: "{n}г тому"
+  daysAgo: "{n}д тому"
+  weeksAgo: "{n} тиж. тому"
+  monthsAgo: "{n} міс. тому"
+  yearsAgo: "{n} р. тому"
+_time:
+  second: "Секунд(а)"
+  minute: "Хвилин(а)"
+  hour: "Годин(а)"
+  day: "Дня(днів)"
+_tutorial:
+  title: "Як використовувати Iceshrimp"
+  step1_1: "Ласкаво просимо!"
+  step1_2: "Давайте налаштуємо вас. Ви будете працювати в найкоротші терміни!"
+  step2_1: "Спочатку, будь ласка, заповніть свій профіль."
+  step2_2: "Після надання інформації про себе, іншим людям буде легше зрозуміти, чи
+    хочуть вони бачити ваші записи або стежити за вами."
+  step3_1: "Тепер настав час на когось підписатися!"
+  step3_2: "Ваша домашня і соціальна стрічки ґрунтуються на тому, за ким ви стежите,
+    тому для початку спробуйте стежити за кількома акаунтами.\nНатисніть на гурток
+    із плюсом у правому верхньому кутку профілю, щоб стежити за ним."
+  step4_1: "Давайте вийдемо на вас."
+  step4_2: "Для свого першого повідомлення деякі люди люблять робити {introduction}
+    повідомлення або просте \"Hello world!\""
+  step5_1: "Стрічки, скрізь одні стрічки!"
+  step5_2: "У вашому сервері включені {timelines} різні стрічки."
+  step5_3: "Головна {icon} стрічка - це стрічка, де ви можете бачити записи тих, на
+    кого ви підписалися."
+  step5_4: "Місцева {icon} стрічка - це стрічка, де ви можете бачити записи всіх інших
+    користувачів даного серверу."
+  step5_5: "Стрічка рекомендованих {icon} - це комбінація домашньої та місцевої стрічок."
+  step5_6: "На стрічці Рекомендованих {icon} ви можете бачити записи з серверів, які
+    рекомендують адміністратори."
+  step5_7: "Глобальна {icon} стрічка - це місце, де ви можете бачити записи від усіх
+    інших приєднаних серверів."
+  step6_1: "Отже, що це за місце?"
+  step6_2: "Ну, ви не просто приєдналися до Iceshrimp. Ви увійшли в Fediverse, взаємопов'язану
+    мережу з тисяч серверів."
+  step6_3: "Кожен сервер працює по-своєму, і не на всіх серверах працює Iceshrimp.
+    Але цей працює! Це трохи складно, але ви швидко розберетеся."
+  step6_4: "Тепер ідіть, вивчайте і розважайтеся!"
+_2fa:
+  registerSecurityKey: "Зареєструвати новий ключ безпеки"
+  registerTOTP: Зареєструйте новий пристрій
+  tapSecurityKey: Будь ласка, дотримуйтесь інструкцій вашого браузера, щоб зареєструвати
+    апаратний ключ безпеки або ключ-пароль
+  securityKeyName: Введіть назву ключа
+  chromePasskeyNotSupported: Паролі Chrome наразі не підтримуються.
+  renewTOTPOk: Переналаштувати
+  removeKey: Видалити ключ безпеки
+  alreadyRegistered: 2FA вже налаштовано.
+  step2Click: Натиснувши на цей QR-код, ви зможете зареєструвати 2FA у вашому ключі
+    безпеки або додатку-автентифікаторі для телефону.
+  step3Title: Введіть код автентифікації
+  step1: По-перше, встановіть програму 2FA (наприклад, {a} або {b}) на свій пристрій.
+  securityKeyNotSupported: Ваш браузер не підтримує ключі безпеки.
+  step4: Відтепер при наступних спробах входу в систему буде запитуватися такий токен.
+  securityKeyInfo: Окрім автентифікації за відбитком пальця або PIN-кодом, ви також
+    можете налаштувати автентифікацію за допомогою апаратних ключів безпеки, які підтримують
+    FIDO2, щоб додатково захистити свій обліковий запис.
+  removeKeyConfirm: Дійсно видалити ключ {name}?
+  whyTOTPOnlyRenew: Додаток автентифікатора не можна видалити, доки зареєстровано
+    ключ безпеки.
+  renewTOTP: Переналаштувати додаток-автентифікатор
+  renewTOTPCancel: Скасувати
+  renewTOTPConfirm: Це призведе до того, що коди підтвердження з попереднього додатку
+    перестануть працювати
+  token: 2FA Токен
+  registerTOTPBeforeKey: Будь ласка, налаштуйте додаток-автентифікатор, щоб зареєструвати
+    ключ безпеки або пароль.
+  step2Url: 'Також, ви можете ввести цю URL-адресу, якщо використовуєте десктопну
+    програму:'
+  step3: Введіть токен, наданий вашим додатком, щоб завершити налаштування.
+  step2: Потім відскануйте QR-код, що відображається на цьому екрані.
+_permissions:
+  "read:account": "Переглядати дані профілю"
+  "write:account": "Змінити дані акаунту"
+  "read:blocks": "Переглянути список заблокованих"
+  "write:blocks": "Редагувати список заблокованих"
+  "read:drive": "Переглянути вміст Диска"
+  "write:drive": "Змінювати вміст Диска"
+  "read:favorites": "Переглядати обране"
+  "write:favorites": "Змінювати обране"
+  "read:following": "Переглядати підписки"
+  "write:following": "Змінювати підписки"
+  "read:messaging": "Переглядати повідомлення"
+  "write:messaging": "Створювати та видаляти повідомлення"
+  "read:mutes": "Переглядати список ігнорованих"
+  "write:mutes": "Змінювати список ігнорованих"
+  "write:notes": "Створення та видалення записів"
+  "read:notifications": "Переглядати сповіщення"
+  "read:reactions": "Переглядати реакції"
+  "write:reactions": "Змінювати реакції"
+  "write:votes": "Голосувати в опитуваннях"
+  "read:pages": "Переглядати сторінки"
+  "write:pages": "Змінювати і видаляти сторінки"
+  "read:page-likes": "Переглядати вподобання сторінок"
+  "write:page-likes": "Змінювати вподобання сторінок"
+  "read:user-groups": "Переглядати групи користувача"
+  "write:user-groups": "Змінювати групи користувача"
+  "read:channels": "Переглядати канали"
+  "write:channels": "Змінювати канали"
+  "read:gallery": Переглянути галерею
+  "write:gallery": Редагування галереї
+  "read:gallery-likes": Переглянути список вподобаних записів галереї
+  "write:notifications": Керування сповіщеннями
+  "write:gallery-likes": Редагувати список вподобаних записів галереї
+_auth:
+  shareAccess: "Ви хочете надати \"{name}\" доступ до цього акаунту?"
+  shareAccessAsk: "Ви впевнені, що хочете надати цій програмі доступ до вашого акаунту?"
+  denied: "У доступі відмовлено"
+  allPermissions: Повний доступ до облікового запису
+  permissionAsk: 'Цей додаток запитує наступні дозволи:'
+  copyAsk: 'Будь ласка, вставте наступний код авторизації в додаток:'
+  pleaseGoBack: Будь ласка, поверніться до додатку
+  callback: Повернення до додатку
+  signedInAs: Увійшов як
+  authRequired: Потрібна авторизація
+_antennaSources:
+  all: "Усі записи"
+  homeTimeline: "Записи тих, на кого ви підписані"
+  instances: Записи від усіх користувачів на сервері
+  userGroup: Записи від користувачів у вказаній групі
+  users: Записи обраних користувачів
+  userList: Дописи користувачів із вказаного списку
+_weekday:
+  sunday: "Неділя"
+  monday: "Понеділок"
+  tuesday: "Вівторок"
+  wednesday: "Середа"
+  thursday: "Четвер"
+  friday: "П'ятниця"
+  saturday: "Субота"
+_widgets:
+  memo: "Нагадування"
+  notifications: "Сповіщення"
+  timeline: "Стрічка"
+  calendar: "Календар"
+  trends: "Тенденції"
+  clock: "Годинник"
+  rss: "RSS-читач"
+  activity: "Активність"
+  photos: "Фото"
+  digitalClock: "Цифровий годинник"
+  federation: "Федіверс"
+  postForm: "Створення запису"
+  slideshow: "Слайд-шоу"
+  button: "Кнопка"
+  onlineUsers: "Користувачі онлайн"
+  jobQueue: "Черга завдань"
+  serverMetric: "Показники сервера"
+  aiscript: "Консоль AiScript"
+  _userList:
+    chooseList: Оберіть список
+  meiliStatus: Стан сервера
+  meiliSize: Розмір індексу
+  rssTicker: RSS-тікер
+  unixClock: Годинник UNIX
+  userList: Список користувачів
+  serverInfo: Інформація про сервер
+  meiliIndexCount: Індексовані записи
+_cw:
+  hide: "Сховати"
+  show: "Показати більше"
+  chars: "{count} символів"
+  files: "{count} файлів"
+_poll:
+  noOnlyOneChoice: "Потрібні принаймні два варіанти"
+  choiceN: "Варіант {n}"
+  noMore: "Більше варіантів додати не можна"
+  canMultipleVote: "Можна вибрати кілька варіантів"
+  expiration: "Опитування закінчується"
+  infinite: "Ніколи"
+  at: "На даті…"
+  after: "Через…"
+  deadlineDate: "Дата закінчення"
+  deadlineTime: "г"
+  duration: "Тривалість"
+  votesCount: "{n} голосів"
+  totalVotes: "Всього {n} голосів"
+  vote: "Голосувати"
+  showResult: "Переглянути результати"
+  voted: "Проголосовано"
+  closed: "Завершено"
+  remainingDays: "Залишилось {d} днів {h} годин"
+  remainingHours: "Залишилось {h} годин {m} хвилин"
+  remainingMinutes: "Залишилось {m} хвилин {s} секунд"
+  remainingSeconds: "Залишилось {s} секунд"
+_visibility:
+  public: "Публічний"
+  publicDescription: "Ваш запис буде видно в усіх публічних стрічках"
+  home: "Домашній"
+  homeDescription: "Лише на домашній стрічці"
+  followers: "Підписники"
+  followersDescription: "Зробити видимим тільки для ваших підписників і згаданих користувачів"
+  specified: "Особисто"
+  specifiedDescription: "Лише для певних користувачів"
+  localOnly: "Локально"
+  localOnlyDescription: "Приховано для віддалених користувачів"
+_postForm:
+  replyPlaceholder: "Відповідь на цей допис…"
+  quotePlaceholder: "Прокоментуйте цей допис…"
+  channelPlaceholder: "Опублікувати у каналі…"
+  _placeholders:
+    a: "Чим займаєтесь?"
+    b: "Що відбувається навколо вас?"
+    c: "Що у вас на думці?"
+    d: "Що ви хочете висловити?"
+    e: "Напишіть тут, будь ласка…"
+    f: "Чекаю коли ви напишете…"
+_profile:
+  name: "Ім'я"
+  username: "Ім'я користувача"
+  description: "Про себе"
+  youCanIncludeHashtags: "Ви також можете включити хештеги у свій опис."
+  metadata: "Додаткова інформація"
+  metadataEdit: "Редагувати додаткову інформацію"
+  metadataDescription: "Ви можете вказати до чотирьох пунктів додаткової інформації
+    у своєму профілі. Ви можете додати тег {a} або {l} за допомогою {rel}, щоб підтвердити
+    посилання у своєму профілі!"
+  metadataLabel: "Назва"
+  metadataContent: "Вміст"
+  changeAvatar: "Змінити аватар"
+  changeBanner: "Змінити банер"
+  locationDescription: Якщо ви спочатку введете своє місто, іншим користувачам буде
+    показано ваш місцевий час.
+_exportOrImport:
+  allNotes: "Всі записи"
+  followingList: "Підписки"
+  muteList: "Ігнорувати"
+  blockingList: "Заблокувати"
+  userLists: "Списки"
+  excludeInactiveUsers: Вилучити неактивних користувачів
+  excludeMutingUsers: Вилучити заглушених користувачів
+_charts:
+  federation: "Федіверс"
+  apRequest: "Запити"
+  usersTotal: "Загальна кількість користувачів"
+  activeUsers: "Активні користувачі"
+  notesTotal: "Загальна кількість записів"
+  filesIncDec: "Зміни кількості файлів"
+  filesTotal: "Загальна кількість файлів"
+  storageUsageIncDec: Різниця в використанні ємності диску
+  remoteNotesIncDec: Різниця в кількості віддалених записів
+  notesIncDec: Різниця в кількості записів
+  localNotesIncDec: Різниця в кількості локальних записів
+  storageUsageTotal: Загальне використання пам'яті
+  usersIncDec: Різниця в кількості користувачів
+_instanceCharts:
+  requests: "Запити"
+  usersTotal: "Сумарна кількість користувачів"
+  notes: "Різниця в кількості зроблених записів"
+  notesTotal: "Сумарна кількість записів"
+  ff: "Різниця кількості підписників "
+  ffTotal: "Кількість підписників"
+  cacheSizeTotal: "Сумарний розмір кешу"
+  files: "Різниця в кількості файлів"
+  filesTotal: "Сумарна кількість файлів"
+  users: Різниця в кількості користувачів
+  cacheSize: Різниця в розмірі кешу
+_timelines:
+  home: "Домівка"
+  local: "Локальна"
+  social: "Соціальна"
+  global: "Глобальна"
+  recommended: Рекомендована
+_pages:
+  newPage: "Створити сторінку"
+  editPage: "Редагувати сторінку"
+  readPage: "Перегляд вихідного коду"
+  created: "Сторінка успішно створена"
+  updated: "Сторінка успішно оновлена"
+  deleted: "Сторінку видалено"
+  pageSetting: "Налаштування сторінки"
+  nameAlreadyExists: "Вказана адреса сторінки вже існує"
+  invalidNameTitle: "Вказана адреса сторінки неприпустима"
+  invalidNameText: "Переконайтеся, що поле заголовка сторінки не порожнє"
+  editThisPage: "Редагувати цю сторінку"
+  viewSource: "Переглянути вихідний код"
+  viewPage: "Переглянути свої сторінки"
+  like: "Вподобати"
+  unlike: "Не вподобати"
+  my: "Мої сторінки"
+  liked: "Вподобані сторінки"
+  featured: "Популярні"
+  inspector: "Інспектор"
+  contents: "Вміст"
+  content: "Блок сторінки"
+  variables: "Змінні"
+  title: "Заголовок"
+  url: "URL сторінки"
+  summary: "Короткий зміст"
+  alignCenter: "Рівняти елементи по центру"
+  hideTitleWhenPinned: "Приховати заголовок сторінки при закріпленні в профілі"
+  font: "Шрифт"
+  fontSerif: "шрифт Serif"
+  fontSansSerif: "Sans serif"
+  eyeCatchingImageSet: "Встановити привабливе зображення"
+  eyeCatchingImageRemove: "Видалити привабливе зображення"
+  chooseBlock: "Додати блок"
+  selectType: "Виберіть тип"
+  enterVariableName: "Введіть назву для змінної"
+  variableNameIsAlreadyUsed: "Ця назва вже використовується іншою змінною"
+  contentBlocks: "Контент"
+  inputBlocks: "Ввід"
+  specialBlocks: "Особливе"
+  blocks:
+    text: "Текст"
+    textarea: "Текстова область"
+    section: "Розділ"
+    image: "Зображення"
+    button: "Кнопка"
+    if: "Якщо"
+    _if:
+      variable: "Змінні"
+    post: "Створення нотатки"
+    _post:
+      text: "Вміст"
+      canvasId: "Ідентифікатор полотна"
+      attachCanvasImage: Прикріпити зображення полотна
+    textInput: "Введення тексту"
+    _textInput:
+      name: "Ім'я змінної"
+      text: "Назва"
+      default: "Значення за замовчуванням"
+    textareaInput: "Багаторядкове введення тексту"
+    _textareaInput:
+      name: "Ім'я змінної"
+      text: "Назва"
+      default: "Значення за замовчуванням"
+    numberInput: "Числове введення"
+    _numberInput:
+      name: "Ім'я змінної"
+      text: "Назва"
+      default: "Значення за замовчуванням"
+    canvas: "Полотно"
+    _canvas:
+      id: "Ідентифікатор полотна"
+      width: "Ширина"
+      height: "Висота"
+    note: "Вбудований запис"
+    _note:
+      id: "Ідентифікатор запису"
+      idDescription: "Також можна вказати посилання на запис."
+      detailed: "Детальний вигляд"
+    switch: "Перемикач"
+    _switch:
+      name: "Ім'я змінної"
+      text: "Назва"
+      default: "Значення за замовчуванням"
+    counter: "Лічильник"
+    _counter:
+      name: "Ім'я змінної"
+      text: "Назва"
+      inc: "Збільшити на"
+    _button:
+      text: "Напис"
+      colored: "Кольоровий"
+      action: "Дія кнопки"
+      _action:
+        dialog: "Показати повідомлення"
+        _dialog:
+          content: "Вміст"
+        resetRandom: "Скидання генератора випадковості"
+        pushEvent: "Надіслати подію"
+        _pushEvent:
+          event: "Назві події"
+          message: "Повідомлення для відображення при активації"
+          variable: "Змінна для надсилання"
+          no-variable: "Відсутньо"
+        callAiScript: "Виклик AiScript"
+        _callAiScript:
+          functionName: "Ім'я функції"
+    radioButton: "Вибір"
+    _radioButton:
+      name: "Ім'я змінної"
+      title: "Напис"
+      values: "Варіанти, розділені розривами рядків"
+      default: "Значення за замовчуванням"
+  script:
+    categories:
+      flow: "Керування потоком"
+      logical: "Логічні операції"
+      operation: "Обчислення"
+      comparison: "Порівняння"
+      random: "Випадковість"
+      value: "Значення"
+      fn: "Функції"
+      text: "Дії з текстом"
+      convert: "Перетворення"
+      list: "Списки"
+    blocks:
+      text: "Текст"
+      multiLineText: "Текст (багаторядковий)"
+      textList: "Текстовий список"
+      _textList:
+        info: "Використовувати новий рядок як роздільник для вводу"
+      strLen: "Довжина тексту"
+      _strLen:
+        arg1: "Текст"
+      strPick: "Вибрати символ"
+      _strPick:
+        arg1: "Текст"
+        arg2: "Розташування символу"
+      strReplace: "Заміна тексту"
+      _strReplace:
+        arg1: "Текст"
+        arg2: "Текст, який потрібно замінити"
+        arg3: "Заміняти на"
+      strReverse: "Перевернути текст"
+      _strReverse:
+        arg1: "Текст"
+      join: "Конкатенація тексту"
+      _join:
+        arg1: "Списки"
+        arg2: "Розділювач"
+      add: "Додати"
+      _add:
+        arg1: "A"
+        arg2: "B"
+      subtract: "Відняти"
+      _subtract:
+        arg1: "A"
+        arg2: "B"
+      multiply: "Помножити"
+      _multiply:
+        arg1: "A"
+        arg2: "B"
+      divide: "Поділити"
+      _divide:
+        arg1: "A"
+        arg2: "B"
+      mod: "Остача"
+      _mod:
+        arg1: "A"
+        arg2: "B"
+      round: "Десяткове округлення"
+      _round:
+        arg1: "Число"
+      eq: "A дорівнює B"
+      _eq:
+        arg1: "A"
+        arg2: "B"
+      notEq: "A не дорівнює B"
+      _notEq:
+        arg1: "A"
+        arg2: "B"
+      and: "А І Б"
+      _and:
+        arg1: "A"
+        arg2: "B"
+      or: "A АБО B"
+      _or:
+        arg1: "A"
+        arg2: "B"
+      lt: "< A менше, ніж B"
+      _lt:
+        arg1: "A"
+        arg2: "B"
+      gt: "> A більше, ніж B"
+      _gt:
+        arg1: "A"
+        arg2: "B"
+      ltEq: "<= A менше або дорівнює B"
+      _ltEq:
+        arg1: "A"
+        arg2: "B"
+      gtEq: ">= A більше або дорівнює B"
+      _gtEq:
+        arg1: "A"
+        arg2: "B"
+      if: "Умова"
+      _if:
+        arg1: "Якщо"
+        arg2: "Якщо так"
+        arg3: "Якщо ні"
+      not: "НЕ"
+      _not:
+        arg1: "НЕ"
+      random: "Випадково"
+      _random:
+        arg1: "Імовірність"
+      rannum: "Випадкове число"
+      _rannum:
+        arg1: "Мінімальне значення"
+        arg2: "Максимальне значення"
+      randomPick: "Випадковий вибір зі списку"
+      _randomPick:
+        arg1: "Списки"
+      dailyRandom: "Випадково (триває добу)"
+      _dailyRandom:
+        arg1: "Імовірність"
+      dailyRannum: "Випадкове число (триває добу)"
+      _dailyRannum:
+        arg1: "Мінімальне значення"
+        arg2: "Максимальне значення"
+      dailyRandomPick: "Випадково вибрати зі списку (триває добу)"
+      _dailyRandomPick:
+        arg1: "Списки"
+      seedRandom: "Випадковість (з насінням)"
+      _seedRandom:
+        arg1: "Насіння"
+        arg2: "Імовірність"
+      seedRannum: "Випадкове число (з насінням)"
+      _seedRannum:
+        arg1: "Насіння"
+        arg2: "Мінімальне значення"
+        arg3: "Максимальне значення"
+      seedRandomPick: "Випадково вибрати зі списку (з насінням)"
+      _seedRandomPick:
+        arg1: "Насіння"
+        arg2: "Списки"
+      DRPWPM: "Випадково вибрати зі зваженого списку (триває добу)"
+      _DRPWPM:
+        arg1: "Текстовий список"
+      pick: "Вибір зі списку"
+      _pick:
+        arg1: "Списки"
+        arg2: "Позиція"
+      listLen: "Отримати довжину списку"
+      _listLen:
+        arg1: "Списки"
+      number: "Число"
+      stringToNumber: "Текст на число"
+      _stringToNumber:
+        arg1: "Текст"
+      numberToString: "Число на текст"
+      _numberToString:
+        arg1: "Число"
+      splitStrByLine: "Розбиття тексту на рядки"
+      _splitStrByLine:
+        arg1: "Текст"
+      ref: "Змінні"
+      aiScriptVar: "Змінна AiScript"
+      fn: "Функція"
+      _fn:
+        slots: "Паз"
+        slots-info: "Використовувати нову лінію як роздільник пазів"
+        arg1: "Вивід"
+      for: "Повторення"
+      _for:
+        arg1: "Кількість повторень"
+        arg2: "Дія"
+    typeError: "Паз {slot} приймає \"{expect}\" тип, але надана змінна має тип \"\
+      {actual}\"!"
+    thereIsEmptySlot: "Паз {slot} пустий!"
+    types:
+      string: "Текст"
+      number: "Число"
+      boolean: "Прапорець"
+      array: "Списки"
+      stringArray: "Текстовий список"
+    emptySlot: "Пустий паз"
+    enviromentVariables: "Змінні середовища"
+    pageVariables: "Елемент сторінки"
+    argVariables: "Стрічка вводу"
+_relayStatus:
+  requesting: "Очікує затвердження"
+  accepted: "Затверджено"
+  rejected: "Відхилено"
+_notification:
+  fileUploaded: "Файл успішно завантажено"
+  youGotMention: "{name} згадує вас"
+  youGotReply: "{name} відповідає"
+  youGotQuote: "{name} цитує вас"
+  youRenoted: "{name} поширює"
+  youGotPoll: "{name} бере участь в опитуванні"
+  youGotMessagingMessageFromUser: "Повідомлення від {name}"
+  youGotMessagingMessageFromGroup: "Нове повідомлення в групі {name}"
+  youWereFollowed: "Новий підписник"
+  youReceivedFollowRequest: "Ви отримали запит на підписку"
+  yourFollowRequestAccepted: "Запит на підписку прийнято"
+  youWereInvitedToGroup: "Запрошення до групи"
+  _types:
+    all: "Все"
+    follow: "Підписки"
+    mention: "Згадка"
+    reply: "Відповіді"
+    renote: "Поширення"
+    quote: "Цитування"
+    reaction: "Реакції"
+    pollVote: "Опитування"
+    receiveFollowRequest: "Запити на підписку"
+    followRequestAccepted: "Прийняті підписки"
+    groupInvited: "Запрошення до груп"
+    app: "Сповіщення від додатків"
+    pollEnded: Опитування закінчено
+  _actions:
+    reply: "Відповісти"
+    renote: "Поширення"
+    followBack: також підписався на вас
+  emptyPushNotificationMessage: Push-сповіщення були оновлені
+  voted: проголосував на вашому опитуванні
+  renoted: поширив ваш запис
+  reacted: відреагував на ваш запис
+  pollEnded: Стали доступні результати опитування
+_deck:
+  alwaysShowMainColumn: "Завжди показувати головну колонку"
+  columnAlign: "Вирівняти стовпці"
+  addColumn: "Додати стовпець"
+  swapLeft: "Пересунути ліворуч"
+  swapRight: "Пересунути праворуч"
+  swapUp: "Пересунути вгору"
+  swapDown: "Пересунути вниз"
+  stackLeft: "У стовпчик вліво"
+  popRight: "Витягнути вправо"
+  profile: "Простір"
+  _columns:
+    main: "Головна"
+    widgets: "Віджети"
+    notifications: "Сповіщення"
+    tl: "Стрічка"
+    antenna: "Антена"
+    list: "Списки"
+    mentions: "Згадки"
+    direct: "Особисті повідомлення"
+    channel: Канал
+  newProfile: Новий простір
+  introduction2: Натисніть на + у правій частині екрана, щоб додавати нові стовпці
+    по бажанню.
+  configureColumn: Налаштування стовпців
+  introduction: Створіть ідеальний інтерфейс для себе, вільно розташовуючи стовпці!
+  widgetsIntroduction: Будь ласка, виберіть "Редагувати віджети" в меню колонки і
+    додайте віджет.
+  renameProfile: Перейменувати простір
+  deleteProfile: Видалити простір
+  nameAlreadyExists: Простір із такою назвою вже існує.
+removeReaction: Видалити вашу реакцію
+renoteMute: Ігнорувати поширення
+renoteUnmute: Показувати поширення
+flagSpeakAsCat: Говорити як кішка
+accessibility: Доступність
+priority: Пріорітет
+high: Високий
+customCss: Користувацькі CSS
+itsOn: Увімкнено
+showingPastTimeline: Наразі відображається стара стрічка
+enabled: Увімкнено
+noMaintainerInformationWarning: Інформація про супровідника не налаштована.
+recommended: Рекомендоване
+resolved: Вирішено
+itsOff: Вимкнено
+emailRequiredForSignup: Вимагати адресу електронної пошти для реєстрації
+moderation: Модерація
+selectInstance: Оберіть сервер
+instanceSecurity: Безпека сервера
+searchPlaceholder: Шукати в Федиверс
+editNote: Відредагувати запис
+enableEmojiReactions: Ввімкнути реакції емодзі
+low: Низький
+emailNotConfiguredWarning: Адрес електронної пошти не встановлено.
+unresolved: Не вирішено
+offline: Не в мережі
+disabled: Вимкнено
+configure: Налаштувати
+popularPosts: Популярні сторінки
+silenced: Ігнорується
+manageGroups: Керування групами
+active: Активний
+whatIsNew: Показати зміни
+deleted: Видалено
+selectChannel: Виберіть канал
+flagSpeakAsCatDescription: Ваші записи будуть няніфіковані у режимі кота
+userSaysSomethingReason: '{name} сказав(ла) {reason}'
+clear: Очистити
+userInfo: Інформація про користувача
+selectAccount: Оберіть обліковий запис
+switchAccount: Змінити обліковий запис
+accounts: Облікові записи
+switch: Змінити
+noBotProtectionWarning: Захист від ботів не налаштовано.
+gallery: Галерея
+recentPosts: Недавні сторінки
+privateModeInfo: Якщо увімкнено, лише сервери з білого списку можуть федеруватися
+  з вашим сервером. Всі повідомлення будуть приховані від публіки.
+troubleshooting: Вирішення проблем
+customCssWarn: Цей параметр слід використовувати лише тоді, коли ви знаєте, що він
+  робить. Введення неправильних значень може призвести до того, що клієнт перестане
+  нормально функціонувати.
+newer: новіші
+older: старіші
+addDescription: Додати опис
+notSpecifiedMentionWarning: У цьому записі згадуються користувачі, яких не було включено
+  до списку одержувачів
+markAllAsRead: Позначити все як прочитане
+userPagePinTip: Ви можете відображати записи тут, вибравши "Прикріпити до профілю"
+  в меню окремих записів.
+unknown: Невідомо
+onlineStatus: Онлайн-статус
+hideOnlineStatus: Приховати онлайн-статус
+online: В мережі
+breakFollow: Видалити підписника
+translate: Перекласти
+translatedFrom: Перекладено з {x}
+userSaysSomethingReasonQuote: '{name} цитував запис з {reason}'
+userSaysSomethingReasonRenote: '{name} поширив запис з {reason}'
+notRecommended: Не рекомендується
+botProtection: Захист від ботів
+instanceBlocking: Керування Федерацією
+privateMode: Приватний режим
+allowedInstances: Перелік дозволених серверів
+previewNoteText: Показати прев'ю
+antennaInstancesDescription: Введіть по одному хосту сервера на рядок
+breakFollowConfirm: Ви дійсно бажаєте видалити підписника?
+ads: Реклама
+cw: Попередження про вміст
+hiddenTags: Приховані хештеги
+noInstances: Немає серверів
+iceshrimpUpdated: Iceshrimp оновлено!
+received: Отримане
+xl: Надвеликий
+searchResult: Результати пошуку
+useBlurEffect: Використовувати ефекти розмиття в інтерфейсі
+learnMore: Дізнатися більше
+usernameInfo: Ім'я, яке ідентифікує ваш обліковий запис серед інших на цьому сервері.  Ви
+  можете використовувати алфавіт (a~z, A~Z), цифри (0~9) або знаки підкреслення (_).
+  Ім'я користувача не може бути змінено пізніше.
+noThankYou: Ні, дякую
+keepCw: Зберігати попередження про вміст
+showEmojisInReactionNotifications: Показувати емодзі у сповіщеннях про реакції
+accountMoved: 'Користувач мігрував на новий обліковий запис:'
+expandOnNoteClickDesc: Якщо цю опцію вимкнено, ви все одно зможете відкривати дописи
+  в меню, клацнувши правою кнопкою миші або натиснувши на мітку часу.
+deleteAccountConfirm: Це призведе до незворотного видалення вашого облікового запису.
+  Приступити?
+unread: Непрочитане
+filter: Фільтри
+useDrawerReactionPickerForMobile: Відображати вибирач реакцій як шухляду на мобільному
+  телефоні
+leaveGroupConfirm: Ви впевнені, що хочете залишити "{name}"?
+clickToFinishEmailVerification: Будь ласка, натисніть [{ok}], щоб завершити перевірку
+  електронної пошти.
+overridedDeviceKind: Тип пристрою
+themeColor: Колір теми серверу
+oneDay: Один день
+instanceDefaultLightTheme: Світла тема за замовчуванням для сервера
+oneWeek: Одна неділя
+instanceDefaultDarkTheme: Темна тема за замовчуванням для сервера
+video: Відео
+audio: Аудіо
+rateLimitExceeded: Перевищено ліміт
+numberOfPageCacheDescription: Збільшення цієї величини покращить зручність для користувачів,
+  але призведе до збільшення навантаження на сервер та використання більшої кількості
+  пам'яті.
+lastActiveDate: Останній раз використовувався у
+statusbar: Панель статусу
+speed: Швидкість
+sensitiveMediaDetection: Виявлення медіа з чутливим контентом
+cannotUploadBecauseNoFreeSpace: Завантаження не вдалося через брак місця на Диску.
+cannotUploadBecauseExceedsFileSizeLimit: Цей файл не може бути завантажений, оскільки
+  він перевищує максимально дозволений розмір.
+account: Обліковий запис
+move: Перемістити
+pushNotification: Push-сповіщення
+subscribePushNotification: Увімкнути push-сповіщення
+unsubscribePushNotification: Вимкнути push-сповіщення
+pushNotificationAlreadySubscribed: Push-сповіщення вже увімкнено
+enterSendsMessage: Натисніть Enter у повідомленнях, щоб надіслати повідомлення (якщо
+  вимкнено, то Ctrl + Enter)
+showAds: Показувати рекламу
+customMOTD: Користувацькі MOTD (повідомлення на заставці)
+customSplashIcons: Користувацькі іконки заставки (URL)
+splash: Заставка
+adminCustomCssWarn: Цей параметр слід використовувати, тільки якщо ви знаєте, що він
+  робить. Введення неправильних значень може призвести до того, що ВСІ клієнти перестануть
+  нормально працювати. Будь ласка, переконайтеся, що ваш CSS працює належним чином,
+  протестувавши його в налаштуваннях користувача.
+_filters:
+  followersOnly: Тільки підписники
+  fromUser: Від користувача
+  notesBefore: Записи до
+  withFile: Має вкладення
+  fromDomain: Тільки цей інстанс
+  notesAfter: Записи після
+  followingOnly: Тільки підписки
+  _dialog:
+    learnMore: Подивитися синтаксис пошукового фільтра
+    userDomain: Фільтрувати по автору, згаданих користувачах, користувачу, який відповів
+      або домену інстанса
+    attachmentType: Фільтрувати за типом прикріпленого файла/типами прикріплених файлів
+    info1: Текст у дужках означає доступні необов'язкові параметри фільтрації. Варіанти
+      параметрів відокремлюються символом pipe, '|'.
+    infoEnd1: Задля зручності і попередження помилок, деякі фільтри які вже мають
+      псевдоними, перелічені нижче.
+    title: Синтаксис пошукового фільтра
+    wordFilters: Фільтрувати за текстом дописа
+    inFilters: Фільтрувати за закладками та/або за статусом "Сподобалось"
+    miscFilters: Фільтрувати по відношенню до фоловера та/або типу приміток
+    postDate: Фільтрувати по даті публікації
+    exclusivity: Зауважте, що фільтр "before:" є ексклюзивним (виключаючим), тоді
+      як фільтр "after:" є інклюзивним (включаючим).
+    word: слово
+    phrase: буквальна фраза, яка містить (довільні) символи
+    matchOptions: Змінити чутливість до капіталізації літер та/або шукати повну відповідність
+    info: Номенклатура
+    info2: Тире у дужках, позначає здатність інвертувати/відкидати фільтр із символом
+      тире.
+    infoEnd: Фільтрувати за псевдонимами
+  replyTo: Відповідь на
+  mentioning: Згадування
+  inFavorites: Вподобання
+  inBookmarks: У закладках
+  repliesOnly: Тільки відповіді
+  excludeReplies: Виключаючи відповіді
+  excludeRenotes: Виключаючи бусти
+  caseSensitive: Враховувати капіталізацію літер
+  matchWords: Відповідати цілим словам
+sendModMail: Надіслати повідомлення про модерацію
+enableServerMachineStats: Увімкнути статистику серверного обладнання
+enableIdenticonGeneration: Увімкнути генерацію Identicon
+_sensitiveMediaDetection:
+  analyzeVideosDescription: Аналізує відео так само як і зображення. Це трохи збільшить
+    навантаження на сервер.
+  description: Зменшує навантаження на модерацію сервера завдяки автоматичному розпізнаванню
+    медіа з чутливим вмістом використовуючи машинне навчання. Це трохи збільшить навантаження
+    на сервер.
+  sensitivity: Чутливість виявлення
+  sensitivityDescription: Зменшення чутливості призведе до зменшення кількості хибних
+    спрацьовувань, тоді як збільшення чутливості призведе до зменшення кількості пропущених
+    спрацьовувань.
+  setSensitiveFlagAutomatically: Позначити як "Чутливий вміст"
+  setSensitiveFlagAutomaticallyDescription: Результати внутрішнього виявлення будуть
+    збережені, навіть якщо цю опцію вимкнено.
+  analyzeVideos: Ввімкнути аналіз відео
+_emailUnavailable:
+  used: Ця електронна пошта вже використовується
+  format: Формат цієї адреси електронної пошти є неправильним
+  mx: Цей сервер електронної пошти є недійсним
+  disposable: Використовувати одноразові адреси електронної пошти заборонено
+  smtp: Цей поштовий сервер не відповідає
+_messaging:
+  dms: Приватні
+  groups: Групи
+_instanceMute:
+  instanceMuteDescription: Це приховає всі записи/поширення із вказаних серверів,
+    включно з відповідями користувачам заглушеного серверу.
+  title: Приховує записи з перелічених серверів.
+  instanceMuteDescription2: Розділити новими рядками
+  heading: Список серверів для заглушення
+_dialog:
+  charactersExceeded: 'Перевищено максимальну кількість символів! Обмеження: {current}/{max}'
+  charactersBelow: 'Недостатньо символів! Обмеження: {current}/{min}'
+jumpToSpecifiedDate: Перейти до конкретної дати
+quitFullView: Закрити повний вигляд
+ffVisibility: Видимість підписок/підписників
+numberOfColumn: Кількість стовпців
+failedToFetchAccountInformation: Не вдалося отримати інформацію про обліковий запис
+reflectMayTakeTime: Може пройти деякий час, перш ніж зміни набудуть чинності.
+recentNHours: Останні {n} годин
+logoutConfirm: Ви впевнені, що хочете вийти?
+enableRecommendedTimeline: Увімкнути рекомендовану стрічку
+_accountDelete:
+  requestAccountDelete: Запросити видалення облікового запису
+  accountDelete: Видалити обліковий запис
+  mayTakeTime: Оскільки видалення облікового запису є ресурсоємним процесом, він може
+    зайняти деякий час, залежно від того, скільки контенту ви створили та скільки
+    файлів завантажили.
+  sendEmail: Коли ваш обліковий запис буде видалено, ми повідомимо на вказану вами
+    електронну пошту.
+  started: Процес видалення розпочався.
+  inProgress: Аккаунт видаляється
+_preferencesBackups:
+  deleteConfirm: Видалити резервну копію {name}?
+  applyConfirm: Ви дійсно хочете застосувати резервну копію "{name}" до цього пристрою?
+    Існуючі налаштування цього пристрою буде замінено.
+  saveConfirm: Зберегти резервну копію як {name}?
+  saveNew: Зберегти нову резервну копію
+  save: Зберегти зміни
+  inputName: Будь ласка, введіть назву для цієї резервної копії
+  loadFile: Завантажити з файлу
+  updatedAt: 'Оновлено: {date} {time}'
+  invalidFile: Неправильний формат файлу
+  apply: Застосувати до цього пристрою
+  list: Створені резервні копії
+  cannotSave: Збереження невдале
+  nameAlreadyExists: Резервна копія з назвою "{name}" вже існує. Будь ласка, введіть
+    іншу назву.
+  renameConfirm: Перейменувати цю резервну копію з "{old}" на "{new}"?
+  noBackups: Резервних копій немає. Ви можете створити резервну копію налаштувань
+    клієнта на цьому сервері за допомогою "Створити нову резервну копію".
+  createdAt: 'Створено: {date} {time}'
+  cannotLoad: Не вдалося завантажити
+  delete: Видалити резервну копію
+beta: Бета
+customMOTDDescription: Користувацькі повідомлення для MOTD (заставки), розділені новими
+  рядками, які будуть показуватися випадковим чином щоразу, коли користувач завантажує/перезавантажує
+  сторінку.
+replayTutorial: Перезапустити туторіал
+_forgotPassword:
+  ifNoEmail: Якщо ви не використовували електронну пошту під час реєстрації, зверніться
+    до адміністратора серверу.
+  enterEmail: Введіть адресу електронної пошти, яку ви використовували для реєстрації.
+    На неї буде надіслано посилання, за яким ви зможете скинути пароль.
+  contactAdmin: Цей сервер не підтримує використання адрес електронної пошти, будь
+    ласка, зверніться до адміністратора сервера, щоб скинути пароль.
+reactionPickerSkinTone: Бажаний колір шкіри емодзі
+addInstance: Додати сервер
+jumpToPrevious: Перейти до попереднього
+listsDesc: Списки дозволяють створювати стрічки із вказаними користувачами. Доступ
+  до них можна отримати на сторінці стрічок.
+channelFederationWarn: Канали наразі федеруються з іншими серверами
+lastCommunication: Останнє повідомлення
+edited: Відредаговано {date} о {time}
+confirmToUnclipAlreadyClippedNote: Цей запис уже в підбірці "{name}". Чи бажаєте ви
+  натомість видалити пост із підбірки?
+quickAction: Швидкі дії
+remoteOnly: Тільки віддалені
+failedToUpload: Помилка завантаження
+moveFrom: Мігрувати на цей обліковий запис зі старого облікового запису
+preventAiLearning: Захист від скрепінгу ШІ-ботів
+moveAccountDescription: Цей процес є незворотнім. Переконайтеся, що ви створили псевдонім
+  для цього акаунта в новому акаунті перед переїздом. Будь ласка, введіть тег акаунта
+  у форматі @person@server.com
+_signup:
+  almostThere: Майже готово
+  emailAddressInfo: Будь ласка, введіть свою адресу електронної пошти. Вона не буде
+    опублікована.
+  emailSent: На вашу електронну адресу ({email}) було надіслано лист із підтвердженням.
+    Будь ласка, перейдіть за посиланням, щоб завершити створення облікового запису.
+defaultValueIs: 'За замовчуванням: {value}'
+shareWithNote: Поділитися з записом
+classic: Відцентрований
+size: Розмір
+slow: Повільно
+alt: ALT
+auto: Автоматично
+oneHour: Одна година
+instanceDefaultThemeDescription: Введіть тему в форматі JSON.
+cropImageAsk: Чи бажаєте ви обрізати це зображення?
+noEmailServerWarning: Поштовий сервер не налаштовано.
+thereIsUnresolvedAbuseReportWarning: Є не розглянуті звіти.
+image: Зображення
+check: Перевірити
+isSystemAccount: Цей акаунт створений і автоматично управляється системою. Будь ласка,
+  не модеруйте, не редагуйте, не видаляйте та не втручайтеся в цей акаунт будь-яким
+  іншим чином, інакше це може призвести до поломки вашого серверу.
+document: Документація
+driveCapOverrideCaption: Ви можете скинути ємність до значення за замовчуванням, ввівши
+  значення 0 або менше.
+numberOfPageCache: Кількість кешованих сторінок
+pleaseSelect: Оберіть варіант
+refreshInterval: 'Інтервал оновлення'
+enableAutoSensitive: Автоматичне маркування "Чутливий контент"
+cannotUploadBecauseInappropriate: Цей файл не може бути завантажений тому що його
+  частина містить потенційний чутливий контент.
+sendPushNotificationReadMessageCaption: На короткий час буде показано сповіщення з
+  текстом "{emptyPushNotificationMessage}". Це може призвести до збільшення споживання
+  заряду акумулятора вашого пристрою, якщо це можливо.
+pushNotificationNotSupported: Ваш браузер або сервер не підтримує push-сповіщення
+showUpdates: Показувати спливаюче вікно при оновленні Iceshrimp
+updateAvailable: Можливо, є доступне оновлення!
+recommendedInstancesDescription: Рекомендовані сервери відокремлюються переведенням
+  рядка, щоб з'явитися на стрічці рекомендацій.
+caption: Автоматичний підпис
+showAdminUpdates: Вказати, що доступна нова версія Iceshrimp (тільки для адміністратора)
+defaultReaction: Емодзі реакція за замовчуванням для вихідних і вхідних записів
+license: Ліцензія
+indexPosts: Індексувати пости
+indexFrom: Індексувати записи з ID
+indexFromDescription: Залиште порожнім, щоб індексувати кожен запис
+indexNotice: Зараз відбувається індексація. Це, ймовірно, займе деякий час, будь ласка,
+  не перезавантажуйте сервер принаймні годину.
+signupsDisabled: Реєстрація на цьому сервері наразі відключена, але ви завжди можете
+  зареєструватися на іншому сервері! Якщо у вас є код запрошення на цей сервер, будь
+  ласка, введіть його нижче.
+findOtherInstance: Знайти інший сервер
+customKaTeXMacro: Користувацькі макроси KaTeX
+enableCustomKaTeXMacro: Увімкнути користувацькі макроси KaTeX
+apps: Додатки
+isModerator: Модератор
+isAdmin: Адміністратор
+isPatron: Патрон Iceshrimp
+swipeOnMobile: Дозволити гортання між сторінками
+migration: Міграція
+swipeOnDesktop: Дозволити свайп у мобільному стилі на десктопі
+logoImageUrl: URL-адреса зображення логотипу
+moveTo: Перенести поточний обліковий запис на новий
+moveFromDescription: Це встановить псевдонім вашого старого облікового запису, щоб
+  ви могли перейти зі старого облікового запису до цього поточного. Зробіть це ДО
+  переходу зі старого акаунта. Будь ласка, введіть тег акаунта у форматі @person@server.com
+moveToLabel: 'Обліковий запис, на який ви мігруєте:'
+moveAccount: Перемістити обліковий запис!
+moveFromLabel: 'Обліковий запис, з якого ви мігруєте:'
+_plugin:
+  install: Встановлення плагінів
+  manage: Керування плагінами
+  installWarn: Будь ласка, не встановлюйте ненадійні плагіни.
+_skinTones:
+  yellow: Жовтий
+  mediumLight: Помірно-світлий
+  medium: Помірний
+  mediumDark: Помірно-темний
+  dark: Темний
+  light: Світлий
+tenMinutes: 10 хвилин
+expandOnNoteClick: Відкрити запис кліком
+preferencesBackups: Резервне копіювання
+unlikeConfirm: Дійсно видалити вподобайку?
+fullView: Повний вигляд
+postToGallery: Опублікувати в галереї
+memo: Нотатки
+allowedInstancesDescription: Перелік серверів, з якіми дозволено федеруватись, кожен
+  відокремлено новим рядком (стосується лише приватного режиму).
+squareAvatars: Квадратні аватарки
+aiChanMode: Режим ШІ
+controlPanel: Панель керування
+manageAccounts: Керування обліковими записами
+incorrectPassword: Неправильний пароль.
+voteConfirm: Підтвердити свій голос за "{choice}"?
+leaveGroup: Залишити групу
+smartphone: Смартфон
+mutePeriod: Тривалість глушіння
+requireAdminForView: Ви маєте увійти з облікового запису адміністратора, щоб переглянути
+  це.
+fast: Швидко
+isBot: Цей обліковий запис є ботом
+isLocked: Цей обліковий запис має схвалення запитів на підписку
+silenceThisInstance: Ігнорувати цей сервер
+hideOnlineStatusDescription: Приховування вашого онлайн-статусу знижує зручність деяких
+  функцій, таких як пошук.
+accountDeletionInProgress: Наразі триває видалення облікового запису
+makeReactionsPublic: Зробити історію реакцій публічною
+continueThread: Показати наступні відповіді
+unmuteThread: Скасувати глушіння гілки
+ffVisibilityDescription: Дозволяє налаштувати, хто може бачити, на кого ви підписані
+  і хто підписаний на вас.
+tablet: Планшет
+cropImage: Обрізати зображення
+recentNDays: Останні {n} днів
+navbar: Панель навігації
+noGraze: Будь ласка, вимкніть розширення браузера "Graze для Mastodon", оскільки воно
+  заважає роботі Iceshrimp.
+preventAiLearningDescription: Попросити сторонні мовні моделі ШІ не вивчати вміст,
+  який ви завантажуєте, наприклад, записи та зображення.
+userSaysSomethingReasonReply: '{name} відповів на пост з {reason}'
+secureMode: Безпечний режим (Authorized Fetch)
+seperateRenoteQuote: Розділити кнопки поширення та цитати
+makeReactionsPublicDescription: Це зробить список усіх ваших минулих реакцій публічно
+  видимим.
+muteThread: Заглушити гілку
+sendPushNotificationReadMessage: Видаляти push-сповіщення після того, як відповідні
+  сповіщення або повідомлення будуть прочитані
+unclip: Видалити з підбірки
+silencedInstances: Ігноровані сервери
+typeToConfirm: Введіть {x} щоб підтвердити
+silencedWarning: Ця сторінка відображається тому, що ці користувачі з серверів, які
+  ваш адміністратор заглушив, тому вони потенційно можуть бути спамом.
+shuffle: Перетасувати
+ratio: Співвідношення
+secureModeInfo: У разі запитів з інших серверів не надсилати непідтверджену відповідь.
+pubSub: Облікові записи Pub/Sub
+driveCapOverrideLabel: Змінити ємність диску для цього користувача
+deleteAccount: Видалити обліковий запис
+type: Тип
+enableAutoSensitiveDescription: Дозволяє автоматично виявляти та позначати медіафайли
+  "Чутливий Контент" за допомогою машинного навчання, де це можливо. Навіть якщо цю
+  опцію вимкнено, вона може бути увімкнена на всьому сервері.
+recommendedInstances: Рекомендовані сервери
+noteId: Ідентифікатор запису
+showPopup: Сповіщати користувачів спливаючим вікном
+showWithSparkles: Показати з блиском
+youHaveUnreadAnnouncements: У вас є непрочитані оголошення
+donationLink: Посилання на сторінку для внесків
+neverShow: Не показувати знову
+remindMeLater: Можливо пізніше
+removeQuote: Видалити цитату
+removeRecipient: Видалити одержувача
+removeMember: Видалити члена
+silencedInstancesDescription: Вкажіть імена хостів серверів, які ви хочете ігнорувати.
+  Облікові записи на перелічених серверах вважаються "Ігнорованими", можуть робити
+  лише запити на підписку і не можуть згадувати локальні облікові записи, якщо на
+  них не підписалися. Це не вплине на заблоковані сервери.
+hiddenTagsDescription: 'Перелічіть хештеги (без #), які ви хочете приховати з трендів
+  і дослідження. Приховані хештеги все одно можна знайти іншими способами.'
+antennasDesc: "Антени показують нові дописи, що відповідають встановленим вами критеріям!\n
+  Доступ до них можна отримати зі сторінки стрічок."
+clipsDesc: Підбірки схожі на категоризовані закладки, до яких можна надавати спільний
+  доступ. Ви можете створювати підбірки з меню окремих записів.
+migrationConfirm: "Ви точно впевнені, що хочете перенести свій обліковий запис на
+  {account}? Якщо ви це зробите, ви не зможете скасувати цю операцію і не зможете
+  користуватися своїм обліковим записом як раніше.\nТакож, будь ласка, переконайтеся,
+  що ви вибрали цей поточний обліковий запис як обліковий запис, з якого ви переходите."
+customKaTeXMacroDescription: 'Налаштуйте макроси, щоб легко писати математичні вирази!
+  Позначення відповідає визначенню команд LaTeX і записується у вигляді \newcommand{\
+  name}{content} або \newcommand{\name}[number of arguments]{content}. Наприклад,
+  \newcommand{\add}[2]{#1 + #2} розширить \add{3}{foo} to 3 + foo. Фігурні дужки навколо
+  назви макросу можна змінити на круглі або квадратні. Це вплине на дужки, що використовуються
+  для аргументів. В одному рядку можна визначити один (і тільки один) макрос, і жоден
+  рядок не можна розривати посередині визначення. Неправильні рядки просто ігноруються.
+  Підтримуються лише прості функції заміни рядків; розширений синтаксис, такий як
+  умовне розгалуження, не може бути використаний тут.'
+activeEmailValidationDescription: Вмикає більш сувору перевірку адрес електронної
+  пошти, яка включає перевірку на наявність одноразових адрес і перевірку того, чи
+  дійсно з нею можна зв'язатися. Якщо цей прапорець знято, перевіряється лише формат
+  електронної пошти.
+customSplashIconsDescription: URL-адреси іконок для заставки, розділені новими рядками,
+  які будуть показуватися випадковим чином щоразу, коли користувач завантажує/перезавантажує
+  сторінку. Будь ласка, переконайтеся, що зображення знаходяться на статичній URL-адресі,
+  бажано, щоб вони були змінені до розміру 192x192.
+verifiedLink: Перевірене посилання
+_wellness:
+  newPostsButton: Увімкнути кнопку сповіщення про нові публікації
+  newPostsGlowOpacity: Прозорість нових дописів
+  immediacy: Терміновість
+  name: Благополуччя
+  description: Ці налаштування дозволяють коригувати можливе звикання або тривожні
+    аспекти які можуть викликати соціальні мережі. Виберіть налаштування, які краще
+    підходять для вас.
+hideFromHome: Сховати з основної стрічки
+expandAllCws: Відображати вміст для усіх відповідей
+collapseAllCws: Сховати вміст для усіх відповідей
+_feeds:
+  copyFeed: Копіювати стрічку
+  rss: RSS
+  atom: Atom
+  jsonFeed: Стрічка у форматі JSON
+cwStyle: Вигляд Попередження про Вміст
+alwaysExpandCws: Завжди розгортати дописи з попередженням про чутливий вміст
+antennaTimelineHint: Антенні показують відповідні пости у порядку, в кому вони були
+  отримані, що не обов'язково є хронологічним.
+cannotChangeScopeWhenEditing: Ви не можете змінити видимість цієї публікації під час
+  редагування
+openInMainColumn: Відкрити у головній стрічці
+searchEmptyQuery: Будь ласка, введіть пошуковий запит.
+_cwStyle:
+  modern: Сучасний
+  classic: Класичний (схожий на Misskey/Foundkey)
+  alternative: Альтернативний (схожий на Firefish)
+searchNotLoggedIn_1: Вам потрібно аутентіфікуватись для того, щоб юзати повнотекстний
+  пошук.
+searchNotLoggedIn_2: У будь-якому випадку, ви можете шукати використовуючи хештеги
+  та шукати користувачів.

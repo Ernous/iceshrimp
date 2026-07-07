@@ -1,0 +1,7 @@
+// suggested vscode settings
+{
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"gitlens.advanced.blame.customArguments": [
+		"--ignore-revs-file .git-blame-ignore-revs"
+	]
+}

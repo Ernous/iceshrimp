@@ -1,0 +1,23 @@
+{
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true
+    }
+  },
+	"formatter": {
+		"ignore": [
+			"packages/iceshrimp-sdk/api-extractor.json",
+			"packages/*/tsconfig.json",
+			"packages/*/built",
+			"packages/*/package-lock.json",
+			"packages/backend/src/server/web/manifest.ts",
+			"packages/backend/built/",
+			"*/model.json",
+			"*.md",
+			"**/tsconfig.json",
+			"*/.yml"
+		]
+	}
+}

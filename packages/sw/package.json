@@ -1,0 +1,18 @@
+{
+	"name": "sw",
+	"private": true,
+	"scripts": {
+		"build": "bun build src/sw.ts --outdir built --target browser",
+		"build:debug": "bun build src/sw.ts --outdir built --target browser",
+		"watch": "bun build src/sw.ts --outdir built --target browser --watch",
+		"lint": "biome check **/*.ts --apply",
+		"format": "biome format * --write"
+	},
+	"devDependencies": {
+		"@types/js-yaml": "4.0.5",
+		"iceshrimp-sdk": "workspace:*",
+		"idb-keyval": "^6.2.1",
+		"js-yaml": "4.1.0",
+		"tsup": "^8.5.1"
+	}
+}

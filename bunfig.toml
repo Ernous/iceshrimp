@@ -1,0 +1,11 @@
+[install]
+frozenLockfile = false
+# Реестр для @iceshrimp пакетов (summaly и др.)
+registry = "https://registry.npmjs.org/"
+
+[install.scopes]
+# @iceshrimp пакеты хостятся на собственном реестре iceshrimp
+iceshrimp = { url = "https://iceshrimp.dev/api/packages/iceshrimp/npm/" }
+
+[test]
+preload = ["reflect-metadata"]

@@ -1,0 +1,36 @@
+{
+	"name": "iceshrimp-sdk",
+	"version": "0.0.24",
+	"description": "iceshrimp SDK for JavaScript",
+	"main": "./built/index.js",
+	"types": "./built/index.d.ts",
+	"scripts": {
+		"build": "bun build src/*.ts --outdir built --target bun --external eventemitter3 --external reconnecting-websocket --external semver",
+		"build:dts": "bunx tsc --emitDeclarationOnly",
+		"render": "bun run build:dts && bun run api && bun run api-prod && cp temp/iceshrimp-sdk.api.json etc/ && bun run api-doc",
+		"api": "api-extractor run --local --verbose",
+		"api-prod": "api-extractor run --verbose",
+		"api-doc": "api-documenter markdown -i ./etc/",
+		"lint": "biome check --apply *.ts",
+		"format": "biome format --write *.ts"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://iceshrimp.dev/iceshrimp/iceshrimp.git"
+	},
+	"devDependencies": {
+		"@microsoft/api-documenter": "^7.22.21",
+		"@microsoft/api-extractor": "^7.36.0",
+		"@types/node": "^22",
+		"tsup": "^8.5.1",
+		"typescript": "^6.0.3"
+	},
+	"files": [
+		"built"
+	],
+	"dependencies": {
+		"eventemitter3": "^4.0.7",
+		"reconnecting-websocket": "^4.4.0",
+		"semver": "^7.3.8"
+	}
+}

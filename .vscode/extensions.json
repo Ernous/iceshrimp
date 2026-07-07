@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "eg2.vscode-npm-script",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "arcanis.vscode-zipfs",
+    "orta.vscode-twoslash-queries",
+    "biomejs.biome"
+  ]
+}

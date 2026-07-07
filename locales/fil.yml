@@ -1,0 +1,26 @@
+_lang_: "Filipino"
+monthAndDay: '{month}/{day}'
+noThankYou: Hindi, salamat
+you: Ikaw
+yearX: '{year}'
+language: Wika
+latestVersion: Pinakabagong bersiyon
+textColor: Kulay ng teksto
+_weekday:
+  monday: Lunes
+  tuesday: Martes
+  wednesday: Miyerkules
+  thursday: Huwebes
+  friday: Biyernes
+  saturday: Sabado
+_widgets:
+  notifications: Mga Abiso
+  clock: Orasan
+  calendar: Kalendaryo
+notifications: Mga Abiso
+currentVersion: Kasalukuyang bersiyon
+_tutorial:
+  step1_1: Maligayang pagdating!
+_mfm:
+  url: URL
+monthX: '{month}'

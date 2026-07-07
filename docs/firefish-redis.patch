@@ -1,0 +1,41 @@
+diff --git a/packages/backend/built/services/chart/core.js b/packages/backend/built/services/chart/core.js
+index 000b2f7..33d4031 100644
+--- a/packages/backend/built/services/chart/core.js
++++ b/packages/backend/built/services/chart/core.js
+@@ -3,7 +3,6 @@
+  *
+  * Tests located in test/chart
+  */ import { db } from "../../db/postgre.js";
+-import { getChartInsertLock } from "../../misc/app-lock.js";
+ import { addTime, dateUTC, isTimeBefore, isTimeSame, subtractTime } from "../../prelude/time.js";
+ import * as nestedProperty from "nested-property";
+ import promiseLimit from "promise-limit";
+@@ -224,6 +223,7 @@ export function getJsonSchema(schema) {
+         }
+         const date = Chart.dateToTimestamp(current);
+         const lockKey = group ? `${this.name}:${date}:${span}:${group}` : `${this.name}:${date}:${span}`;
++ const { getChartInsertLock } = await import("../../misc/app-lock.js");
+         const lock = await getChartInsertLock(lockKey);
+         try {
+             // ロック内でもう1回チェックする
+diff --git a/packages/backend/built/db/postgre.js b/packages/backend/built/db/postgre.js
+index 81d6238..a133c02 100644
+--- a/packages/backend/built/db/postgre.js
++++ b/packages/backend/built/db/postgre.js
+@@ -71,7 +71,6 @@ import { User } from "../models/entities/user.js";
+ import { Webhook } from "../models/entities/webhook.js";
+ import { entities as charts } from "../services/chart/entities.js";
+ import { dbLogger } from "./logger.js";
+-import { redisClient } from "./redis.js";
+ // TODO?: should we avoid importing things from built directory?
+ import { nativeInitDatabase } from "native-utils/built/index.js";
+ const sqlLogger = dbLogger.createSubLogger("sql", "gray", false);
+@@ -221,6 +220,8 @@ export async function initDb(force = false) {
+ }
+ export async function resetDb() {
+     const reset = async ()=>{
++ const { redisClient } = await import("./redis.js");
++
+         await redisClient.flushdb();
+         const tables = await db.query(`SELECT relname AS "table"
+    FROM pg_class C LEFT JOIN pg_namespace N ON (N.oid = C.relnamespace)

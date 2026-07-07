@@ -1,0 +1,53 @@
+{
+	"name": "iceshrimp",
+	"version": "2026.5.1",
+	"repository": {
+		"type": "git",
+		"url": "https://iceshrimp.dev/iceshrimp/iceshrimp.git"
+	},
+	"type": "module",
+	"private": true,
+	"scripts": {
+		"build": "bun run scripts/build-greet.js && bun run --cwd packages/iceshrimp-sdk build && bun run --cwd packages/backend build && bun run --cwd packages/client build && bun run --cwd packages/sw build && bun run scripts/assets.js",
+		"build:debug": "bun run scripts/build-greet.js && bun run --cwd packages/iceshrimp-sdk build && bun run --cwd packages/backend build:debug && bun run --cwd packages/client build && bun run --cwd packages/sw build && bun run scripts/assets.js",
+		"build:optimize": "bun run scripts/optimize.mjs",
+		"start": "bun run --cwd packages/backend start",
+		"start:debug": "bun run --cwd packages/backend start:debug",
+		"start:test": "bun run --cwd packages/backend start:test",
+		"init": "bun run migrate",
+		"migrate": "bun run --cwd packages/backend migrate",
+		"revertmigration": "bun run --cwd packages/backend revertmigration",
+		"migrateandstart": "bun run migrate && bun run start",
+		"dev": "bun run --cwd packages/backend start:dev",
+		"lint": "bun run --cwd packages/backend lint && bun run --cwd packages/client lint && bun run --cwd packages/sw lint && bun run --cwd packages/iceshrimp-sdk lint",
+		"format": "bun run --cwd packages/backend format && bun run --cwd packages/client format && bun run --cwd packages/sw format && bun run --cwd packages/iceshrimp-sdk format",
+		"clean": "bun run scripts/clean.js",
+		"clean-all": "bun run scripts/clean-all.js",
+		"cleanall": "bun run clean-all",
+		"focus-production": "bun run scripts/focus-production.js"
+	},
+	"workspaces": [
+		"packages/backend",
+		"packages/client",
+		"packages/sw",
+		"packages/iceshrimp-sdk"
+	],
+	"dependencies": {
+		"@bull-board/api": "5.6.0",
+		"@bull-board/ui": "5.6.0",
+		"esbuild": "^0.28.0",
+		"js-yaml": "4.1.0",
+		"seedrandom": "^3.0.5",
+		"yoctocolors": "^2.1.2"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.4.14",
+		"@types/node": "^22",
+		"chokidar": "^5.0.0",
+		"glob": "^13.0.6",
+		"typescript": "^6.0.3"
+	},
+	"engines": {
+		"bun": "^1.2.0"
+	}
+}
