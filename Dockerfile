@@ -6,8 +6,8 @@ WORKDIR /iceshrimp
 # Install compilation dependencies
 RUN apk add --no-cache --no-progress git alpine-sdk python3 py3-setuptools linux-headers brotli
 
-# Copy package files (lockfile будет сгенерирован bun install)
-COPY package.json ./
+# Copy package files + bunfig (нужен для @iceshrimp scoped registry)
+COPY package.json bunfig.toml ./
 COPY packages/backend/package.json packages/backend/
 COPY packages/client/package.json packages/client/
 COPY packages/sw/package.json packages/sw/
