@@ -36,6 +36,9 @@ RUN apk add --no-cache --no-progress tini ffmpeg zip unzip libheif-dev
 # Copy built files
 COPY --from=build /iceshrimp /iceshrimp
 
+# Удаляем re2 — он несовместим с Bun, заменён на нативный RegExp
+RUN rm -rf /iceshrimp/node_modules/re2
+
 ENV NODE_ENV=production
 VOLUME "/iceshrimp/files"
 ENTRYPOINT [ "/sbin/tini", "--" ]
