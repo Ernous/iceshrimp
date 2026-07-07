@@ -1,5 +1,5 @@
 import { MigrationInterface, QueryRunner } from "typeorm";
-import RE2 from "re2";
+import RE2 from "../re2-shim.js";
 
 export class convertHardMutes1644010796173 implements MigrationInterface {
 	name = "convertHardMutes1644010796173";

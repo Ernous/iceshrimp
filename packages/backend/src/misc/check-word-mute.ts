@@ -1,4 +1,4 @@
-import RE2 from "re2";
+import RE2 from "../re2-shim.js";
 import type { Note } from "@/models/entities/note.js";
 import type { User } from "@/models/entities/user.js";
 import { Packed } from "@/misc/schema.js";
