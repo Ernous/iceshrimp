@@ -13,8 +13,8 @@ COPY packages/client/package.json packages/client/
 COPY packages/sw/package.json packages/sw/
 COPY packages/iceshrimp-sdk/package.json packages/iceshrimp-sdk/
 
-# Install dependencies
-RUN bun install
+# Install dependencies (--trust разрешает postinstall скрипты, иначе re2 не соберётся)
+RUN bun install --trust
 
 # Copy source
 COPY . .
