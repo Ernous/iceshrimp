@@ -1,7 +1,6 @@
 // TODO: 消したい
 
 const interval = 30 * 60 * 1000;
-import { AttestationChallenges } from "@/models/index.js";
 import { LessThan } from "typeorm";
 
 /**
@@ -9,6 +8,7 @@ import { LessThan } from "typeorm";
  */
 export default function () {
 	async function tick() {
+		const { AttestationChallenges } = await import("@/models/index.js");
 		await AttestationChallenges.delete({
 			createdAt: LessThan(new Date(new Date().getTime() - 5 * 60 * 1000)),
 		});

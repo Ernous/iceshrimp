@@ -1,7 +1,6 @@
 import { db } from "@/db/postgre.js";
 import { Meta } from "@/models/entities/meta.js";
 import push from 'web-push';
-import { Metas } from "@/models/index.js";
 
 let cache: Meta;
 
@@ -38,6 +37,8 @@ export function fetchMetaSync(): Meta | null {
 
 export async function fetchMeta(noCache = false): Promise<Meta> {
 	if (!noCache && cache) return cache;
+
+	const { Metas } = await import("@/models/index.js");
 
 	// New IDs are prioritized because multiple records may have been created due to past bugs.
 	const meta = await Metas.findOne({
