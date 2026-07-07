@@ -13,10 +13,7 @@ packages/backend/.idea/vcs.xml
 node_modules
 report.*.json
 
-# Bun
-bun.lock
-bun.lockb
-*.bun
+# Bun (lockfile нужно коммитить для воспроизводимых сборок!)
 
 # Yarn (switched to Bun)
 .yarn/
@@ -73,6 +70,10 @@ packages/backend/assets/LICENSE
 
 #old pnpm
 pnpm*
+
+# Bun (генерируется на CI)
+bun.lock
+bun.lockb
 
 # Nix Development shell items
 .devenv

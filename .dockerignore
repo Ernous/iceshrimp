@@ -9,9 +9,7 @@ node_modules
 **/node_modules
 report.*.json
 
-# Bun
-bun.lock
-bun.lockb
+# Bun (не игнорируем — нужны для Docker сборки)
 
 # Rust
 packages/backend/native-utils/target
