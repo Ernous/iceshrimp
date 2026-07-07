@@ -22,43 +22,40 @@ export const themeProps = Object.keys(lightTheme.props).filter(
 	(key) => !key.startsWith("X"),
 );
 
+const _additionalThemeModules = import.meta.glob<{ default: Theme }>([
+	"@/themes/l-rosepinedawn.json5",
+	"@/themes/l-light.json5",
+	"@/themes/l-nord.json5",
+	"@/themes/l-gruvbox.json5",
+	"@/themes/l-coffee.json5",
+	"@/themes/l-apricot.json5",
+	"@/themes/l-rainy.json5",
+	"@/themes/l-vivid.json5",
+	"@/themes/l-cherry.json5",
+	"@/themes/l-sushi.json5",
+	"@/themes/l-u0.json5",
+	"@/themes/d-rosepine.json5",
+	"@/themes/d-rosepinemoon.json5",
+	"@/themes/d-dark.json5",
+	"@/themes/d-nord.json5",
+	"@/themes/d-gruvbox.json5",
+	"@/themes/d-catppuccin-frappe.json5",
+	"@/themes/d-catppuccin-mocha.json5",
+	"@/themes/d-persimmon.json5",
+	"@/themes/d-astro.json5",
+	"@/themes/d-future.json5",
+	"@/themes/d-botanical.json5",
+	"@/themes/d-green-lime.json5",
+	"@/themes/d-green-orange.json5",
+	"@/themes/d-cherry.json5",
+	"@/themes/d-ice.json5",
+	"@/themes/d-u0.json5",
+], { eager: false });
+
 export const getBuiltinThemes = () =>
 	Promise.all(
-		[
-			"l-rosepinedawn",
-			"l-light",
-			"l-nord",
-			"l-gruvbox",
-			"l-coffee",
-			"l-apricot",
-			"l-rainy",
-			"l-vivid",
-			"l-cherry",
-			"l-sushi",
-			"l-u0",
-
-			"d-rosepine",
-			"d-rosepinemoon",
-			"d-dark",
-			"d-nord",
-			"d-gruvbox",
-			"d-catppuccin-frappe",
-			"d-catppuccin-mocha",
-			"d-persimmon",
-			"d-astro",
-			"d-future",
-			"d-botanical",
-			"d-green-lime",
-			"d-green-orange",
-			"d-cherry",
-			"d-ice",
-			"d-u0"
-		].map((name) =>
-			import(`../themes/${name}.json5`).then(
-				({ default: _default }): Theme => _default,
-			),
-		),
-	).then(themes => [...themes, lightThemeBasic, darkThemeBasic]);
+		Object.values(_additionalThemeModules).map((loader) => loader().then((m) => m.default)),
+	).then((themes) => [...themes, lightThemeBasic, darkThemeBasic]);
 
 export const getBuiltinThemesRef = () => {
 	const builtinThemes = ref<Theme[]>([]);

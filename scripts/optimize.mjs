@@ -1,8 +1,12 @@
-import { readdirSync, readFileSync, writeFileSync } from "node:fs";
+import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import zlib from "node:zlib";
 
 function compressDir(dir, pattern) {
+	if (!existsSync(dir)) {
+		console.log(`skipping ${dir} (not found)`);
+		return;
+	}
 	console.log(`compressing ${dir}`);
 	for (const file of readdirSync(dir)) {
 		if (!pattern.test(file)) continue;

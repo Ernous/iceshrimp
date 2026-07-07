@@ -2,8 +2,8 @@
 	"name": "sw",
 	"private": true,
 	"scripts": {
-		"build": "bun build src/sw.ts --outdir built --target browser",
-		"build:debug": "bun build src/sw.ts --outdir built --target browser",
+		"build": "bun build src/sw.ts --outdir ../../built/_sw_dist_ --target browser",
+		"build:debug": "bun build src/sw.ts --outdir ../../built/_sw_dist_ --target browser",
 		"watch": "bun build src/sw.ts --outdir built --target browser --watch",
 		"lint": "biome check **/*.ts --apply",
 		"format": "biome format * --write"
