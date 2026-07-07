@@ -3,6 +3,7 @@ name: Docker
 on:
   push:
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -31,5 +32,4 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/${{ steps.owner.outputs.owner }}/iceshrimp:latest
-          cache-from: type=gha
-          cache-to: type=gha,mode=max
+          no-cache: true
